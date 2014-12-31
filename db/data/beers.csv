@@ -1,0 +1,4349 @@
+name,brewer_id,abv,style_id
+John Harvards Simcoe IPA,8481,5.4,1
+John Harvards Cristal Pilsner,8481,5.0,2
+John Harvards Fancy Lawnmower Beer,8481,5.4,3
+John Harvards Vanilla Black Velvet Stout,8481,0.0,4
+John Harvards American Brown Ale,8481,0.0,5
+John Harvards Grand Cru,8481,7.0,6
+John Harvards Belgian Tripel,8481,8.5,7
+John Harvards Cassis Wit,8481,0.0,8
+John Harvards Dr. Jekyll and Mr. Mild,8481,3.8,9
+John Harvards Yin Yang Lager,8481,4.5,10
+Barley Island Barrel-Aged Count Hopula,3228,8.0,11
+Barley Island Dirty &quot;Old&quot; Helen Sour Ale,3228,0.0,12
+Barley Island Sinister Minister Belgian Black Ale,3228,6.7,13
+Barley Island Goldilocks Belgian Blond,3228,7.0,6
+Barley Island Barfly IPA,3228,6.5,1
+Barley Island Maibock,3228,5.0,14
+Barley Island Dirty Helen Brown Ale,3228,4.3,5
+Barley Island Rust Belt Porter,3228,4.1,15
+Barley Island Cask Ale,3228,0.0,16
+Barley Island Belgian Witbier,3228,0.0,8
+Barley Island Humbugger Christmas Ale,3228,9.3,17
+Barley Island Franken Imperial Stout,3228,10.5,18
+Barley Island Brass Knuckles Oatmeal Stout,3228,4.9,4
+Barley Island Count Hopula Imperial IPA,3228,8.0,11
+Barley Island Bourbon Barrel-Aged Raspberry Oatmeal Stout,3228,0.0,4
+Barley Island Cask English Brown,3228,0.0,5
+Barley Island Damien,3228,8.9,19
+Barley Island Blonde Ambition,3228,0.0,20
+Barley Island 80 Schilling Export Ale &#40;2008 Replic Ale&#41;,3228,0.0,21
+Barley Island Oak Aged Sinister Minister Belgian Black Ale,3228,7.0,6
+Barley Island Beastie Barrel Stout,3228,6.0,22
+Barley Island Barrel Aged Barfly,3228,0.0,1
+Barley Island 60 Shilling Scotch Ale,3228,5.0,23
+Barley Island Bourbon Barrel-Aged Blackberry Oatmeal Stout,3228,0.0,4
+Barley Island Dubbel,3228,9.0,24
+Barley Island Black Majic Java Stout,3228,4.9,22
+Barley Island Muscles From Brussels Belgian-Style Black IPA,3228,10.2,19
+Barley Island Bourbon Barrel Aged Imperial Stout,3228,0.0,18
+Barley Island Shagbark Farmhouse Ale,3228,0.0,25
+Whose Ear Imperial Red,3228,9.5,11
+Barley Island New Harmony Naked Dunkel ReplicAle,3228,0.0,26
+Barley Island Blind Tiger Pale Ale,3228,4.8,27
+Barley Island Sheet Metal Blonde,3228,0.0,8
+Barley Island Single White Friar Ale,3228,10.0,19
+Barley Island Barrel Aged 2009 Replicale,3228,5.0,28
+Barley Island Beastie Barrel Porter,3228,0.0,15
+Barley Island 2009 Replicale,3228,0.0,28
+Barley Island Flat Belly Wheat &#40;Flat Top&#41;,3228,3.6,29
+Lucky Bucket Certified Evil 2009,10325,12.5,30
+Lucky Bucket Collaborative Evil 2009 &#40;Omaha&#41;,10325,8.0,19
+Lucky Bucket IPA,10325,6.3,1
+Lucky Bucket Oktoberfest,10325,0.0,31
+Lucky Bucket Collaborative Evil 2010,10325,0.0,32
+Lucky Bucket Smashed,10325,5.0,12
+Lucky Bucket Pre-Prohibition Lager,10325,4.5,33
+Lucky Bucket Mouton Noir,10325,5.0,12
+Lucky Bucket Certified Evil 2010,10325,10.0,34
+Dead Frog 2 ½ Year Anniversary Ale,712,4.5,35
+Dead Frog Fusion Hopped IPA,712,6.5,1
+Dead Frog Lager,712,5.0,10
+Dead Frog Pepper Lime Lager,712,5.0,36
+Dead Frog Chocolate Mint Brown Ale,712,5.0,5
+Dead Frog Mandarin Orange Amber Ale,712,5.0,37
+Dead Frog Nut Brown Ale,712,0.0,5
+Dead Frog Citra IPA,712,6.5,1
+Backwoods Maple Wheat,712,4.5,29
+überbrü,712,0.0,37
+Dead Frog Oaked Nut Brown,712,5.0,5
+Dead Frog Pale Ale,712,0.0,38
+Dead Frog Christmas Beeracle,712,5.0,17
+Dead Frog Honey Brown,712,0.0,37
+Dead Frog Toasted Coconut Wit,712,5.0,29
+Dead Frog Fusion Hopped Pilsner,712,5.0,39
+Dead Frog Sahti,712,0.0,13
+Backwoods Winter Warmer,712,7.0,17
+Alt Platz Jabo Hefeweizen,7812,4.5,40
+Alt Platz Alt Kürbis Pumpkin Ale,7812,16.5,17
+Alt Platz Blind Dog Grog Pale Ale,7812,5.5,1
+Alt Platz Hefenweasel DoppleWeisse,7812,8.38,40
+Alt Platz Mitey-Broo Stark Strong Ale,7812,8.0,15
+Alt Platz Victory for Freedom Helles,7812,5.0,20
+Alt Platz Sedona Bronze Ale,7812,5.75,37
+Alt Platz Automaton +P Märzen,7812,10.0,31
+Alt Platz Scourge of Olde Town I.P.A.,7812,5.9,1
+Sailor Hagars Hefeweizen,1075,0.0,40
+Sailor Hagars Marionberry Weizen,1075,0.0,36
+Sailor Hagars Honey Pilsner,1075,4.5,39
+Sailor Hagars Oatmeal Stout,1075,0.0,22
+Sailor Hagars Lohins ESB,1075,5.4,41
+Sailor Hagars Sherpa Smoked Porter,1075,7.5,35
+Sailor Hagars Star of India IPA,1075,0.0,1
+Sailor Hagars Narwhal Pale Ale,1075,4.1,38
+Sailor Hagars Maple Cream,1075,0.0,42
+Sailor Hagars Bengal IPA,1075,6.0,1
+Sailor Hagars Peak Lager,1075,0.0,10
+Sailor Hagars Jewel in the Crown IPA,1075,0.0,1
+Sailor Hagars Maibock,1075,0.0,14
+Sailor Hagars Wee Heavy,1075,0.0,23
+Sailor Hagars Monsoon IPA,1075,0.0,1
+Sailor Hagars Clear Cut Lager,1075,5.0,10
+Sailor Hagars SSSteam,1075,0.0,43
+Sailor Hagars Grizzly Nut Brown,1075,4.3,5
+Sailor Hagars Scandinavian Amber Lager,1075,5.6,44
+Sailor Hagars Belgian Wit,1075,4.75,8
+Sailor Hagars Thors Hammer,1075,12.0,45
+Eick Bräu Gievitzer Doppelbock,8802,7.0,46
+Eick Bräu Aria,8802,5.0,28
+Morino Kikukawa Junmai Ginjo Sake,9002,15.0,47
+Willoughby Peace Keeper,10793,3.8,20
+Willoughby Trust Gold,10793,3.8,20
+Willoughby Tried and Trusted,10793,4.2,16
+Siboire Sherloup,9253,5.5,27
+Siboire APAisante,9253,5.0,27
+Siboire Trip dAutomne IV,9253,7.0,7
+Siboire IABA &#40;Imperial American Brown Ale&#41;,9253,8.5,48
+Siboire McMaple,9253,7.2,23
+Siboire McAmen,9253,7.2,23
+Siboire bIPAp,9253,7.7,11
+Siboire EPA,9253,0.0,1
+Siboire Ange ou Démone,9253,6.5,24
+Siboire Gilberator,9253,6.0,49
+Siboire Black IPA,9253,0.0,50
+Siboire rIPAille,9253,6.5,1
+Siboire BleuAle,9253,4.7,36
+Siboire IPA,9253,6.5,1
+Siboire Oktoberfest,9253,5.3,31
+Siboire Quaker Stout,9253,5.0,22
+Siboire Nut Brown,9253,0.0,5
+Siboire Barley Wine,9253,10.5,45
+Siboire Bastaard IPA,9253,6.0,1
+Siboire Trip dAutomne III,9253,7.0,7
+Siboire Mrs. Pepperpot,9253,4.8,17
+Siboire Dépraguée,9253,5.3,2
+Siboire InsPirAtion,9253,5.9,1
+Siboire Imperial Pilsner,9253,8.0,51
+Siboire Ingénieuse,9253,4.3,52
+Siboire minIPA,9253,4.2,1
+Siboire McEis,9253,10.7,53
+Siboire Dunkelweizen,9253,5.6,54
+Siboire AAA,9253,5.0,37
+Siboire Hop n Cream,9253,5.0,42
+Siboire Trip d’Automne V,9253,8.4,7
+Siboire Impérial Express,9253,10.0,18
+Siboire l’Effeuilleuse,9253,5.3,17
+Siboire Calvaire,9253,5.0,38
+Siboire Munich,9253,5.0,44
+Siboire Moonbee,9253,5.0,20
+Siboire Capricieuse,9253,5.0,29
+Siboire California Common,9253,5.7,43
+Badgers Hill Farm Pippin Cider Dry,163,8.0,55
+WestParkBräu 1516 Weissbier,4054,5.4,40
+WestParkBräu 1516 Dunkel,4054,5.9,26
+WestParkBräu 1516 Hell,4054,4.7,56
+WestParkBräu 1516 WeiPi,4054,5.1,40
+Schäffler Bräu Allgäu-Radler,3407,2.6,36
+Schäffler Bräu Premium Pils,3407,4.9,57
+Schäffler Bräu Weisser Bock,3407,6.3,58
+Schäffler Bräu Leichte Weisse,3407,3.0,40
+Schäffler Bräu Dunkle Weisse,3407,5.4,54
+Schäffler Bräu Franz Anton Schäffler Triple,3407,10.5,7
+Schäffler Bräu Winterzauber,3407,5.2,31
+Schäffler Bräu Oster-Festbier,3407,5.2,31
+Schäffler Bräu Premium Gold,3407,5.2,56
+Schäffler Bräu Zwickl,3407,4.9,59
+Schäffler Bräu Weissbier,3407,5.2,40
+Yaegaki Black Bottle Junmai Kuro-Bin Sake,4165,14.5,60
+Yaegaki Junmai Yamadanishiki Sake,4165,16.5,60
+Yaegaki Nigori Sake,4165,16.0,61
+Yaegaki Mu &#40;Nothingness&#41; Junmai Daiginjo Sake,4165,16.5,62
+enSante Winery Mellow Gold Mead,11715,10.5,63
+Oakwood Farm Green Horse/Oldfield Perry,10952,6.0,64
+Oakwood Farm Organic Perry,10952,6.5,64
+Oakwood Farm English Organic Cider,10952,6.0,55
+Oakwood Farm Organic Discovery Cider,10952,7.8,55
+Brothers Honey Brewed Amber Ale,1448,0.0,37
+Brothers Classic Gold,1448,0.0,20
+Kotayk Moskovyan,2495,4.2,10
+Kotayk Cani,2495,5.2,10
+Erebuni,2495,6.4,51
+Kotayk Lager,2495,5.2,33
+Kotayk Gold,2495,5.6,10
+Kotayk Dark,2495,6.2,26
+Andorfer Weizen,3324,4.8,40
+Andorfer Helles Zwickl,3324,4.6,59
+Andorfer Weizen Bock,3324,6.8,58
+Andorfer Weihnachtsbock &#40;Weizendoppelbock&#41;,3324,7.7,58
+Andorfer Weizen Leicht,3324,3.2,40
+Hermanns Dunkler Druide Hefe-Weizen,577,5.3,54
+Hirschbrauerei Ergenzingen Hirsch Weisse Hefe-Dunkel,577,5.2,54
+Wernecker Radler,577,2.5,36
+Wernecker Bayerisch Landbier Hell,577,4.6,56
+Wernecker Laurentius Unfiltriertes Kellerbier,577,5.5,59
+Hirschbrauerei Ergenzingen Hell Export Spezialbier,577,5.2,56
+Wernecker Haustrunk Pils,577,4.8,39
+Hirschbrauerei Ergenzingen Hirschle Bock,577,6.8,14
+Hirschbrauerei Ergenzingen Hirsch Weisse Hefe Hell,577,5.2,40
+Wernecker Hefe Weisse,577,5.3,40
+Wernecker Weihnachtsbier,577,5.5,31
+Wernecker Fränkischer LandBock,577,7.8,46
+Wernecker Hefe Dunkel,577,5.2,54
+Hirschbrauerei Ergenzingen Hirschle Pils,577,4.7,57
+Hermanns Cherusker König Landbier,577,4.6,59
+Wernecker Basta Blond,577,4.7,17
+Wernecker Fränkischer Hopfen-Fluch,577,8.1,1
+Wernecker Basta Green,577,2.5,36
+Wernecker Pils Premium,577,4.9,57
+Wernecker Bayerisch Dunkel,577,4.9,26
+Hirschbrauerei Ergenzingen Weihnachtsbier Märzen-Exportbier,577,5.6,31
+Hirschbrauerei Ergenzingen Dunkel Export Spezialbier,577,5.2,26
+Wernecker Bayerisch Hell,577,4.6,56
+Fränkisches Gold Stück,577,5.0,57
+Wernecker Bayerisch Landbier Dunkel,577,4.9,26
+Seven Sisters Hard Pear Cider,2461,4.5,64
+Seven Sisters Hard Apple Cider,2461,4.5,55
+Coalition Mr. Pigs Pale Ale,12062,5.0,27
+Coalition Wu Cream Ale,12062,4.8,42
+Coalition Wheat The People,12062,4.4,29
+Coalition King Kitty Red,12062,5.74,37
+Coalition Hanso Vs. Bulleit,12062,6.4,22
+Coalition Loving Cup Maple Porter,12062,5.48,15
+Coalition Bump’s Bitter ESB,12062,5.5,41
+Coalition Liquid Sterling Fresh Hop Common,12062,5.0,27
+Coalition Hanso Stout,12062,6.8,22
+Coalition The Green Pig Fresh Hop Pale,12062,5.2,27
+Coalition Two Dogs IPA,12062,6.1,1
+Vista d’Oro Homestead Estate Cider,12617,7.0,55
+Killerton Estate Cider,7294,6.0,55
+Spreewalder Pils,3423,0.0,39
+Spreewalder Weizen,3423,0.0,40
+Spreewalder Zwickel,3423,0.0,59
+Spreewalder Bock,3423,0.0,49
+Spreewalder Dunkel,3423,0.0,26
+Spreewalder Märzen,3423,0.0,31
+Spreewalder Schwarzbier,3423,0.0,65
+Spreewalder Spreelator,3423,7.4,46
+Valhalla Porter,8153,5.9,15
+Valhalla Red Ale,8153,4.6,37
+Canterbury The Prince’s Ale,12428,4.0,20
+Canterbury The Miller’s Ale,12428,4.2,16
+Canterbury The Wife of Bath’s Ale,12428,3.9,20
+Canterbury The Reeve’s Ale,12428,4.1,16
+Big River Grille House Brand IPA,2367,5.9,1
+Big River Grille Hoppy Brown,2367,0.0,5
+Big River Grille C-Hop Pale Ale,2367,5.9,1
+Big River Grille Maibock,2367,0.0,14
+Big River Grille Holiday Porter,2367,0.0,15
+Big River Grille Scottish Ale,2367,0.0,21
+Big River Grille Sweet Magnolia American Brown Ale,2367,5.18,5
+Big River Grille 16th Avenue Pilsner,2367,0.0,39
+Big River Grille Spiced Pumpkin Ale,2367,0.0,17
+Big River Grille Seven States Pilsener,2367,4.95,39
+Big River Grille Firecracker Ale,2367,0.0,5
+Big River Grille Wild Mild,2367,0.0,9
+Big River Grille Winters Nip Winter Porter,2367,0.0,15
+Big River Grille Black Cherry Porter,2367,0.0,15
+Big River Grille Wowzers Summer Wheat,2367,4.0,29
+Big River Grille Rocket Red Ale,2367,4.7,37
+Big River Grille Imperial 375 Pale Ale,2367,5.5,27
+Big River Grille Toasted Oat Pale Ale,2367,0.0,38
+Big River Grille Espresso Stout,2367,4.2,4
+Big River Grille Lemon Lager,2367,0.0,36
+Big River Grille Irish Red Ale,2367,0.0,52
+Big River Grille Oktoberfest,2367,0.0,31
+Big River Grille Vienna Lager,2367,5.23,44
+Big River Grille California Common,2367,5.2,43
+Big River Grille Iron Horse Stout,2367,5.6,22
+Big River Grille Winters Nip Winter Bock,2367,0.0,49
+Big River Grille Irish Red Lager,2367,0.0,44
+Big River Grille Southern Flyer Light Lager,2367,3.61,10
+Staffelberg-Bräu Doppel-Bock,1970,7.0,46
+Staffelberg-Bräu Heller Bock,1970,6.5,14
+Staffelberg-Bräu Loffelder Dunkel,1970,5.0,26
+Wernsdörfer Landbier,1970,5.0,59
+Staffelberg-Bräu Festbier,1970,5.5,31
+Staffelberg-Bräu Loffelder Alkoholfrei,1970,0.0,66
+Staffelberg-Bräu Hefe-Weissbier,1970,5.2,40
+Staffelberg-Bräu Antonius Bock,1970,8.0,58
+Staffelberg-Bräu Hopfen-Gold Pils,1970,4.9,39
+Staffelberg-Bräu Hefe-Weizen Alkoholfrei,1970,0.0,66
+Staffelberg-Bräu Landbier Hell,1970,5.0,56
+Staffelberg-Bräu Sommer-Bier,1970,5.0,59
+Staffelberg-Bräu Märzen,1970,5.5,31
+Silverton Presidential Porter,6040,6.8,15
+Silverton Imogene Pass Ale,6040,6.8,1
+Silverton Red Mountain Ale,6040,6.5,52
+Silverton Gold Mine Lager,6040,0.0,56
+Silverton Ice Pick Ale,6040,6.8,1
+Silverton Pale Ale,6040,5.0,27
+Silverton Bear Ass Brown,6040,4.0,5
+Silverton Barely Legal Barley Wine,6040,12.0,45
+Silverton Coal Bank Stout,6040,9.8,18
+Silverton Snow Melt Sour,6040,5.2,67
+Silverton Mine Tailings Marzen,6040,0.0,31
+Silverton Mountain Honey Pale Ale,6040,6.9,27
+Silverton Ladder Truck Lager,6040,4.5,44
+Ziegler-Bräu Zieglers 1847,8020,5.0,59
+Het Klaverblad Klaver Weizen,8020,5.0,40
+Het Klaverblad Klaver Dort,8020,5.5,56
+Het Klaverblad Klaver Donker,8020,5.5,26
+Ziegler-Bräu Böhms Böhmisches Pils,8020,5.0,2
+Ziegler-Bräu Kappl Weisse,8020,5.1,40
+Phoenix Amersfoort Bok,8020,6.5,49
+Chebské Hradní Sv&#283;tlý Ležák 12°,8020,5.2,2
+Ziegler-Bräu Pils,8020,5.0,57
+Ziegler-Bräu Hell,8020,4.9,56
+Ziegler-Bräu  Waldsassener Stifts Trunk,8020,5.5,26
+Ziegler-Bräu Export,8020,5.4,56
+Ziegler-Bräu Edel-Dinkel Naturtrüb,8020,5.0,68
+Ziegler-Bräu Böhms Böhmisches Dunkel,8020,5.0,26
+Ziegler Bräu Stifts-Urtrunk,8020,0.0,59
+Het Klaverblad Phoenix Bokbier,8020,7.0,46
+Phoenix Amersfoort Lentebok,8020,7.2,14
+Chebské Hradní Sv&#283;tlý Ležák 11°,8020,4.7,2
+Ziegler-Bräu Heller Bock,8020,7.5,14
+Het Klaverblad Phoenix Amersfoort Export 70-07,8020,5.5,56
+Gotlandsdricke,1585,9.0,13
+O’Malley’s Kilkenny Export Ale,5294,4.8,41
+O’Malley’s Gold Sheaf,5294,4.0,10
+O’Malley’s Tullaroan Supreme,5294,4.5,41
+Adam Ravbar Kvasno Meš Pivo,2978,4.5,26
+Sokol Svetlo Pivo,2978,4.5,59
+Adam Ravbar Kvasno Svetlo Pivo,2978,4.5,2
+Adam Ravbar Kvasno Temno Pivo,2978,4.5,65
+Félibre Pommé,5240,10.0,55
+Félibre Fruit Défendu,5240,10.0,55
+Hilsenbecks Keltengold,5330,5.1,56
+Gruibingener Weihnachtsbier,5330,5.3,31
+Hilsenbecks Brunnenbier,5330,5.1,59
+Hilsenbecks Gruibinger Sommerbier,5330,4.9,39
+Gruibingener Meister-Bock,5330,7.0,49
+Weilimdorfer Winterbier,5330,5.1,33
+Hilsenbecks Stiefel Pils,5330,4.8,57
+Hilsenbecks Dorfbräu Export,5330,5.1,56
+Quigleys Swamp Fox IPA,9812,0.0,1
+Quigleys Nut Brown Ale,9812,0.0,5
+Quigleys Neck Red Ale,9812,0.0,41
+Quigleys Irish Stout,9812,0.0,22
+Quigleys Longboard Lager,9812,0.0,33
+Quigleys White Ale,9812,0.0,8
+Quigleys Hefeweizen,9812,0.0,40
+Hebridean Clansman,3489,3.9,16
+Hebridean Pagan Dark,3489,4.8,16
+Hebridean An Gael Ur,3489,5.0,16
+Hebridean Moo-Coo Brew,3489,4.4,16
+Hebridean Island Mist,3489,4.3,16
+Hebridean Celtic Black Ale,3489,3.9,15
+Hebridean Berserker,3489,7.5,70
+Hebridean Fagan,3489,4.8,16
+Hebridean Seaforth Ale,3489,4.2,20
+Hebridean Islander,3489,4.8,41
+Mont des Cats,12,7.6,6
+Chimay Dorée / Refterbier,12,4.8,6
+Port Dock Old Preacher,2524,0.0,70
+Port Dock Ginja,2524,3.0,17
+Port Dock Hop Field Premium Lager,2524,0.0,10
+Port Dock Ale,2524,4.5,20
+Port Dock PowerZ,2524,0.0,39
+Port Dock Black Diamond Bitter,2524,5.0,16
+Port Dock Black Bart Milk Stout,2524,5.8,4
+Salzscheuer Dunkler Dieter,10912,5.1,65
+Clément Larivière La Ruée vers lOr,9158,11.5,55
+Cl&#233;ment Larivi&#232;re Bonhomme Hiver,9158,12.5,69
+Pints Pub Alchemy ESB,3087,0.0,41
+Pints Pub Phonebox Amber,3087,0.0,37
+Pints Pub Bitchcraft Blonde Ale,3087,0.0,20
+Pints Pub Lancer India Pale Ale,3087,0.0,1
+Pints Pub Gael Force Ale,3087,0.0,21
+Pints Pub Dark Star Ale,3087,0.0,5
+Pints Pub Black Ajax Stout,3087,0.0,71
+Pints Pub John Bull Brown,3087,0.0,5
+Pints Pub Airedale Pale Ale,3087,0.0,38
+Pints Pub Czechmate Pilsner,3087,0.0,2
+Pints Pub Idyll Weiss,3087,0.0,40
+Dewazakura Ouka Ginjoshu Yamadanishiki Sake,4438,16.5,47
+Dewazakura &#40;Green Ridge&#41; Daiginjo Sake,4438,16.7,62
+Dewazakura &#40;Green Ridge&#41; Izumi Judan Ginjo Sake,4438,17.5,47
+Dewazakura &#40;Green Ridge&#41; Junmai Daiginjo Sake,4438,15.0,62
+Dewazakura &#40;Green Ridge&#41; Dewasansan Tobiroku Tokubetsu Sparkling Sake,4438,15.5,61
+Dewazakura &#40;Green Ridge&#41; Ginjo Sake,4438,15.5,47
+Dewazakura &#40;Green Ridge&#41; Junmai Ikkou Sake,4438,15.5,60
+Fenton American Amber Ale,11796,5.25,37
+Fenton Brewery Unbridled IPA,11796,6.3,1
+Fenton Nut Brown Ale,11796,7.35,5
+Battlefield Khe Sahn Marzen,11011,5.5,31
+Battlefield Chosin Reservoir Pilsener,11011,5.3,39
+Battlefield Belleau Wood,11011,5.3,6
+Battlefield Iwo Jima Red Ale,11011,6.4,52
+Battlefield Cold Harbor Winter Porter,11011,6.6,15
+Battlefield Spotsylvania Scottish 70,11011,4.0,21
+Battlefield Oktoberfest,11011,5.6,31
+Battlefield Wilderness Wheat,11011,0.0,29
+Battlefield Coral Sea Kolsch,11011,5.0,3
+Battlefield Chancellor Pale Ale,11011,5.5,27
+Flock Inn Bois Baaach,8440,3.8,16
+Flock Inn Ewe-Phoria,8440,4.2,16
+Flock Inn Shear Delight,8440,4.2,16
+Kannah Creek Standing Wave Pale Ale,7314,5.2,27
+Kannah Creek Island Mesa Blonde,7314,4.2,20
+"Chimay Blue, Grand Reserve",12,9.0,19
+"Chimay Triple, Blanche, Cinq Cents",12,8.0,7
+"Chimay Rouge, Red Premiere",12,7.0,24
+Kannah Creek Buxom Brown,7314,0.0,5
+Kannah Creek Lands End Amber,7314,4.7,37
+Kannah Creek Stumplifter Barley Wine,7314,10.0,45
+Kannah Creek Highside Hefeweizen,7314,4.7,40
+Kannah Creek Chill Pils,7314,0.0,39
+Kannah Creek Blacks Bridge Stout,7314,5.7,4
+Kannah Creek Monument Irish Red,7314,0.0,52
+Kannah Creek Pigasus Porter,7314,4.2,15
+Kannah Creek River City Pilsner,7314,0.0,57
+Kannah Creek Broken Oar IPA,7314,6.0,1
+Kannah Creek Three Fjords Amber Lager,7314,0.0,44
+North Cotswold Nettle Ale,4364,4.6,16
+North Cotswold Hung Drawn ’n’ Portered,4364,5.0,15
+North Cotswold Isambard Kingdom Brown Ale,4364,4.0,5
+North Cotswold Pig Brook,4364,3.8,16
+North Cotswold Summer Solstice,4364,4.5,20
+North Cotswold Vanilla Bumble,4364,4.5,20
+North Cotswold Stour Stout,4364,5.0,22
+North Cotswold Winter Solstice,4364,4.6,41
+North Cotswold Ditchford Ale,4364,5.3,41
+North Cotswold Spring in Your Step,4364,4.0,20
+North Cotswold Monarch IPA,4364,10.0,11
+North Cotswold Cotswold Best,4364,4.0,16
+North Cotswold Shagweaver,4364,4.5,16
+North Cotswold Smoked Maple Porter,4364,5.0,15
+North Cotswold Arctic Global Warming,4364,15.0,45
+North Cotswold Sorachi,4364,3.8,20
+North Cotswold Genesis,4364,4.0,16
+North Cotswold Autumn Ale,4364,4.3,16
+North Cotswold Sheeptown,4364,4.2,16
+North Cotswold Cappachino Stout,4364,5.0,22
+North Cotswold Honey Stout,4364,5.0,22
+North Cotswold Donkeys Ale,4364,5.0,72
+North Cotswold Hop to the Right,4364,4.5,16
+North Cotswold Mayfair Mild,4364,4.1,9
+North Cotswold Green Pig,4364,3.8,16
+North Cotswold Cockles of Your Heart,4364,4.3,16
+North Cotswold Blitzen,4364,6.0,70
+L’Alsacienne Sans Culotte Brune,1179,7.8,24
+Brunehaut Abbaye de Saint-Martin Brune,1179,8.0,24
+Brunehaut Bio Blanche,1179,5.0,8
+L’Alsacienne Sans Culotte Hembera Lisala &#40;Framboise&#41;,1179,6.5,73
+Brunehaut La Douf,1179,8.0,19
+Daas Ambré,1179,6.5,6
+L’Alsacienne Blond Euro 2004 Portugal,1179,5.0,10
+La Marchande Blonde,1179,7.0,6
+Sainte-Anne,1179,6.5,6
+Alsacienne du Gambrinus - L’Alsace de toujours,1179,8.0,7
+Brunehaut Abbaye de Saint-Martin Cuvée de Noël,1179,8.5,19
+Daas Blond,1179,6.5,6
+L’Alsacienne Sans Culotte Storkanascht Nid de Cigognes,1179,9.0,19
+Brunehaut Abbaye de Saint-Martin Blonde,1179,7.0,6
+Brunehaut Terroir Biere Blanche,1179,5.0,8
+L’Alsacienne Sans Culotte Halloween,1179,5.0,17
+Belle de Pevele,1179,7.0,6
+Brunehaut Original b,1179,5.0,8
+Pays Blanc,1179,8.0,7
+Brunehaut Blanche,1179,5.0,8
+L’Alsacienne Sans Culotte,1179,5.0,10
+L’Alsacienne Sans Culotte Pisse de Caribou,1179,6.9,6
+Brunehaut de Noel,1179,8.0,19
+L’Alsacienne du Gambrinus Houblonnière Peche Amour,1179,3.5,36
+L ecume des Jours &#40;Belgium&#41;,1179,7.0,19
+Brunehaut Abbaye de Saint-Martin Ambrée,1179,6.5,6
+L’Alsacienne Sans Culotte  Rousse,1179,10.0,19
+La Marchande Genevriers,1179,7.0,74
+La Ramee Amber,1179,7.5,7
+Ginette,1179,5.0,8
+Mont Saint Aubert Grand Reserve,1179,8.5,19
+Brunehaut Abbaye de St Amand,1179,7.0,7
+Brunehaut Abbaye de Saint-Martin Triple,1179,9.0,7
+Biere du Mont Saint Aubert,1179,8.0,19
+Brunehaut Bio Blonde Gluten Free,1179,6.5,6
+Brunehaut Villages Blonde,1179,6.5,6
+Brunehaut Lumière d’Hiver,1179,8.0,19
+Brunehaut Bio Ambrée Gluten Free,1179,6.5,6
+Ribeaubière,1179,5.5,10
+Ne Kopstoot,1179,7.0,6
+L’Alsacienne Sans Culotte Blonde,1179,7.8,19
+La Ramee Blond,1179,8.0,19
+Brunehaut Tradition Ambrée,1179,6.5,6
+Daas Witte,1179,5.0,8
+L’Alsacienne Sans Culotte C’est Chou Croute,1179,5.0,20
+Hakim Stout,1517,5.8,75
+Harar,1517,4.25,10
+Eichener Schwarzbier,1724,5.6,65
+Eichener Landbier,1724,5.0,59
+Eichener Pils,1724,4.8,57
+Eichener Gold,1724,5.4,56
+Eichener Dark Lager,1724,0.0,26
+Schwind Bräu Pilsener,5671,4.8,57
+Schwind Bräu Dunkles,5671,5.2,26
+Schwind Bräu Festbock,5671,7.0,49
+Schwind Bräu Export,5671,5.0,56
+Schwind Bräu Dunkles Weißbier,5671,5.4,54
+Schwind Bräu Josefator,5671,7.3,46
+Schwind Bräu Helles Weißbier,5671,5.2,40
+Schwind Bräu Rotgold,5671,5.1,31
+Haberl-Bräu Export,2938,5.1,56
+Haberl-Bräu Pils,2938,4.9,57
+Haberl-Bräu Hell,2938,4.8,56
+Haberl-Bräu Hansntrunk Märzen,2938,5.1,31
+Haberl-Bräu Reichenstein Ur-Weisse,2938,4.9,40
+Gem of the Sea Solomons Ale,2188,5.1,37
+Gem of the Sea Lager,2188,0.0,33
+Gem of the Sea Skinner Pilsner,2188,5.1,39
+Winkler-Bräu Schlichter Pilsner,8488,4.8,2
+Winkler-Bräu Schlichter Luder,8488,4.7,56
+Winkler-Bräu Schlichter Ursprung Hell,8488,4.7,56
+Winkler-Bräu Schlichter Radler,8488,2.6,36
+Winkler-Bräu Dagesteiner Rittertrunk,8488,4.9,26
+Winkler-Bräu Schlichter Hefe Weissbier,8488,4.9,40
+Winkler-Bräu Schlichter Kupfer Gold,8488,4.9,26
+Laupheimer Kronen Pils,9659,4.8,57
+Laupheimer Kronen Wirts Dunkel,9659,4.8,26
+Laupheimer Kronen-Radler,9659,2.6,36
+Laupheimer Kronen Spezial,9659,5.0,56
+Bodicote Golden Balls,3708,4.9,70
+Bodicote Cherry Gosling,3708,4.5,16
+Bodicote 3 Goslings,3708,4.0,16
+Bodicote Life Sentence,3708,5.1,70
+Bodicote Bitter,3708,3.3,16
+Bodicote Porter,3708,4.7,15
+Bodicote Triple X,3708,6.0,70
+Bodicote No.9,3708,4.5,16
+Bodicote Boilermaker,3708,4.2,16
+Calvors Amber Lager,10103,4.0,10
+Calvors Dark Lager,10103,4.5,26
+Calvors Premium English Lager Beer,10103,5.2,39
+Calvors 3Point8,10103,3.8,10
+Mattingly Beehive Honey Ale,10126,0.0,42
+Mattingly Wet HOPtimal APA,10126,4.5,27
+Mattingly Hop Goddess Double IPA,10126,8.25,11
+Mattingly Autumnal Blaze Strong Amber Witbier,10126,6.2,8
+Mattingly HOPtimal Munition APA,10126,4.5,27
+Mattingly Sour Cherry Stout Porter,10126,0.0,22
+Mattingly Cranberry Witbier,10126,0.0,8
+Mattingly Black Past Historical Porter,10126,8.0,15
+Mattingly Biere From Mars,10126,7.0,25
+Mattingly Black Dawn Coffee Porter,10126,0.0,15
+Mattingly Per Aspera Pilsner,10126,4.4,39
+Mattingly Cardinal Direction Abbey Dubbel,10126,7.0,24
+Mattingly Hop Seeker American Strong Ale,10126,8.0,48
+Mattingly Anniversary Ale I,10126,8.0,19
+Mattingly Jefferson Brown,10126,6.2,5
+Mattingly Black Sky Stout Porter,10126,6.0,15
+Mattingly Pinball Blizzard Rye IPA,10126,0.0,1
+Mattingly 1984 Golden Ale,10126,4.7,42
+Mattingly Fresh Hop Blond,10126,0.0,20
+Mattingly Apricot Cream Ale,10126,0.0,42
+Mattingly Pomegranate Wit,10126,0.0,8
+Mattingly Homeward Brown,10126,4.0,5
+Mattingly Smoked Imperial Brown,10126,0.0,35
+Mattingly Imperial Czech Pilsner,10126,8.2,51
+Mattingly Irish Red,10126,0.0,52
+Mattingly Skyline Drive West Coast Amber Ale,10126,0.0,37
+Mattingly Sunbeam English Summer Ale,10126,5.7,29
+Mattingly Old Harbinger American Barleywine,10126,11.8,45
+Mattingly Citra IPA,10126,0.0,1
+Mattingly Pooka Pumpkin,10126,0.0,17
+Mattingly Pale Ryeder,10126,9.2,7
+Mattingly Cranberry & Date Bretted Dubbel,10126,0.0,24
+Mattingly Imperial Witbier,10126,8.0,19
+Mattingly Bentonshire Ordinary Bitter,10126,0.0,16
+Mattingly BrightSide Belgian White,10126,4.8,8
+Mattingly Funky Friday the 13th,10126,8.0,12
+Mattingly Dead Flowers Double IPA,10126,8.0,11
+Mattingly Biere de Mars,10126,6.4,74
+Mattingly Dark Days IPA,10126,8.5,50
+Mattingly Learn To Fly English IIPA,10126,9.0,11
+Stix Golden Boy Ale,8592,0.0,20
+Stix Pool Shark Porter,8592,6.7,15
+Stix End of the Line ESB,8592,0.0,16
+Stix Old Schtix,8592,0.0,45
+Stix Cutthroat IPA,8592,6.0,1
+Stix DeSantis Strong Ale,8592,0.0,19
+Stix One Ball Weiss,8592,5.4,40
+Stix Oud Bruin,8592,0.0,12
+Stix Rack Em Red,8592,6.0,37
+Stix Bodacious Blonde,8592,7.2,6
+Angry Orchard Crisp Apple,13519,5.0,55
+Angry Orchard Traditional Dry,13519,5.5,55
+Angry Orchard Apple Ginger,13519,5.0,55
+Beaver Street Lager del Sol,2463,0.0,33
+Beaver Street Belgian Blonde,2463,0.0,6
+Beaver Street Vienna Lager,2463,0.0,44
+Beaver Street Pinecone Pale Ale,2463,5.7,27
+Beaver Street Hop Harvest,2463,6.7,1
+Beaver Street Cascadian Dark Ale,2463,5.8,50
+Beaver Street Copper Creek Lager,2463,0.0,76
+Beaver Street Helles Bock,2463,6.7,14
+Beaver Street Golden Ale,2463,4.4,20
+Beaver Street Lumberjack Lager,2463,6.4,10
+Beaver Street Hefe Weizen,2463,0.0,40
+Beaver Street Tripel,2463,9.6,7
+Beaver Street Red Rock Amber,2463,0.0,37
+Beaver Street Rapid Red,2463,10.0,48
+Beaver Street Bramble Berry Brew,2463,0.0,36
+Beaver Street R & R Oatmeal Stout,2463,0.0,4
+Beaver Street Yuletide Lager,2463,8.0,17
+Beaver Street English Pale Ale,2463,0.0,38
+Beaver Street Railhead Red,2463,0.0,37
+Beaver Street Belgian Pale Ale,2463,5.5,6
+Beaver Street Oktoberfest Marzen,2463,0.0,31
+Beaver Street Belgian Trippel,2463,0.0,7
+Beaver Street DeRail IPA,2463,7.9,11
+Beaver Street Nut Brown Ale,2463,0.0,5
+Beaver Street Bristlecone Brown Ale,2463,6.7,5
+Beaver Street Boxcar Blonde,2463,0.0,20
+Beaver Street India Pale Ale,2463,0.0,1
+Beaver Street Pilsener,2463,0.0,39
+Beaver Street Winter Bock,2463,0.0,49
+Beaver Street Bock,2463,0.0,49
+Flying Bison Belgian Bitter Cuvee,2055,0.0,19
+Landmark India Pale Ale,2055,0.0,1
+Flying Bison Espresso Stout,2055,0.0,4
+Flying Bison Rick’s Imperial Stout,2055,7.8,18
+Flying Bison Bird of Prey IPA,2055,8.0,1
+Flying Bison The Herc C-130,2055,9.6,48
+Flying Bison Coles Ocaque Porter,2055,0.0,15
+Flying Bison Buffalo Destroyers Brew,2055,0.0,5
+Flying Bison German Red,2055,0.0,59
+Flying Bison Aviator Red,2055,5.2,52
+Flying Bison Barnstormer Pale Ale,2055,4.0,27
+Flying Bison Oktoberfest,2055,0.0,31
+Flying Bison Dunklescoatzen,2055,0.0,36
+Flying Bison Dawn Patrol Golden Wit,2055,0.0,8
+Flying Bison Project XI American Red,2055,0.0,37
+Flying Bison Baron Von Bisonfest,2055,5.6,31
+Landmark Barley Wine,2055,9.2,45
+Flying Bison Mr. Goodbar 1970s Aliotta Altbier,2055,0.0,28
+Flying Bison Helldiver Oatmeal Pale Ale,2055,5.5,27
+Flying Bison Roasty Oat Brown Ale,2055,0.0,5
+Flying Bison Pan-Am Light,2055,4.0,20
+Flying Bison Dubbel,2055,0.0,24
+Flying Bison Imperial Porter,2055,9.8,34
+Flying Bison Junkshow Red Card,2055,0.0,37
+Flying Bison Skye Pilot Scotch Ale,2055,6.25,23
+Flying Bison Barleywine,2055,9.5,45
+Landmark Black Steel Oaked Imperial Stout,2055,0.0,18
+Flying Bison Dawn Patrol Gold,2055,5.0,3
+Flying Bison Blizzard Bock,2055,6.5,49
+Flying Bison Mr. Goodbar Big Brown Ale,2055,0.0,5
+Flying Bison Orion Rye,2055,5.2,68
+Flying Bison Summer Beer,2055,6.5,6
+Flying Bison Mister Goodbar 40th Anniversary 1968 IPA,2055,0.0,1
+Flying Bison Dry Hopped Stock Ale,2055,0.0,72
+Flying Bison Buffalo Lager,2055,4.0,33
+Flying Bison Imperial Aviator Red,2055,0.0,48
+Flying Bison Warbird IIPA,2055,8.0,11
+Flying Bison Blackbird Oatmeal Stout,2055,5.4,4
+Landmark Imperial Brown Ale,2055,8.0,5
+Flying Bison Brewfest Bitter &#40;Hammered Copper&#41;,2055,0.0,16
+Flying Bison Rusty Chain,2055,0.0,37
+Flying Bison Aviator Flanders Red,2055,0.0,12
+Landmark Vanilla Bean Brown Ale,2055,4.8,5
+Flying Bison Extra Special Bison,2055,0.0,41
+Flying Bison Porter,2055,0.0,15
+Flying Bison Mr. Goodbar University Dunkel,2055,5.0,26
+Landmark Sunrise Amber,2055,0.0,37
+Flying Bison Pizza Plant Inferno Pod Ale,2055,0.0,1
+Flying Bison 11th Anniversary Pale Ale,2055,6.0,27
+Flying Bison Barrel Roll Bock,2055,6.25,14
+Flying Bison Flint’s Gold,2055,11.0,18
+Flying Bison Kleinebock,2055,5.0,49
+Exquitlán Sidra Soberana Rosa,6744,5.5,55
+Exquitlán Sidra Avinyonet,6744,5.8,55
+Exquitlán Sidra Soberana Extra,6744,3.8,55
+Impeke Sorghum Beer,8107,14.0,13
+Hartolan Sahti,4644,9.0,13
+Sharps Spring Mild,2110,3.5,9
+Sharps Doom Bar &#40;Bottle&#41;,2110,4.3,16
+Sharps Single Brew Reserve,2110,4.5,16
+Sharps Petite Massive,2110,6.0,45
+Sharps Red Ale,2110,4.1,16
+Sharps French Resistance,2110,4.1,16
+Sharps Honey Spice Triple,2110,9.0,29
+Sharps Gentle Jane,2110,4.8,20
+Sharps DW,2110,9.5,7
+Sharps Monsieur Rock,2110,5.2,20
+Sharps St Enodoc Double,2110,8.5,19
+Sharps 6 Hop IPA,2110,3.8,16
+Sharps Honey Spice &#40;Cask&#41;,2110,4.2,20
+Sharps Atlantic IPA &#40;Cask&#41;,2110,4.2,16
+Sharps Nadelik Lowen &#40;3.7%&#41;,2110,3.7,16
+Sharps Honey Spice Wheat Beer &#40;Bottle&#41;,2110,6.0,29
+Sharps Massive Ale,2110,10.0,45
+Sharps Orchard Cornish Cider,2110,4.5,55
+Sharps Cornish Jack,2110,3.8,16
+Sharps Cornish Stout,2110,4.3,22
+Sharps Abbey Red,2110,8.0,24
+Sharps Doom Bar &#40;Cask&#41;,2110,4.0,16
+Sharps Wills Resolve,2110,4.6,41
+Sharps Atlantic IPA &#40;Bottle&#41;,2110,4.8,16
+Sharps Cornish Coaster,2110,3.6,16
+Sharps Winter Berry Ale,2110,4.3,16
+Sharps Chalkys Bark,2110,4.5,17
+Sharps Summer Honey Gold,2110,4.2,20
+Sharps 4,2110,11.0,19
+Sharps Black IPA,2110,7.4,50
+Sharps Special Ale,2110,5.2,41
+Sharps Chalkys Bite,2110,6.8,70
+Sharps Nadelik,2110,4.6,41
+Sharps Own,2110,4.4,16
+Sharps Abbey Christmas,2110,4.6,13
+Sharps Red Sloe Ale,2110,4.0,16
+Sharps Dry Hopped Barley Wine,2110,11.0,45
+Sharps Harvest Ale,2110,5.0,41
+Sharps Eden Pure Ale,2110,4.4,16
+JWs Dry Fen Cider,10774,4.5,55
+Virgin Islands Blackbeard Ale,1218,5.2,37
+Virgin Islands Foxys Lager,1218,0.0,10
+Joshua Huddys Amber,3076,0.0,37
+Joshua Huddys Porter,3076,0.0,15
+Iron Hill Costanza,9300,6.2,68
+Iron Hill Hop Stinger,9300,6.8,1
+Iron Hill Big Red Wibby,9300,7.5,48
+Iron Hill Bourbon Braveheart,9300,9.5,23
+Iron Hill Cherry Brown Ale,9300,6.2,36
+Iron Hill Street Legal,9300,7.0,77
+Iron Hill Big Rye Wibby,9300,7.0,48
+Iron Hill Permanent Midnight,9300,8.6,25
+Iron Hill Oompa Loompa Chocolate Stout,9300,6.0,4
+Iron Hill Belgian Witbier,9300,4.4,8
+Iron Hill Rauchtoberfest,9300,6.5,31
+Iron Hill Great Pumpkin Stout,9300,9.4,18
+Iron Hill Birra Malefico,9300,6.7,5
+Iron Hill Jack the RIPA,9300,5.6,1
+Iron Hill Oak-Aged Cherry Stout,9300,6.2,12
+Iron Hill Cascadian IPA,9300,5.8,1
+Iron Hill Braveheart,9300,9.5,23
+Iron Hill St. Hildegard Pils,9300,5.5,57
+Iron Hill Saison Extra,9300,6.2,25
+Iron Hill Swagger IPA,9300,9.0,11
+Iron Hill Golden Gate Lager,9300,5.0,43
+Iron Hill Oak-Aged Saison de Sorachi,9300,7.3,12
+Iron Hill Oak Aged Cherry Quadrupel,9300,14.5,30
+Iron Hill True Believer Tripel,9300,9.0,7
+Iron Hill Ron Burgundy,9300,11.0,12
+Iron Hill Biere de Or,9300,7.2,6
+Iron Hill Dark Ritual,9300,6.5,50
+Iron Hill Saison de Sorachi,9300,6.8,25
+Iron Hill Shokolad Stout,9300,9.5,18
+Iron Hill Hoppy Weisse,9300,5.9,40
+Iron Hill Sweet Leaf IPA,9300,6.7,1
+Iron Hill Phightin Phils Pils,9300,5.0,39
+Iron Hill Black Double Wit,9300,8.7,19
+Iron Hill Rauch Weiss,9300,6.0,35
+Iron Hill Imperial Coffee Porter,9300,9.0,34
+Iron Hill Bohemian Pilsner,9300,5.0,2
+Iron Hill Rye Saison,9300,5.7,25
+Iron Hill Bonzai,9300,7.0,25
+Iron Hill Savage IPA,9300,6.5,12
+The Duck-Rabbit Duck-Rabbator Dopplebock,5175,8.5,46
+The Duck-Rabbit Bourbon Barrel Milk Stout,5175,5.8,4
+The Duck-Rabbit Coffee Porter,5175,0.0,15
+The Duck-Rabbit Barleywine,5175,11.0,45
+Wolf Beer Locks Timberwolf Nut Brown Ale,5175,5.5,5
+The Duck-Rabbit Cherry Porter,5175,0.0,15
+The Duck-Rabbit The End of Reason,5175,9.0,12
+The Duck-Rabbit Imperial Brown,5175,10.0,5
+The Duck-Rabbit Cherry Madness,5175,0.0,12
+The Duck-Rabbit Coffee Milk Stout,5175,0.0,4
+The Duck-Rabbit Amber Ale,5175,5.5,37
+The Duck-Rabbit Baltic Porter,5175,9.0,32
+The Duck-Rabbit Red Wine Barrel Brown Ale,5175,5.6,5
+The Duck-Rabbit Paul’s Christmas Vacation,5175,10.0,48
+The Duck-Rabbit Barrel Aged Imperial Stout,5175,10.0,18
+The Duck-Rabbit Saucer Exclusive Baltic Porter,5175,9.1,32
+The Duck-Rabbit Sour Porter,5175,0.0,12
+The Duck-Rabbit Barrel Aged Barleywine,5175,11.0,45
+The Duck-Rabbit Rabid Duck Russian Imperial Stout,5175,10.0,18
+The Duck-Rabbit Bee Heavy,5175,13.0,63
+The Duck-Rabbit Schwarzbier,5175,5.8,65
+The Duck-Rabbit Brown Ale,5175,5.6,5
+The Duck-Rabbit Porter,5175,5.7,15
+The Duck-Rabbit Farmville Reserva,5175,13.0,63
+The Duck-Rabbit Barrel Aged Porter,5175,5.75,15
+The Duck-Rabbit Märzen,5175,4.8,31
+The Duck-Rabbit Wee Heavy Scotch Style Ale,5175,8.0,23
+The Duck-Rabbit Coffee Cherry Oatmeal Porter,5175,0.0,15
+The Duck-Rabbit Pauls Day Off,5175,9.0,48
+The Duck-Rabbit Barrel Aged Baltic Porter,5175,10.0,32
+The Duck-Rabbit Rabid Braggot,5175,14.0,63
+The Duck-Rabbit Milk Stout,5175,5.7,4
+The Duck-Rabbit Paul’s Bitter Holiday,5175,4.0,16
+Rafters India Pale Ale,8573,7.0,1
+Steel Toe Rainmaker Double Red Ale,13108,6.5,37
+Steel Toe Provider Ale,13108,5.0,20
+Steel Toe Dissent Dark Ale,13108,7.0,22
+Steel Toe Size 7 IPA,13108,7.0,1
+South Shore American Pale Ale,2598,5.0,27
+South Shore Cream Ale,2598,0.0,42
+South Shore Fallen Angel,2598,5.0,17
+South Shore Extra Pale Ale &#40;ESB&#41;,2598,5.9,41
+South Shore Harvest Ale,2598,0.0,37
+South Shore Pale Ale,2598,0.0,27
+South Shore Rhoades Scholar Stout,2598,6.4,22
+South Shore Belgian Saison,2598,6.7,25
+White Winter Cherry Brackett,2598,9.0,63
+White Winter Premium Oak Brackett,2598,10.0,63
+South Shore Iron Ore Red Lager,2598,4.6,76
+South Shore Pumpkinfest Ale,2598,0.0,17
+South Shore Inland Sea Pilsener,2598,5.5,39
+South Shore Peach Wheat,2598,0.0,29
+South Shore Coffee Mint Stout,2598,0.0,4
+South Shore Porter,2598,4.9,15
+South Shore Applefest Ale,2598,0.0,36
+South Shore Irish Stout,2598,0.0,22
+South Shore Golden Ale,2598,0.0,20
+South Shore Double Honey Maibock,2598,7.4,14
+South Shore Tripel,2598,9.0,7
+South Shore Bavarian Wheat,2598,5.5,40
+South Shore Coffee Mint Stout &#40;Bourbon Barrel&#41;,2598,0.0,4
+South Shore Bitter Blonde,2598,4.5,20
+South Shore Nut Brown Ale,2598,5.0,5
+South Shore Barley Legal,2598,9.5,45
+South Shore Eisbock,2598,0.0,53
+South Shore Northern Lights Ale,2598,4.3,20
+South Shore Maibock,2598,0.0,14
+South Shore Wheat Dopplebock,2598,8.1,58
+White Winter Traditional Brackett,2598,7.0,63
+Teucke & Koenig Bären Kirsch Met,5079,15.0,63
+Teucke & Koenig Bären-Met,5079,15.0,63
+Eisenacher Wartburg Export,2310,5.2,56
+Eisenacher Wartburg Pils,2310,4.9,57
+Eisenacher Schwarzer Esel,2310,4.5,65
+Eisenacher Winterpils Classic,2310,4.9,39
+Eisenacher Schwarzer Drachen Schwarzbier,2310,5.0,65
+Eisenacher Bock Starkbier,2310,6.5,14
+Rennsteig Spezial,2310,4.9,57
+Casta Milenia,1303,8.0,19
+Casta Morena,1303,6.0,5
+Casta Bruna,1303,5.0,27
+Casta Triguera,1303,5.5,29
+Casta Unica,1303,8.0,19
+Casta Dorada,1303,5.0,20
+Casta Unica Castana,1303,8.5,19
+Parish Poachers,3053,6.0,15
+Parish Burrough Bitter,3053,4.7,16
+Parish Barrys PBF 06,3053,4.5,41
+Parish Farm Gold,3053,4.3,16
+Parish Trudy’s Tipple,3053,4.3,16
+Parish Mild,3053,3.8,9
+Parish Baz’s Bonce Blower &#40;BBB&#41;,3053,12.0,70
+Parish Ale Samoud II,3053,4.5,16
+Parish Special Bitter &#40;P.S.B.&#41;,3053,3.8,16
+Parish Best Bitter,3053,4.0,16
+Parish Ankerwyke Ale,3053,5.0,41
+Hoh Lagerbier,10510,0.0,59
+Koala Kolsch,8135,6.5,3
+Koala Imperial Stout,8135,0.0,18
+Koala Strong Ale,8135,11.0,45
+Koala Scotch Ale,8135,0.0,23
+Koala Stout,8135,0.0,22
+Koala Roja 12º,8135,12.0,45
+Williamsburg Grand Illumination Ale,1555,9.4,45
+Williamsburg Porter,1555,6.5,15
+Williamsburg Stock Ale,1555,5.0,5
+Williamsburg Steamer,1555,0.0,5
+Williamsburg Colonial Mild,1555,0.0,9
+Williamsburg Tavern Ale,1555,0.0,16
+Williamsburg Cranberry & Molasses Stock Ale &#40;Harvest Ale 2004&#41;,1555,5.5,36
+Williamsburg Summer Ale,1555,4.8,37
+Williamsburg Wheat Ale,1555,4.5,29
+Williamsburg Pale Ale,1555,5.5,27
+Williamsburg Irish Stout,1555,0.0,71
+Little River Honey Wheat,7922,0.0,29
+Little River Amber,7922,0.0,37
+Little River Scotch,7922,0.0,21
+Big Wood Big Nut Brown Ale,12517,4.2,5
+Big Wood Forest Ale,12517,5.5,27
+Big Wood Morning Wood,12517,3.7,71
+Big Wood Bark Bite IPA,12517,6.3,1
+Big Wood Farmhouse Ale,12517,0.0,25
+Denmark Witbier,2646,0.0,8
+Denmark Isgood Stout,2646,0.0,22
+Denmark Dunkles Weissbier,2646,0.0,54
+Denmark Valhalla Ale,2646,0.0,27
+Denmark Dubbel,2646,7.5,24
+Denmark Continental Pilsner,2646,0.0,39
+Denmark Red Ale,2646,0.0,37
+Stary Melnik Bezalkogolnoe,1487,0.5,66
+Beliy Medved v Rozliv,1487,5.0,10
+Stary Melnik Iz Bochonka Barkhatnoe,1487,4.5,26
+Stary Melnik Klassicheskoe,1487,5.5,10
+Stary Melnik Temnoe,1487,6.5,44
+Stary Melnik Iz Bochonka,1487,5.2,10
+Stary Melnik Zolotoe &#40;Gold&#41;,1487,5.2,10
+Sokól Jasne Pelne,1487,4.0,10
+Stary Melnik Iz Bochonka Osoboe,1487,4.6,10
+Green Beer &#40;Russia&#41;,1487,4.0,10
+Stary Melnik Iz Bochonka Myagkoe,1487,4.2,10
+Stary Melnik Svetloe &#40;Lager&#41;,1487,4.6,39
+Stary Melnik Krepkoe &#40;Bock&#41;,1487,6.5,51
+Efes Fusion,1487,4.7,10
+Bière des Naufrageurs Blonde,5007,5.0,6
+Bière des Naufrageurs Gingembre,5007,6.0,17
+Bière des Naufrageurs Blanche,5007,5.0,8
+Napoleon Beer,5007,7.5,74
+Bière des Naufrageurs Réglisse,5007,6.0,17
+Chameleon Fire Light Ale,11369,3.9,20
+Chameleon Witty,11369,4.0,8
+Chameleon Ryediculous IPA,11369,5.73,1
+Chameleon Hop on Top,11369,4.2,27
+Snail Ale,1406,4.5,20
+Mountain Goat Riwaka,1406,4.6,27
+Mountain Goat Spicy Ross,1406,6.2,17
+Mountain Goat Bigfoot Stout,1406,7.2,22
+Mountain Goat Rare Breed Surefoot Stout,1406,4.9,4
+Mountain Goat Hightail Ale,1406,4.5,38
+Avonmore Estate Pale Ale,1406,5.0,20
+Mountain Goat Goldilocks,1406,4.7,20
+Mountain Goat The Thorny Goat,1406,6.8,50
+Mountain Goat Seedy Goat Coffee IPA,1406,5.9,17
+Mountain Goat Bock,1406,6.8,49
+Mountain Goat Pale Ale,1406,4.5,27
+Mountain Goat The Hoeff Hefeweizen,1406,5.2,40
+Mountain Goat Imperial Pilsener,1406,7.5,51
+Mountain Goat Bigfoot Stout 8.5%,1406,8.5,18
+Mountain Goat Dunken,1406,5.5,54
+Mountain Goat India Pale Ale,1406,5.5,27
+Mountain Goat Fancy Pants Amber Ale,1406,5.2,37
+Mountain Goat Surefoot Stout,1406,5.0,22
+Mountain Goat Double Hightail Ale,1406,6.8,70
+Mountain Goat Skipping Girl,1406,4.7,29
+Mountain Goat Rapunzel,1406,8.3,19
+Mountain Goat Double IPA,1406,8.1,11
+Mountain Goat Cucumber Sandwich,1406,4.7,17
+Mountain Goat Steam Ale,1406,4.7,20
+Mountain Goat Three Golden Goats,1406,4.9,20
+Heidi Traditional Altbier,1406,5.0,28
+Mountain Goat Australian Pale Ale,1406,6.2,27
+Mountain Goat Two Champs Kolsch,1406,4.7,3
+Mountain Goat Richard III,1406,7.4,46
+Mountain Goat RIPA,1406,5.7,68
+Mountain Goat Rare Breed IPA,1406,6.2,1
+Conor ONeills Kerry Irish Red,5894,0.0,52
+Conor ONeills Celtic Pride,5894,0.0,33
+Conor ONeills Craic Pale Ale,5894,0.0,38
+Twains Moral Sense American Wheat,8140,6.0,29
+Twains Inauguration Brown Ale,8140,6.4,5
+Twains Tidy Soul Dunkelweiss,8140,6.8,54
+Twains Captain Stormfield Abbey Ale,8140,7.8,19
+Twains Bookzilla Brown Ale,8140,4.4,5
+Twains Rising River Red,8140,5.8,12
+Twains Paradise Found,8140,7.8,19
+Twains Stormys Trippel,8140,12.0,7
+Twains Billiards and Tap Snake Oil &#40;Herbal&#41; Golden Ale,8140,4.7,17
+Twains Jordans Strong Ale,8140,8.5,48
+Twains Wit and Heather,8140,4.8,8
+Twains Barrel Aged XL Double IPA,8140,0.0,11
+Twains Billiards and Tap Radical Raspberry Porter,8140,7.2,24
+Twains Vanilla Stout,8140,5.5,22
+Twains Thirty Days Belgian Black,8140,7.8,19
+Twains Foxy Brown Ale,8140,0.0,5
+Twains High-Run Chocolate Belgian Wheat,8140,7.5,54
+Twains Sleepy Conscience ESB,8140,5.6,41
+Twains Murphys Cousin Pale Ale,8140,0.0,27
+Twains Jumping Frog IPA,8140,6.0,1
+Twains Barrel Aged Strong Ale,8140,8.75,48
+Twains Mysterious Stranger Brown Ale,8140,0.0,5
+Twains Barrel Aged Remington IPA,8140,0.0,1
+Twains Sloppy Squirrel ESB,8140,0.0,16
+Twains Twainappin Honey Porter,8140,0.0,15
+Twains Remington IPA,8140,6.5,1
+Twains Stubborn River ESB,8140,5.7,41
+Twains Spirit 50X Belgian Gold,8140,7.0,6
+Twains Honest Lender Imperial Brown,8140,7.5,5
+Twains Whiskey Oaked Bullfrog IPA,8140,5.5,1
+Twains Ten Pound Cherry Brown,8140,5.7,5
+Twains Billiards and Tap Friars Three,8140,8.5,7
+Twains Blarney Cask 2008,8140,6.8,18
+Twains Flemish Brown Ale,8140,0.0,12
+Twains Bullfrog IPA,8140,5.5,1
+Twains Applewood Aged Cocoa Stout Cask,8140,5.7,22
+Twains Captain Stormfield Belgian Brown Ale,8140,6.0,6
+Twains Caldera Strong Oak,8140,0.0,48
+Twains Billiards and Tap Tiny’s Heatstroke Pale Ale,8140,0.0,27
+Twains Three Lies Imperial Stout,8140,6.9,18
+Twains 100 Year Extra Pale Ale,8140,0.0,27
+Twains Gingerbread Brown Ale,8140,6.4,17
+Twains Smoked Pale Ale,8140,7.0,35
+Twains Pilothouse Stout,8140,4.2,22
+Twains Second Suit Pale Ale,8140,4.7,27
+Twains Up The Kriek,8140,5.2,36
+Twains Oak-Merlot Trippel Cask,8140,12.0,7
+Twains Temperate Temperance Mild,8140,4.5,9
+Twains Dark Truth Farmhouse Ale,8140,0.0,25
+Twains Sideshow Strong Ale,8140,0.0,48
+Twains XL Double IPA,8140,7.8,11
+Twains XL Double IPA on Oak,8140,8.0,11
+Twains Grain Co IPA,8140,6.5,1
+Twains Lying Chaff Hefe Weizen,8140,6.0,40
+Twains Desired Affliction Coffee Stout,8140,0.0,22
+Twains Blarney Cask 2010,8140,0.0,22
+Twains Coffee Stout,8140,5.9,22
+Twains Comfort Extra Special Pale Ale,8140,5.7,27
+Twains Ballot Box Brown Ale,8140,4.5,5
+Twains Barrel Aged Smoked Rye Pale Ale,8140,7.0,35
+Twains Smoked Pacilla Rye Pale Ale,8140,7.0,17
+Twains Billiard Brown with Jack and Oak,8140,6.0,5
+Twains The Las’ Twaltz,8140,8.0,34
+Twains Hell for Society Stout,8140,0.0,22
+Twains Mr. Edisons Toasted Ale,8140,4.9,37
+Twains Saison DuCatur,8140,5.0,25
+Twains Cinnamon Honest Lender,8140,7.5,17
+Twains Three Lies Cocoa Imperial Stout,8140,6.8,18
+Twains Milkbone IPA,8140,0.0,1
+Twains Chipotle Cask,8140,7.0,17
+Twains Barrel Aged Desired Affliction Coffee Stout,8140,0.0,22
+Twains Hannibal India Red Ale,8140,0.0,48
+Twains Billiards Brown Ale,8140,5.6,5
+Twains Descent of Man,8140,6.5,22
+Twains Autumnfest,8140,5.9,31
+Twains Saramonial Saison,8140,6.7,25
+Twains Oak-Aged Sour Kristall Weizen,8140,6.0,78
+Twains Berliner Weiss,8140,6.3,67
+Twains Blarney Cask 2009,8140,7.0,4
+Twains Willys Pumpkin Cask Ale,8140,5.4,17
+Twains Mugwump Brown Ale,8140,5.4,5
+Twains Gingerbread Pale Ale,8140,5.6,17
+Twains Unbernfen Dunkelweiss,8140,0.0,54
+Twains Cryptic Drifter Brown Ale,8140,0.0,5
+"Twains Hell for Society, Willett Barrel Aged",8140,0.0,22
+Twains Dark Wheat with Bret,8140,0.0,12
+Twains Wit and Humor Bavarian Wheat,8140,6.3,40
+Twains Irreverent Liberty IPA,8140,0.0,1
+Twains Heaven for Climate Golden Ale,8140,4.7,20
+Twains Barrel Aged Tidy Soul,8140,6.8,35
+Twains Mad Happy Pale Ale,8140,5.6,27
+Gala,3600,4.9,10
+Chari,3600,3.8,10
+Rabenbräu  Dunkel,5126,0.0,26
+Rabenbräu  Hell,5126,0.0,56
+Donostiarra Sidra Natural,7558,6.0,55
+Grid Iron ESB,3207,0.0,41
+Grid Iron Blonde,3207,0.0,20
+Grid Iron IPA,3207,0.0,1
+Grid Iron Irish Red,3207,0.0,52
+Thorbräu Celtic Honeybrown,4078,5.0,33
+Thorbräu Augsburger Altstadt-Weisse Dunkel,4078,5.0,54
+Thorbräu Radler,4078,2.6,36
+Thorbräu Pils,4078,4.8,57
+Thorbräu Hell,4078,4.8,56
+Thorbräu Dunkel,4078,5.5,26
+Thorbräu Export,4078,5.0,56
+Thorbräu Maximilians Schwarzbier,4078,5.5,65
+Thorbräu Leichte Weisse,4078,2.9,66
+Thorbräu Weißbier,4078,5.0,40
+Thorbräu Maximilians Kellerweisse,4078,5.0,40
+Landsberger Gold,4078,4.8,56
+Thorbräu Augsburger Gold,4078,4.8,56
+Charly Bräu Hot Chili Beer,4078,5.0,17
+Thorbräu Mac Mallow,4078,5.4,36
+Thorbräu Maximilians Premium,4078,5.0,31
+Thorbräu Portator,4078,7.5,46
+Thorbräu Kleiner Mohr,4078,2.8,66
+Thorbräu Maximilians Kellerbier,4078,5.0,59
+Thorbräu Celtic,4078,5.0,17
+Mr Jims Cannon Red Jacket Ale,4575,0.0,37
+Mr Jims Cannon German Relief Hefeweizen,4575,0.0,40
+Mr Jims Cannon Wiener,4575,0.0,44
+Mr Jims Cannon Pumpkin Ale,4575,6.0,17
+Mr Jims Cannon Oktoberfest,4575,0.0,31
+Mr Jims Cannon Middle Bay Light,4575,0.0,10
+Mr Jims Cannon Ironclad Stout,4575,0.0,22
+Mr Jims Cannon Berlinerweisse,4575,0.0,67
+Mr Jims Cannon Special Ops Ale,4575,0.0,1
+Mr Jims Cannon Pale Lager,4575,0.0,10
+Gamble Mill Monte Weizen Ale,12397,5.5,40
+Gamble Mill Lit Wit,12397,4.75,8
+Gamble Mill HB 48 Session Ale,12397,4.5,20
+Gamble Mill Bush House Brown Ale,12397,5.75,5
+Gamble Mill Buffalo Run Winter Stout,12397,6.0,17
+Gamble Mill J.  Rose Pale Ale,12397,5.0,27
+Gamble Mill The Curtin Abbey Ale,12397,8.1,24
+Gamble Mill Pig Iron India Pale Ale,12397,6.75,1
+Gamble Mill Big Spring Tripel,12397,9.3,7
+Gamble Mill Victorian Secret Raspberry Wheat,12397,5.25,36
+Gamble Mill Lame Devil Farmhouse Ale,12397,5.0,25
+Tölzer Mühlfeldbräu Weißbier,12003,0.0,40
+Tölzer Mühlfeldbräu Weißbierbock,12003,0.0,58
+Tölzer Mühlfeldbräu Hell,12003,0.0,59
+Old Spot All Star,6277,3.8,16
+Old Spot Hunter Hill,6277,4.8,41
+Old Spot BVG &#40;Bronte Village Gathering&#41;,6277,4.7,41
+Old Spot Beauty Spot,6277,4.5,16
+Old Spot Awaiting A Name,6277,4.2,16
+Old Spot SPA,6277,5.0,20
+Old Spot Jack Spratt,6277,4.9,20
+Old Spot Autumn Bliss,6277,3.8,16
+Old Spot Our Choice,6277,4.6,20
+Old Spot Beer Stalker,6277,4.1,16
+Old Spot Ginger Beer,6277,4.1,16
+Old Spot Spot O Bother,6277,5.5,15
+Old Spot Light But Dark,6277,4.0,16
+Old Spot Never Again,6277,7.6,72
+Old Spot Ruby Lou,6277,3.2,9
+Old Spot OSB,6277,4.5,16
+Old Spot Milk Crate Mild,6277,3.6,9
+Old Spot This,6277,3.7,16
+Old Spot Darkside Pup,6277,3.6,9
+BraufactuM Colonia,12433,5.1,3
+BraufactuM Clan,12433,6.4,23
+BraufactuM Darkon,12433,5.4,65
+BraufactuM Roog,12433,6.6,35
+BraufactuM Indra,12433,6.8,1
+BraufactuM Progusta,12433,6.8,1
+BraufactuM Oscur,12433,6.9,32
+BraufactuM Marzus,12433,5.5,31
+BraufactuM Arrique,12433,13.5,45
+Los Gatos Oktoberfest,1386,0.0,31
+Los Gatos Recession Ale,1386,4.8,38
+Los Gatos Harry Porter,1386,0.0,15
+Los Gatos Exhibition Ale,1386,0.0,3
+Los Gatos Lexington Lager,1386,0.0,2
+Los Gatos Madison Maibock,1386,0.0,14
+Los Gatos Bracken Ale,1386,0.0,5
+Los Gatos Summertime Ale,1386,0.0,37
+Los Gatos India Pale Ale,1386,0.0,1
+Los Gatos Stoat Oatmeal,1386,0.0,22
+Los Gatos Old Scuttlebutt Stout,1386,0.0,71
+Los Gatos Pilsner,1386,0.0,39
+Los Gatos Cask Ale,1386,0.0,38
+Los Gatos Bockstein,1386,0.0,49
+Los Gatos Sunset Amber,1386,0.0,37
+Los Gatos BCS,1386,7.5,22
+Los Gatos Bailout Brown,1386,0.0,5
+Los Gatos American Lager,1386,0.0,10
+Los Gatos Doppelbock,1386,0.0,46
+Los Gatos Hefeweizen,1386,0.0,40
+Los Gatos Zwickelbier,1386,0.0,59
+Los Gatos Spécials Belges,1386,0.0,6
+Los Gatos Sherman Stout,1386,0.0,22
+Los Gatos Classic Pale Ale,1386,0.0,27
+Los Gatos Dog Tale Pale Ale,1386,0.0,27
+Marthas Vineyard Extra Stout,2430,0.0,22
+Marthas Vineyard Pub Draught Ale,2430,0.0,37
+Cambier Iris Beer Bière Ambrée,7372,7.0,74
+Cambier Bière de Noël,7372,8.0,74
+Cambier Iris Beer Bière Blonde,7372,7.0,74
+Beaver Basil,12416,5.2,37
+Beaver 724 Imperial Pale Ale,12416,0.0,11
+Beaver Wet Hop Citra Ale,12416,0.0,42
+Beaver Chamomile Wheat,12416,4.2,29
+Beaver Saison De Beaver,12416,5.8,25
+Beaver Kvass,12416,1.75,13
+Beaver I.Porter.A,12416,5.0,50
+Beaver Saison De Beaver &#40;Sour Version&#41;,12416,0.0,12
+Rattlesnake Creek Lodgepole Porter,3368,0.0,15
+Rattlesnake Creek Rattlesnake Red,3368,0.0,76
+Rattlesnake Creek BlueHawk EPA,3368,0.0,38
+Tickenham Tick’num Tipple,12289,6.5,55
+City Steam Drinking Nun,1482,8.0,7
+City Steam Deirdre Does Derry,1482,4.8,22
+City Steam Princess of Darkness,1482,6.4,6
+City Steam Deirdre Does Dublin,1482,0.0,71
+City Steam Naughty Nurse Amber Ale,1482,5.0,38
+City Steam Black Silk Stout,1482,5.5,4
+City Steam Bagdad Black,1482,6.0,15
+City Steam Ma Jolie Unfiltered Lager,1482,0.0,33
+City Steam My Funny Ballantine,1482,6.0,1
+City Steam Paris Porter,1482,4.8,15
+City Steam Amarillo By Morning,1482,0.0,1
+City Steam Carpenters Ale,1482,7.2,1
+City Steam Deirdre Does Donegal,1482,4.4,71
+City Steam Ecstacy IPA,1482,6.0,1
+City Steam White Wedding,1482,4.8,8
+City Steam Dark Ale,1482,5.0,5
+City Steam Brewers Gold IPA,1482,0.0,1
+City Steam Old Wethersfield IPA,1482,6.5,1
+City Steam Prom Queen IPA,1482,0.0,1
+City Steam Crop Circle Beer,1482,6.0,20
+City Steam Luscious Wheat,1482,5.6,40
+City Steam The Devil and 67 Virgins,1482,8.0,72
+City Steam Summer Stout,1482,5.6,22
+City Steam White Rabbit,1482,5.5,8
+City Steam Crystal & Cascade,1482,0.0,1
+City Steam Innocence Ale,1482,7.2,1
+City Steam Chet Baker India Pale Lager,1482,0.0,51
+City Steam Blonde Export Lager,1482,6.0,56
+City Steam Norwegian Wood,1482,6.0,17
+City Steam Careless Love,1482,8.0,74
+City Steam Acapulco Gold IPA,1482,6.5,1
+City Steam Dexter Gordon Old School Strong Ale,1482,0.0,70
+City Steam Winter Wheat,1482,8.5,58
+City Steam Afternoon In L’Ardennes,1482,4.8,25
+City Steam Blonde on Blonde,1482,6.0,1
+City Steam Poor Richards Porter,1482,0.0,13
+City Steam Belle Dock #4,1482,8.8,45
+City Steam Czars and Girls,1482,8.8,18
+City Steam Milk of Amnesia,1482,0.0,4
+City Steam Winter in Ardennes,1482,0.0,19
+City Steam Vampire Ale,1482,6.0,1
+City Steam Brown Sugar,1482,5.5,75
+City Steam Narvel the Marvel,1482,0.0,45
+City Steam Metzino7 Pilsner,1482,5.0,39
+City Steam Northern Brewer IPA,1482,0.0,1
+City Steam Benny & The Blondes,1482,5.0,10
+City Steam Rye Me a River,1482,0.0,8
+City Steam Americas Beautiful Babylon,1482,9.0,45
+City Steam Dark Lager,1482,5.0,26
+City Steam Mirth & Beauty,1482,6.5,1
+City Steam Flower of Edinburgh,1482,8.4,23
+City Steam St. Brigette & St. Theresa,1482,6.0,1
+City Steam Green Eyes & Red Hair,1482,5.8,21
+City Steam Pumpernickelback Porter,1482,5.2,15
+City Steam Joltin Joe,1482,6.0,4
+City Steam Pugnacious Porter,1482,8.0,32
+City Steam P.V. Porter,1482,5.5,15
+City Steam Bonnie Bock,1482,6.4,49
+City Steam Shot Block Bock,1482,6.5,49
+City Steam Busted in Brussels,1482,6.7,19
+City Steam Zoot Sims,1482,0.0,1
+City Steam Catholic Girls Oktoberfest,1482,5.0,31
+City Steam Dizzy Gillespie,1482,6.5,1
+City Steam Vienna Waltz,1482,4.5,44
+City Steam Dominator Double Bock,1482,7.0,46
+City Steam Colt 46,1482,4.0,10
+Bere Trei Stejari Bâlea,5752,4.5,10
+Bere Trei Stejari Bâlea Bere Blonda,5752,5.0,10
+Hermannstadt,5752,5.0,10
+Hofer Bräu Schwirza vom Landl,3028,4.9,26
+Hofer Bräu Hell,3028,4.7,56
+Hofer Bräu Export,3028,5.3,56
+Hofer Bräu Grenzfähnlein Festbier,3028,5.9,31
+Hofer Bräu Pils,3028,4.9,2
+Hofer Bräu Weisse,3028,5.0,40
+Hofer Bräu Drei Wappen Weisse,3028,5.0,54
+Gansbräu Hell,8858,5.0,56
+Gansbräu Urtyp,8858,5.0,59
+Gansbräu Festbier,8858,5.5,31
+Gansbräu Pils,8858,5.0,57
+Gansbräu Dunkel,8858,5.0,26
+Gansbräu Bock,8858,6.5,14
+Gansbräu Rot-Bier,8858,5.0,44
+Gansbräu Radler,8858,2.6,36
+Gansbräu Keller-Pils Hefetrüb,8858,5.0,59
+Crossmans Prime Farmhouse Cider - Dry &#40;Draught&#41;,3118,6.0,55
+Crossmans Prime Farmhouse Cider - Medium &#40;Draught&#41;,3118,6.0,55
+Crossmans Home Orchard Special Blend Cider - Medium &#40;Draught&#41;,3118,7.0,55
+Crossmans Tremletts Bitter SV &#40;Draught&#41;,3118,6.0,55
+Crossmans Prime Farmhouse Cider - Sweet &#40;Draught&#41;,3118,6.0,55
+Crossmans Home Orchard Special Blend Cider - Dry &#40;Draught&#41;,3118,7.0,55
+Sonoran Double Blonde,395,7.0,27
+Sonoran Double Trouble I2PA,395,8.4,11
+Sonoran IPA,395,6.2,1
+Papago Belgian Strong,395,11.5,19
+Sonoran First Anniversary Alt,395,5.5,28
+Sonoran 100,395,19.5,48
+Papago El Grande Nutz,395,4.5,5
+Sonoran Burning Bird Pale Ale,395,4.8,27
+Papago Procrastinator Dopplebock,395,10.0,46
+Sonoran Top Down Kolsch Style Ale,395,5.1,3
+Sonoran C.I.A. Citrus Infused Ale,395,4.7,36
+Papago El Diablo Rojo,395,8.2,48
+Sonoran Top Down Blonde,395,5.2,42
+Sonoran Cordillera Blanca,395,4.7,17
+Sonoran Heartland Hefe,395,4.7,29
+Sonoran Festivus,395,0.0,17
+Sonoran Oaked Vanilla Bean Inebriator Stout,395,0.0,18
+Papago Six Shooter Imperial Wheat Pale Ale,395,7.6,29
+Papago Wee Smokey,395,7.0,21
+Sonoran Old Saguaro Barleywine,395,9.2,45
+Sonoran Wee Heavy Scottish Ale,395,9.5,23
+Sonoran Twisted Cherry,395,0.0,12
+Sonoran 200,395,19.37,48
+Sonoran Top Down Golden Pale Ale,395,0.0,27
+Sonoran Nut Brown,395,0.0,5
+Sonoran Top Down Classic Red Ale,395,0.0,37
+Sonoran Dred Double Red Ale,395,7.5,48
+Papago Oak Aged Oh Brother,395,12.5,12
+Papago Schitzengiggles Eisbock,395,15.0,53
+Sonoran Two Tuns Double Amber Ale,395,8.2,48
+Sonoran Inebriator Stout,395,9.1,18
+Papago Aromatherapy IPA,395,7.0,1
+Papago Maduro Nut Brown,395,4.5,5
+Papago Busted Cherry,395,7.2,12
+Sonoran Robust Porter,395,0.0,15
+Papago Little Brother,395,7.5,24
+Sonoran Desert Amber,395,5.2,37
+Sonoran Centennial ESB,395,0.0,16
+Sonoran Victorian IPA,395,6.2,1
+Sonoran Midnight Porter,395,5.1,15
+Wilde Rose Bock,2997,6.7,14
+Wilde Rose Weizen,2997,0.0,40
+Wilde Rose Helles,2997,0.0,56
+Wilde Rose Kellerbier,2997,0.0,59
+Wilde Rose Pils,2997,5.25,39
+Montgomery Downtown Brown Ale,3965,0.0,5
+Montgomery Goat Hill Pale Ale,3965,0.0,27
+Montgomery Wipe Out Stout,3965,0.0,22
+Montgomery Big 3 Bailout IPA,3965,0.0,1
+Montgomery Jubilee Mai Bock,3965,0.0,49
+Montgomery Blueberry Ale,3965,0.0,36
+Montgomery Summerfest Lager,3965,0.0,10
+Montgomery Old Montgomery Blonde,3965,0.0,20
+Montgomery Old World Porter,3965,0.0,15
+Montgomery Seeing Double IPA,3965,7.8,11
+Montgomery IPA,3965,0.0,1
+Montgomery Lightening Route Light Lager,3965,0.0,10
+Montgomery Superfly Rye Lager,3965,0.0,68
+Montgomery Roggenbier,3965,0.0,68
+Montgomery Riverboat Red Ale,3965,0.0,37
+Montgomery Oktoberfest,3965,0.0,31
+Montgomery Riverwalk Rye,3965,0.0,68
+Montgomery Jubelator Doppelbock,3965,6.0,46
+Montgomery Wild Horses IPA,3965,0.0,1
+Montgomery Dunkelweizen,3965,0.0,54
+Montgomery Velvet Elvis,3965,0.0,65
+Montgomery the Razz Kisser,3965,0.0,36
+Montgomery Schwarzbier,3965,0.0,65
+Eldridge Pope Royal Oak,5635,4.8,41
+Wolf Wood Cutter Brown Ale,13329,6.0,5
+Wolf Golden Honey Ale,13329,6.0,20
+Wolf Red Brick IPA,13329,6.0,1
+Wolf Black Tail Porter,13329,6.0,15
+Grebensteiner Landbier,3124,4.8,59
+Warburger Landradler,3124,2.8,36
+Warburger Urtyp,3124,5.0,26
+Warburger Export,3124,5.2,56
+Warburger Landbier,3124,5.0,59
+Warburger Pilsener Premium,3124,4.8,57
+Pennard Organic Pure Honey Mead - Medium Sweet,6183,12.0,63
+Avalon Straw Pressed Medium Dry Cider,6183,6.5,55
+Avalon Medium Cider,6183,8.3,55
+Blackbeck Carnival Kiss,10922,3.8,16
+Blackbeck Trial Run,10922,3.8,20
+Blackbeck Belle,10922,3.8,16
+C.K. Browar Weizen,3428,0.0,40
+C.K. Browar Marcowe,3428,0.0,31
+C.K Browar Imbirowe &#40;Ingwer&#41;,3428,0.0,17
+C.K. Browar Dunkel Weizen,3428,5.3,54
+C.K. Browar Jasne &#40;Pils&#41;,3428,5.5,39
+C.K. Browar Dunkel,3428,7.0,26
+Gladiatore Bio Hell,2647,5.2,39
+Stazione Birra Vertigo,2647,8.0,36
+Fire Mountain Brew House Hangman Winter Fest,11219,8.0,48
+Fire Mountain Brew House Tan Line Summer IPA,11219,5.2,1
+Fire Mountain Brew House Steam Fired Stout,11219,7.6,22
+Fire Mountain Brew House Bogart Northwest IPA,11219,6.9,1
+Fire Mountain Brew House Bad Henry IPA,11219,6.8,1
+Fire Mountain Brew House Oregon Pale Ale,11219,5.5,27
+Staudenbräu Staudengold Festbier Märzen,8057,6.0,31
+Staudenbräu Stauden Zwickel,8057,5.2,59
+Staudenbräu Staudengold Original,8057,5.5,56
+Staudenbräu Leichte Weisse,8057,3.3,40
+Staudenbräu Stauden Weisse,8057,4.0,40
+Rock Bottom Braintree Rockbrau Pilsner,4309,5.25,39
+Rock Bottom Braintree Liquid Courage,4309,9.3,45
+Rock Bottom Braintree Boston Fog Lager,4309,5.5,43
+Rock Bottom Braintree Cinco de Mayo,4309,0.0,17
+Rock Bottom Braintree Maibock,4309,7.1,49
+Osterbrau Chilla,5049,4.4,33
+Osterbrau Pilsner Special,5049,5.0,26
+Osterbrau Lux Oster,5049,5.0,33
+Osterbrau Pilsner Classic,5049,5.0,39
+Liquid Bread Flying Bison Rye,6289,5.3,68
+Liquid Bread Oatmeal Stout,6289,6.0,4
+Liquid Bread German Dunkelweizen,6289,4.2,54
+Liquid Bread Foreign Affair,6289,6.6,41
+Liquid Bread American Hefeweizen,6289,4.8,40
+Liquid Bread Irish Red,6289,5.0,52
+Liquid Bread Liberty Stout,6289,5.9,22
+Liquid Bread Porter,6289,5.5,15
+Liquid Bread English Porter,6289,5.2,15
+Liquid Bread Harvest Rye,6289,0.0,68
+Liquid Bread Amber Ale,6289,5.8,37
+Liquid Bread American Wheat,6289,4.8,29
+Liquid Bread English Brown Ale,6289,5.4,5
+Liquid Bread Colonial Ale,6289,6.6,17
+Liquid Bread Kolsch,6289,4.8,3
+Liquid Bread Winterfest Celebration Ale,6289,9.6,17
+Liquid Bread German Pilsener,6289,6.0,39
+Liquid Bread Double IPA,6289,8.0,11
+Liquid Bread Lemon Ale,6289,4.3,36
+Liquid Bread Pale Ale,6289,5.6,27
+Liquid Bread Roggen Lite Ale,6289,4.4,68
+Liquid Bread Paradise Stout,6289,0.0,22
+Liquid Bread Light,6289,4.6,10
+Liquid Bread American Brown Ale,6289,5.2,5
+Liquid Bread IPA,6289,6.3,1
+Liquid Bread Raspberry Wheat,6289,4.5,36
+Liquid Bread Belgian Light,6289,4.8,6
+Liquid Bread Belgian Wit,6289,6.0,8
+Liquid Bread German Hefeweizen,6289,5.5,40
+Liquid Bread Oktoberfest,6289,6.0,31
+Liquid Bread Red Rider,6289,7.5,48
+Herzog von Bavaria Cherry,2990,5.0,36
+Germanuli Tradiciuli,2990,4.5,10
+Castel Zolotoe Pivo,2990,7.0,51
+Castel Beer &#40;Georgia&#41;,2990,4.9,10
+Argo Dark,2990,5.6,26
+Zekari Lager Beer,2990,4.6,10
+Argo Extra,2990,5.6,10
+Argo Lager,2990,5.0,10
+Herzog von Bavaria,2990,5.0,33
+Argo Beer,2990,4.5,10
+Mile 68,1563,5.0,10
+Steep Canyon Stout,2464,0.0,22
+RJ Blanche de l’Île,365,4.8,40
+RJ Le Cheval Blanc Bière dÉté,365,5.0,6
+RJ Spéciale Ambrée &#40;Cheval Blanc&#41;,365,5.0,37
+RJ Le Cheval Blanc Rescousse &#40;Wheat&#41;,365,5.0,29
+RJ Tremblay,365,5.0,33
+RJ Le Cheval Blanc Sainte-Paix aux Mûres,365,5.0,36
+RJ Le Cheval Blanc Sainte-Paix aux Fraises,365,5.0,36
+RJ Spéciale Rousse &#40;Cheval Blanc&#41;,365,5.0,6
+Belle Gueule Brassin Anniversaire,365,7.0,46
+RJ Le Cheval Blanc Snoreau,365,7.0,19
+RJ Le Cheval Blanc Coup de Grisou,365,5.0,68
+RJ Le Cheval Blanc Tourmente,365,5.0,8
+RJ Le Cheval Blanc Sainte-Paix aux Pommes,365,5.0,36
+Belle Gueule Lager dHiver,365,5.2,10
+RJ Le Cheval Blanc Rescousse &#40;Pilsner&#41;,365,5.0,39
+RJ Royale de lAnse,365,5.0,5
+Bière de Noël,365,6.0,10
+Belle Gueule Pilsner,365,5.2,39
+Escousse,365,5.0,65
+Belle Gueule Blonde dÉté,365,4.5,10
+RJ Le Cheval Blanc Tord Vis!,365,6.0,6
+Belle Gueule Rousse,365,5.2,44
+RJ Le Cheval Blanc La Berlue,365,6.0,70
+RJ La Canon,365,7.6,46
+RJ Le Cheval Blanc Titanic,365,7.0,19
+RJ L’École Buissonnière,365,0.0,20
+RJ Le Cheval Blanc Loch Ness,365,6.0,21
+RJ Le Cheval Blanc Sainte-Paix aux Cerises,365,5.0,36
+Belle Gueule Brassin des Fêtes,365,6.0,49
+Illégal,365,5.8,20
+RJ Blonde dAchouffe,365,8.0,19
+Belle Gueule Originale,365,5.2,44
+RJ Brune dAchouffe,365,8.5,19
+Folie Douce,365,5.0,36
+RJ Le Cheval Blanc Blanche &#40;de Blé&#41;,365,5.0,8
+Brauerei zur Sonne Urtyp Hell Lagerbier,3802,4.8,56
+Brauerei zur Sonne Zunft Trunk Dunkel,3802,5.3,26
+Brauerei zur Sonne Sonnen Weisse,3802,5.2,40
+Brauerei zur Sonne Zwickel,3802,5.3,59
+Brauerei zur Sonne Sonnen Bock,3802,6.5,14
+Brauerei zur Sonne Sonnen Pils,3802,5.0,57
+Seelmannbräu Helles,3710,5.0,56
+Bridgehouse Heathcliff Stout,11568,5.0,22
+Bridgehouse Barnstormer,11568,4.4,16
+Bridgehouse Diken Gold,11568,3.6,20
+Bridgehouse Buffers Bitter,11568,4.0,16
+Bridgehouse Headshunt Stout,11568,5.0,22
+Kuroushi Junmai Ginjo Sake,8986,16.5,47
+Kuroushi Junmai Sake,8986,15.5,60
+Duckstein Kölsch,3524,4.5,3
+Duckstein Belgian Brown,3524,6.5,24
+Duckstein Kristall Weizen,3524,4.8,78
+Duckstein Cloudy Pils,3524,4.8,10
+Duckstein Classic Pils,3524,4.8,39
+Duckstein Vienna Lager,3524,5.5,44
+Duckstein Altfränchiser,3524,5.3,28
+Duckstein Schwarzbier,3524,4.8,65
+Duckstein Altbier,3524,3.7,28
+Duckstein Red Ale,3524,4.8,28
+Duckstein Holstein Amber,3524,3.5,37
+Duckstein Oatmeal Stout,3524,5.7,22
+Duckstein Murphys Stout,3524,4.8,22
+Duckstein Dunkel,3524,4.5,26
+Duckstein Festbier,3524,5.2,31
+Duckstein Hefe Weizen,3524,5.3,40
+Anderson Valley Mendow Mellow,60,5.5,1
+Copper Canyon Belgian Golden Strong Sour Ale,2554,0.0,19
+Copper Canyon Double Nut Brown,2554,8.0,5
+Copper Canyon Snicker Doodle,2554,9.0,19
+Copper Canyon Rocktoberfest,2554,8.0,31
+Copper Canyon Wheat,2554,0.0,40
+Copper Canyon Saison,2554,6.3,25
+Copper Canyon MacGarnicle Scotch Ale,2554,8.5,23
+Copper Canyon Toasted Pale Ale,2554,0.0,27
+Copper Canyon Big Oak Barleywine,2554,12.0,45
+Copper Canyon Devils Peak Ale,2554,6.5,1
+Copper Canyon Anniversary Ale,2554,5.0,42
+Copper Canyon Summer Sun Wheat,2554,0.0,29
+Copper Canyon Matts Mai Bock,2554,7.5,14
+Copper Canyon Oktoberfest,2554,6.3,31
+Copper Canyon Blueberry Vanilla Cream Ale,2554,5.0,36
+Copper Canyon Killer Canyon Porter,2554,5.4,15
+Copper Canyon Imperial 7 Cs IPA,2554,8.0,11
+Copper Canyon Hefe-Pils,2554,0.0,39
+Copper Canyon Ginger Kids Revenge,2554,8.0,17
+Copper Canyon ESB,2554,5.6,41
+Copper Canyon Rye-PA,2554,0.0,27
+Copper Canyon Buffalo Jump Stout,2554,6.0,22
+Copper Canyon Oatmeal Stout,2554,0.0,22
+Copper Canyon Troisieme Sein Trippel,2554,9.0,7
+Copper Canyon Apple Streudel Tripel,2554,0.0,7
+Copper Canyon Bourbon CCP Imperial Stout,2554,11.5,18
+Copper Canyon Alt,2554,5.5,28
+Copper Canyon Yellow Card APA,2554,5.5,27
+Copper Canyon L’Ete,2554,0.0,25
+Copper Canyon Devil’s Advocate Double IPA,2554,0.0,11
+Copper Canyon Summerzest,2554,5.5,29
+Copper Canyon Mixing Bowl Sour Fruit Beer,2554,0.0,12
+Copper Canyon Inauguration Ale,2554,0.0,24
+Copper Canyon Northwestern Gold,2554,4.5,20
+Copper Canyon Melange de Fleurs,2554,6.7,20
+Copper Canyon Sweet Stout,2554,0.0,4
+Copper Canyon Cedar Bock,2554,7.4,46
+Copper Canyon 10th Anniversary Ale,2554,10.0,48
+Craftsman Scotch Isle Ale,2600,0.0,21
+Craftsman Spring Braggot,2600,7.5,63
+Craftsman Wit,2600,0.0,8
+Craftsman Angelino Weisse,2600,6.1,12
+Craftsman O’ Stout,2600,3.6,22
+Craftsman Orange Grove Ale,2600,0.0,36
+Craftsman Aurora Borealis,2600,13.0,17
+Craftsman Extreme &#40;Sour&#41; Braggot,2600,8.0,12
+Craftsman Poppy Fields,2600,0.0,38
+Craftsman Rest In Peace,2600,9.5,48
+Craftsman Beer Mountain Ale,2600,8.0,35
+Craftsman IPA,2600,6.25,1
+Craftsman Abbey Single,2600,0.0,6
+Craftsman Declaration of Independence Ale,2600,8.5,48
+Craftsman Private Reserve Spruce,2600,8.1,17
+Craftsman Summer Session Ale,2600,4.0,20
+Craftsman Triple White Sage,2600,9.0,17
+Craftsman Heavenly Hefe,2600,0.0,40
+Craftsman El Prieto Sour Black Ale,2600,8.4,12
+Craftsman Flanders Red,2600,4.8,12
+Craftsman Bier De Mars,2600,8.0,74
+Craftsman Summer’s End Sour,2600,0.0,12
+Craftsman Mild,2600,3.4,9
+Craftsman Edgars Ale,2600,8.2,48
+Craftsman Cabernale,2600,8.0,36
+Craftsman Weizenbock,2600,0.0,58
+Craftsman Holiday Spruce Ale,2600,7.2,17
+Craftsman Monkey See Monkey Do,2600,8.0,11
+Craftsman Oyster Stout,2600,3.4,22
+Craftsman Biere de Blanco,2600,0.0,8
+Craftsman Eye of the Goat,2600,14.0,46
+Craftsman Berliner Weisse,2600,0.0,67
+Craftsman Burly Barleywine,2600,11.3,45
+Craftsman Sour Lavender,2600,0.0,12
+Craftsman Saison,2600,0.0,25
+Craftsman Fireworks Saison,2600,7.3,25
+Craftsman Oak Aged Edgars Ale,2600,8.2,48
+Craftsman Citrus Saison,2600,7.1,25
+Craftsman Bier De Garde,2600,7.5,74
+Craftsman Acorn Saison,2600,8.1,25
+Craftsman Harvest Saison,2600,5.9,25
+Craftsman Roggen Rauch Bock,2600,8.6,35
+Craftsman Honesty,2600,5.0,12
+Craftsman Baltic Porter,2600,8.0,32
+Craftsman Brewing Special Ed Wet-Hopped Porter,2600,0.0,15
+Craftsman La Luz,2600,6.9,6
+Craftsman .5 IPA,2600,0.0,1
+Craftsman Oktoberfest,2600,6.0,31
+Craftsman Smoked Black Lager,2600,0.0,35
+Craftsman Ruddy Bloke,2600,0.0,41
+Craftsman Baldwins Abbey 10,2600,10.2,19
+Craftsman Smokey Mountain Red,2600,8.6,35
+Craftsman Rye Pale Ale,2600,5.2,27
+Craftsman Sour Grapes,2600,0.0,12
+Craftsman 1903 Lager,2600,5.6,10
+Craftsman Four Cylinder,2600,4.0,27
+Craftsman Wryet Time,2600,0.0,68
+Craftsman Dunkelweizen,2600,5.2,54
+Craftsman Born on the 4th of July,2600,5.9,37
+Shady Grove Apple Cyser,6332,12.5,63
+Shady Grove Pineapple Honey Wine,6332,16.5,63
+Shady Grove Blackberry/Wildflower Metheglin,6332,13.5,63
+Shady Grove Wolf Valley Pear Mead,6332,12.5,63
+Shady Grove Sparkling Blackberry Thistle Mead,6332,12.5,63
+Shady Grove Poplar/Clover Traditional Sweet Mead,6332,16.5,63
+Shady Grove Poplar/Clover Sparkling Dry Mead,6332,12.5,63
+Shady Grove Touch-Me-Not Orange-Clove Metheglin,6332,0.0,63
+Shady Grove Sparkling Peach Mead,6332,12.5,63
+Shady Grove Sourwood/Clover Traditional Mead,6332,13.5,63
+Shady Grove Sparkling Locust Honey/Apricot Dry Mead,6332,12.5,63
+Shady Grove Sparkling Apricot Mead,6332,12.5,63
+Shady Grove Musky Mountain Grape,6332,12.5,63
+Holme Valley Oatmeal Stout,4758,4.4,22
+Holme Valley Oktoberfest,4758,5.0,31
+Holme Valley Stanhope Bitter,4758,4.2,16
+Dempseys Banshie Pale Ale,8445,5.5,27
+Dempseys Hemp Ale,8445,5.5,68
+Dempseys Black Bear Stout,8445,5.5,22
+Dempseys Honey Brown Wench Ale,8445,5.5,5
+Dempseys Valkyrie Red,8445,5.5,37
+Dempseys Battle Axe Blonde Ale,8445,3.9,20
+Dempseys Longship Lager,8445,7.2,10
+Dempseys Frostbite Lager,8445,5.5,33
+Arsenal Cider Oaked Picket Bone Dry Hard Apple Cider,12696,8.0,55
+Arsenal Cider Picket Bone Dry Hard Apple Cider,12696,8.0,55
+Arsenal Cider Archibald’s Amber Hard Apple Cider,12696,7.5,55
+Arsenal Cider Fighting Elleck Hard Apple Cider,12696,8.2,55
+Lampertheimer Dunkel,12752,5.0,26
+Lampertheimer Pils,12752,5.0,39
+Lampertheimer Cannabis,12752,5.0,17
+Lampertheimer Hefeweizen,12752,5.0,40
+Archibald Orchards McIntosh Oak Aged,9436,0.0,55
+Archibald Orchards Hard Apple Cider,9436,0.0,55
+Archibald Orchards McIntosh,9436,0.0,55
+Archibald Orchards Spiced Winter Apple,9436,11.6,55
+Archibald Orchards Ida Red Oak Aged,9436,0.0,55
+Pek Temno,8880,0.0,65
+Pek Svetlo,8880,0.0,2
+Oze No Yukidoke IPA,8775,5.0,1
+Oze No Yukidoke White Weizen,8775,5.0,8
+Oze No Yukidoke 10th Anniversary Double IPA Triple,8775,8.0,11
+Oze No Yukidoke Brown Weizen,8775,5.0,40
+Oze No Yukidoke Stout &#40;Kuro&#41;,8775,5.0,22
+Oze No Yukidoke 60 Up IPA,8775,7.0,1
+Oze No Yukidoke Heavy Heavy,8775,8.5,45
+Malvern Magic New Meadow Perry,7732,6.5,64
+Malvern Magic Stoke Red Cider,7732,6.0,55
+Malvern Magic Blakeney Red Perry,7732,6.5,64
+Malvern Magic Perry,7732,7.0,64
+Malvern Magic Morgan Sweet Cider,7732,6.1,55
+Stiefel-Jürgens Ur-Alt Dunkel &#40;naturtrüb&#41;,5767,4.8,28
+Stiefel-Jürgens Stephanus-Bräu,5767,4.8,20
+Stiefel-Jürgens Winterbräu,5767,5.2,31
+Stiefel-Jürgens Obergäriges Lagerbier,5767,4.8,3
+Stiefel-Jürgens  Stiefels Hefe-Weizen,5767,4.8,40
+Stiefel-Jürgens Kellerbier,5767,4.8,59
+Stiefel-Jürgens Helles,5767,0.0,56
+Hopfenstark Framboise Forte Édition Spéciale &#40;Oak Aged&#41;,8201,8.0,36
+Hopfenstark Saison Station 55 &#40;Bière Amère&#41;,8201,6.5,25
+Hopfenstark End of the Trail,8201,5.5,27
+Hopfenstark Boson de Higgs,8201,3.8,13
+Hopfenstark Berlin Alexanderplatz,8201,3.2,67
+Hopfenstark Postcolonial IPA,8201,6.5,1
+Hopfenstark Kamarad Friedrich,8201,11.0,18
+Hopfenstark Baltic Porter de LAncrier,8201,8.0,32
+Hopfenstark Hooligan Bitter,8201,3.5,16
+Hopfenstark Black Francis Stout,8201,5.0,71
+Hopfenstark LouLou Porter 1929,8201,5.5,15
+Hopfenstark Baltic Porter de LAncrier &#40;Oak Aged&#41;,8201,8.0,32
+Hopfenstark Loulou Porter à lÉrable,8201,8.0,15
+Hopfenstark Ostalgia Blonde &#40;Oak Aged&#41;,8201,5.0,20
+Hopfenstark Yule,8201,8.0,17
+Hopfenstark Saison Station 7 &#40;Bière aux Herbes&#41;,8201,5.0,25
+Hopfenstark Framboise,8201,5.0,36
+Hopfenstark Faust Triple,8201,9.0,7
+Hopfenstark Saison Station 16 &#40;de Seigle&#41;,8201,6.0,25
+Hopfenstark Baltic Porter de L’Ancrier &#40;Bourbon Barrel&#41;,8201,8.0,32
+Hopfenstark Helles,8201,5.5,56
+Hopfenstark Capitain Swing,8201,9.0,45
+Hopfenstark Ostalgia Rousse,8201,5.0,28
+Hopfenstark Ostalgia Blonde,8201,5.0,20
+Hopfenstark Greg American Foreign Harvest Stout,8201,7.0,75
+Hopfenstark LouLou Porter 1920,8201,5.0,15
+Hopfenstark Berlin Alexanderplatz Epilogue,8201,3.5,67
+Hopfenstark Saison Du Repos,8201,6.0,25
+Hopfenstark Belgian IPA,8201,6.7,6
+Hopfenstark Faust Triple &#40;Bourbon Barrel&#41;,8201,9.0,7
+Hopfenstark Capitain Swing &#40;Bourbon Barrel&#41;,8201,10.0,45
+Hopfenstark Roggen IPA,8201,6.0,68
+Hopfenstark Double Porter à l’Érable &#40;Oak Aged&#41;,8201,8.0,34
+Hopfenstark Blanche lErmitage,8201,5.0,8
+Hopfenstark Stark Rauchen,8201,5.0,35
+Hopfenstark Kamarad Friedrich - 5 Star Edition &#40;Bourbon Barrel&#41;,8201,12.0,18
+Hopfenstark Can &quot;Indian&quot; &#40;Hockey Cynic Ale&#41;,8201,5.0,20
+Hopfenstark Kamarad Friedrich - 5 Star Edition &#40;Oak Aged&#41;,8201,11.0,18
+Springfield Red Dragon Cider,8368,7.2,55
+Springfield Sledgehammer Cider,8368,8.4,55
+Springfield Old Barn Cider,8368,7.2,55
+Beachy Head Cliff Hanger,8983,5.0,41
+Beachy Head Parson Darby’s Hole,8983,4.0,22
+Beachy Head South Downs Ale,8983,4.4,16
+Beachy Head St. Wilfie’s Ale,8983,4.5,16
+Beachy Head Legless Rambler,8983,5.2,41
+Beachy Head Christmas Jumper,8983,7.2,70
+Beachy Head Birling Burner,8983,4.2,16
+Beachy Head Snow Drop,8983,6.2,72
+Beachy Head Original,8983,4.5,16
+Beachy Head Sunny Sussex,8983,4.6,20
+Olde Stone Red Fife Wheat Ale,110,5.0,29
+Olde Stone Spiced Christmas Porter,110,0.0,15
+Olde Stone Vienna Amber,110,0.0,44
+Olde Stone Pumpkin Ale,110,0.0,17
+Olde Stone Pursuit of Hoppiness,110,0.0,1
+Olde Stone Boston Pale Ale,110,5.0,27
+Olde Stone Cream Ale,110,5.0,42
+Olde Stone Dixon Porter,110,0.0,15
+Olde Stone 15th Anniversary Barley Wine,110,10.5,45
+Olde Stone Or Dubh Stout,110,5.1,71
+Olde Stone Slow Acres Wet Hop Ale,110,4.9,27
+Olde Stone Wilde Old Ale,110,5.6,72
+Olde Stone Coffee Porter,110,0.0,15
+Olde Stone Homegrown Pale Ale,110,5.0,27
+Olde Stone India Pale Ale,110,5.2,1
+Olde Stone Pickwicks Best Bitter,110,4.5,41
+Olde Stone Smoked Porter,110,5.0,15
+Olde Stone ESB,110,5.6,41
+Olde Stone Anniversary Ale,110,4.5,9
+Corner Pub Brown Ale,4015,0.0,5
+Corner Pub Weiss,4015,0.0,40
+Corner Pub American Pale Ale,4015,0.0,27
+Corner Pub Maple Ale,4015,0.0,17
+Corner Pub Triple Chocolate Milk Stout,4015,0.0,4
+Corner Pub American Pale Ale - Rhubarb Infused,4015,0.0,17
+Corner Pub Amber Lager,4015,0.0,44
+Corner Pub Old Gold,4015,3.9,10
+Corner Pub Bock,4015,5.3,49
+Corner Pub Red Dot IPA,4015,0.0,1
+Corner Pub Milk Stout,4015,0.0,4
+Corner Pub Garten Herbal,4015,0.0,17
+Corner Pub American Pale Ale - Dill Pickle Infused,4015,0.0,17
+Corner Pub Muck Farm Mint Ale,4015,0.0,17
+Corner Pub Bourbonized Scotch Ale,4015,0.0,23
+Corner Pub Rye IPA,4015,0.0,68
+Corner Pub Oktoberfest,4015,0.0,31
+Corner Pub Black Beauty Porter,4015,0.0,15
+Corner Pub American Pale Ale - Rhubarb Cherry Infused,4015,0.0,36
+Corner Pub Wisconsin Apple Ale,4015,0.0,36
+Corner Pub Red Ale,4015,0.0,37
+Corner Pub Cream Ale,4015,0.0,42
+Corner Pub Dry Stout,4015,0.0,71
+Corner Pub Pumpkin Ale,4015,0.0,17
+Corner Pub Cream Caramel Ale,4015,0.0,42
+Corner Pub Chocolate Porter,4015,0.0,15
+Corner Pub Bourbon Barrel Blonde,4015,0.0,20
+Corner Pub Vanilla Cream Ale,4015,0.0,42
+Corner Pub Alaskan Smoked Porter,4015,0.0,35
+Corner Pub Fest Rye,4015,0.0,68
+Bollhayes Vintage Devon Cider,5867,0.0,55
+Bollhayes Medium Cider,5867,7.0,55
+Bollhayes Medium Dry Cider,5867,6.0,55
+Bollhayes Dry Cider,5867,7.0,55
+Applewood Farm MacIntosh,8945,12.8,55
+Applewood Farm Mac Meade,8945,7.0,63
+Applewood Farm Iced Cider,8945,21.0,69
+Applewood Farm Meade,8945,20.0,63
+Applewood Farm Small Cask Buckwheat Meade,8945,20.0,63
+Applewood Farm Madrigal Meade,8945,0.0,63
+Applewood Farm Smoke’in Apple,8945,13.0,69
+Applewood Farm Dragon’s Fyre,8945,22.9,63
+Metzler Hell,6420,5.0,59
+Barbara Bier,6420,5.0,28
+Huber Bräu Meisterpils,4955,4.8,39
+Huber Bräu Gold,4955,0.0,31
+Huber Bräu Tiroler Spezial,4955,5.3,33
+Huber Bräu Weizen Dunkel,4955,5.2,54
+Huber Bräu Tiroler Edelhell,4955,4.9,56
+Huber Tiroler Spezial Dunkel,4955,5.0,26
+Huber Bräu Radler,4955,2.6,36
+Huber Bräu Tiroler Hefeweizen Hell,4955,5.2,40
+Huber Bräu Augustinus,4955,5.0,26
+Huber Bräu St. Johanner Original,4955,4.9,31
+Anderson Valley Gatlin Damnosus,60,8.8,12
+Anderson Valley Hop Ottin IPA,60,7.0,1
+Anderson Valley Deep Enders Dark Porter,60,5.5,15
+Anderson Valley Boont ESB,60,6.8,41
+Anderson Valley Bahl Hornin’ Leeber Zeese Oatmeal Porter,60,5.0,15
+Anderson Valley Oatmeal Pumpkin Porter,60,5.2,17
+Anderson Valley Brother Davids Double,60,9.0,24
+Anderson Valley Seepy Sike,60,8.0,70
+Anderson Valley Horn of the Beer Barley Wine,60,10.3,45
+Anderson Valley Rude Eye Red Ale,60,0.0,37
+Anderson Valley Summer Solstice Wheat,60,5.3,29
+Anderson Valley Port Barrel Stout,60,8.7,22
+Anderson Valley Horse Tongue,60,4.3,29
+Anderson Valley Anniversary XV,60,0.0,48
+Anderson Valley 3-Way,60,5.3,6
+Anderson Valley Barrel Aged Horn of the Beer Barley Wine,60,8.6,45
+Beerguy Stoutier,60,0.0,4
+Anderson Valley 000 Triple Naught,60,0.0,37
+Anderson Valley Brother Davids Triple,60,10.0,7
+Anderson Valley Poleeko Gold Pale Ale,60,5.5,27
+Anderson Valley Hoppy Mendo Estate,60,0.0,1
+Anderson Valley Huge’r Boont,60,7.3,48
+Anderson Valley Imperial IPA,60,9.2,11
+Anderson Valley Bahl Hornin’ Wee Geech Pale Ale,60,4.4,27
+Anderson Valley Drunkin Horn Bourbon Barrel,60,8.8,45
+Anderson Valley Summer Solstice Cerveza Crema,60,5.6,42
+Anderson Valley Bahl Hornin’ Boontlinger Weiss,60,4.7,29
+Anderson Valley 20th Anniversary Imperial IPA,60,8.7,11
+Anderson Valley Buckeye Brown,60,6.3,5
+Anderson Valley Winter Solstice,60,6.9,17
+Anderson Valley Bahl Hornin’ Imperial Boont Amber Ale,60,8.8,48
+Anderson Valley VSOB,60,8.8,45
+Anderson Valley Bahl Hornin’ Nettied Madge Black IPA,60,6.25,50
+Anderson Valley Hop Fresca,60,6.0,1
+Anderson Valley Raspberry Wheat Beer,60,6.1,36
+Anderson Valley Bootjack Brown Ale,60,0.0,5
+Anderson Valley Double Nickel,60,8.8,11
+Anderson Valley Imperial Stout,60,0.0,18
+Anderson Valley Boont Amber Ale,60,5.8,37
+Anderson Valley Cuvee 128,60,8.0,19
+Anderson Valley Barney Flats Oatmeal Stout,60,5.7,22
+Anderson Valley Hi-Pockety Hop,60,0.0,11
+Beerguy India Pale Ale,60,7.0,1
+Anderson Valley Boont Bruin,60,5.0,12
+Anderson Valley Barkley’s Sour Horn,60,9.0,45
+Anderson Valley Grand Cru,60,9.5,19
+Anderson Valley Bahl Hornin’ Mowkeef Saison,60,5.4,25
+De Wijkgaard Betuws Framboos,7806,5.5,36
+De Wijkgaard Betuws Witte,7806,5.5,6
+De Wijkgaard Betuws Duiveltje,7806,9.0,19
+De Wijkgaard Betuws Tripel,7806,8.0,7
+De Wijkgaard Betuws Kriek,7806,6.5,36
+Briar Creek Towhead Ale,10256,0.0,20
+Stagecoach Ale,3483,0.0,27
+Stagecoach Amber Ale,3483,5.3,37
+Stagecoach Golden Ale,3483,0.0,20
+Stagecoach Smoked Porter,3483,6.0,35
+Bartmanns Kölsch,5934,4.5,3
+Hüchelner Urstoff,5934,4.7,3
+Stecken Kölsch,5934,4.7,3
+Pedavena Birra Dolomiti Doppio Malto 6.7%,8874,6.7,14
+Pedavena Birra Puro Malto Analcolica,8874,0.0,66
+Kalif Pils,8874,4.7,10
+Pedavena Birra Dolomiti Pils 4.9%,8874,4.9,10
+MontAvena,8874,4.9,10
+Pedavena Birra del Centenario,8874,5.8,59
+Pedavena Speciale 110,8874,5.9,39
+Gasthaus Premium Beer,8874,4.7,10
+Pedavena Birra Pedavena,8874,5.0,39
+Obsthof Kaufmann Caldera Apfelmost Bohnapfel Halbtrocken,8812,5.8,55
+Obsthof Kaufmann Caldera Apfelmost Elstar Trocken,8812,6.0,55
+Birmingham Mild Ale - BMA,10119,3.4,9
+Birmingham Pale Ale,10119,4.1,16
+Gambrinus &#40;Uzbekistan&#41; Nefiltrovne,5044,0.0,33
+Gambrinus &#40;Uzbekistan&#41; Filtrovne,5044,0.0,33
+Metbrauerei Striewski Honig-Met Fruchtig & Lieblich,13679,10.0,63
+Metbrauerei Striewski Honig-Met Classic,13679,11.0,63
+Bienen-Voigt Honig-Met Lieblich,13679,10.0,63
+Mill Top Dry Cider,6999,7.0,55
+Specht Pilsener,3388,4.8,57
+Specht Bockbier,3388,6.1,14
+Specht Schwarzer Specht,3388,6.1,49
+Specht Export,3388,5.0,56
+Specht Greifensteinquell Landbier,3388,4.8,59
+Specht Spezial,3388,5.0,56
+Lucky Hand Black Lager,11332,5.5,65
+Lucky Hand Cali Common,11332,5.5,43
+Naked Dove 45 Fathoms Porter,12523,5.5,15
+Naked Dove Straker’s IPA,12523,5.5,1
+Naked Dove Wind Blown Amber,12523,4.8,37
+Naked Dove Hopulus Localus,12523,6.0,1
+Naked Dove Anniversary Roggenbier,12523,0.0,68
+Oyster Bar Stock Ale,3354,10.0,45
+Oyster Bar Oyster Stout,3354,5.8,4
+Oyster Bar Lighthouse Ale,3354,4.1,3
+Oyster Bar Amber Ale,3354,5.8,37
+Oyster Bar IPA,3354,6.4,1
+Oyster Bar Raspberry Wheat,3354,0.0,36
+Oyster Bar Olde Excavator,3354,7.9,46
+Oyster Bar The Highland Flame,3354,5.6,21
+Oyster Bar Luna Lager,3354,5.0,10
+Oyster Bar Oktoberfest,3354,5.8,31
+Oyster Bar Dunkles Bock,3354,7.3,46
+Wëllen Ourdaller,4566,6.5,68
+Waïssen Ourdaller,4566,5.0,40
+Cornelyshaff Hengeschter,4566,4.2,59
+Rocky River Brewery Oktoberfest,2357,0.0,31
+Rocky River Brewery Copperhead Red Ale,2357,5.5,28
+Rocky River Brewery Twin Peaks Pilsener,2357,0.0,39
+Rocky River Brewery Highland Dew Scottish Ale,2357,6.4,21
+Rocky River Brewery Panther Creek Porter,2357,0.0,15
+Rocky River Brewery Bearbottom Stout,2357,4.4,71
+Rocky River Brewery Ten Pointe Ale,2357,4.3,3
+Rocky River Brewery Heidelberg Hefeweizen,2357,5.0,40
+Rocky River Brewery Golden Eagle Lager,2357,4.5,10
+Charleston East Bay IPA,885,6.25,1
+Charleston Half Moon Hefe Weizen,885,4.84,40
+Rocky River Brewery Winterfest Ale,2357,0.0,17
+Rocky River Brewery Mad Wolf IPA,2357,6.0,1
+Rocky River Brewery Grand Cru,2357,0.0,7
+Rock Bottom Scottsdale Happy Pils,4292,5.0,39
+Rock Bottom Scottsdale IPA,4292,0.0,1
+Rock Bottom Scottsdale Thirsty Monk,4292,8.0,24
+Rock Bottom Scottsdale Desert Trail Pale Ale,4292,5.8,38
+Rock Bottom Scottsdale Wedding Bliss NW Amber,4292,6.4,37
+Rock Bottom Scottsdale Sub Zero Spiced Ale,4292,6.5,17
+Rock Bottom Scottsdale El Hefe,4292,5.6,40
+Rock Bottom Scottsdale Raptor Red,4292,5.4,37
+Rock Bottom Scottsdale Bohemian Pils,4292,5.2,2
+Rock Bottom Scottsdale Sub Zero Chocolate Porter,4292,5.8,15
+Rock Bottom Scottsdale Roadrunner Brown,4292,5.3,5
+Rock Bottom Scottsdale Liquid Sun,4292,0.0,25
+Rock Bottom Scottsdale Gila Pale Ale,4292,5.8,27
+Rock Bottom Scottsdale Sub Zero Wee Heavy,4292,8.0,23
+Rock Bottom Scottsdale Saguaro Stout,4292,4.8,22
+Garthela Barm Cake Bitter,10339,3.8,16
+Garthela Pint Of Parkin,10339,4.3,16
+Garthela Oven Bottom Bitter,10339,3.8,16
+Stateline White-Out Wit,10635,0.0,8
+Stateline Avalanche Ale,10635,0.0,27
+Stateline IPA,10635,0.0,1
+Stateline Pilsner,10635,0.0,57
+Stateline Double Time Strong Ale,10635,0.0,23
+Appalachian Kipona Fest,574,5.2,31
+Appalachian Herr Ridge,574,0.0,37
+Appalachian Cervesa Limon,574,4.0,10
+Appalachian Peche,574,0.0,36
+Appalachian Raspberry Imperial Stout,574,10.0,18
+Appalachian Bonfatto’s Bellefonte Brew,574,0.0,29
+Appalachian Susquehanna Stout,574,4.6,71
+Appalachian Trail Blaze Organic Brown,574,0.0,5
+Appalachian Celtic Knot Red,574,4.8,52
+Appalachian IPAthree Cascade,574,7.57,11
+Appalachian Karma California Common,574,5.55,43
+Appalachian IPAone Nugget,574,7.57,11
+Appalachian Dunkelweizen,574,5.5,54
+Appalachian Peregrine Pilsner,574,4.8,2
+Appalachian Framboise,574,0.0,36
+Appalachian Hinterland Hefe Weizen,574,5.2,40
+Appalachian Sophies Sparkling Ale/Mead,574,4.6,63
+Appalachian Cornerstone Espresso Stout,574,0.0,22
+Appalachian Pennypacker Porter,574,5.4,15
+Appalachian Fog of War Imperial Stout,574,0.0,18
+Appalachian Hoppy Trails IPA,574,6.2,1
+Appalachian Montebello Farm Belgian Dubbel,574,7.5,24
+Appalachian Kriek,574,0.0,36
+Appalachian Broad Street Barley Wine,574,12.8,45
+Appalachian Adams Amber Ale,574,0.0,37
+Appalachian Anniversary Maibock,574,7.2,14
+Appalachian Chocolate Cherry Stout,574,4.5,22
+Appalachian Espresso Susquehanna Stout,574,4.5,22
+Appalachian Oak Aged Susquehanna Stout,574,0.0,22
+Appalachian Tripelocity,574,0.0,7
+Appalachian 666,574,7.7,70
+Heritage Smokin Maple,11578,0.0,35
+Scotch Irish Sgt. Majors IPA,11578,5.5,1
+Heritage Passion Brew,11578,4.5,36
+Heritage Premium Lager,11578,4.5,10
+Scotch Irish Dogsbody,11578,3.5,20
+Ste. Andre Great Eastern India Pale Ale,11578,6.3,1
+Heritage Strawbeery,11578,0.0,36
+Scotch Irish Tsarina Katarina Imperial Stout,11578,9.0,18
+Heritage IPA,11578,5.0,1
+Heritage Black Currant Rye Lager,11578,4.5,36
+Heritage Black Currant Rye Ale,11578,5.5,36
+Scotch Irish Black Irish Plain Porter,11578,4.5,15
+Heritage Maple Bush Lager,11578,4.6,35
+Scotch Irish Entire Butt Porter,11578,0.0,15
+Scotch Irish Session Ale,11578,3.8,16
+Scotch Irish Corporal Punishment &#40;Corporal’s Bitter Brown&#41;,11578,4.3,5
+Scotch Irish Glengarry 90 Shilling,11578,0.0,21
+Scotch Irish Black Plain Strawberry Porter,11578,0.0,15
+Spring House Seven Gates Pale Ale,9382,5.6,27
+Appalachian Koning De Quad,574,11.41,30
+Appalachian Keller Pilsner,574,4.8,59
+Appalachian Grinnin Grizzly,574,5.7,17
+Appalachian Mad Cameron Belgian White,574,5.2,8
+Appalachian Riverside Red Ale,574,4.8,37
+Appalachian Rockville Rye Ale,574,5.3,68
+Appalachian Imperial Stout,574,0.0,18
+Appalachian Coconut Porter,574,0.0,15
+Appalachian Mountain Lager,574,4.5,56
+Appalachian Highland Amber Ale,574,0.0,37
+Appalachian IPAtwo Summit,574,7.57,11
+Appalachian Major Hops Olde Ale,574,7.0,72
+Appalachian Black IPA,574,6.5,50
+Appalachian ABC ESB,574,5.3,41
+Appalachian Schwartz Bier,574,0.0,65
+Appalachian Coyote Joes Coffee Stout,574,0.0,4
+Appalachian Outta Focus,574,8.0,11
+Appalachian Purist Pale Ale,574,4.9,27
+Appalachian English Mild,574,0.0,9
+Appalachian Schimmelfenning Smoked Ale,574,5.6,35
+Appalachian Vienna Lager,574,0.0,44
+Appalachian Zoigl Star Lager,574,5.9,59
+Appalachian Oak Aged Broad Street Barley Wine,574,12.8,45
+Appalachian Celtic Knot Single-Malt Scotch French Oak,574,4.8,52
+Appalachian Jolly Scot Scottish Ale,574,5.2,21
+Appalachian Smoked Imperial Pilsner,574,0.0,35
+Zeuis IPA,574,0.0,1
+Appalachian Rauchbock,574,0.0,35
+Appalachian Jolly Scot with Molasses,574,0.0,21
+Appalachian Abbey Roade,574,6.4,24
+Appalachian Obbies Grand Cru,574,7.2,6
+Appalachian Green Tea Pilsner,574,6.35,57
+Appalachian Water Gap Wheat,574,4.5,29
+Appalachian Paxton Kriek,574,0.0,36
+Appalachian Volks Weizenbock,574,7.2,58
+Appalachian Vanilla Porter,574,0.0,15
+Appalachian Golden Toos,574,9.8,19
+Appalachian Dom Blonde Kölsch,574,5.0,3
+Appalachian Rebel Yell Rye Pale Ale,574,0.0,27
+Lijiang Yinjiu,5319,20.0,13
+Crones Special Reserve Cider,4883,7.5,55
+Crones User Friendly Cider,4883,6.2,55
+Crones Norfolk Perry - Sweet &#40;Draught&#41;,4883,6.4,64
+Crones Norfolk Perry - Dry &#40;Draught&#41;,4883,6.2,64
+Crones Cider - Dry &#40;Rum Cask&#41; &#40;Draught&#41;,4883,7.5,55
+Crones Really Wicked Organic Cider,4883,7.5,55
+Crones Original Organic Cider,4883,7.4,55
+Elliott Bay Brandy Barrel Imperial Brown,1236,0.0,5
+Elliott Bay Vanilla Bean Organic Stout,1236,6.3,4
+Elliott Bay Bière de Todd,1236,0.0,6
+Elliott Bay 1492 Imperialist Red Ale,1236,6.3,48
+Elliott Bay Blended Brett Beer,1236,0.0,12
+Elliott Bay Noale Holiday Ale,1236,7.35,70
+Elliott Bay B-Town Brown,1236,5.0,5
+Elliott Bay Abbey Von Boorian,1236,7.5,24
+Elliott Bay Helles,1236,5.0,56
+Elliott Bay Alembic Pale Ale,1236,5.25,27
+Elliott Bay Black IPA,1236,6.3,50
+Elliott Bay Hellmouth Imperial IPA,1236,0.0,11
+Elliott Bay Hop Scotch,1236,8.0,23
+Elliott Bay Bourbon Barrel Imperial Stout,1236,0.0,18
+Elliott Bay Strawberry Blonde,1236,0.0,36
+Elliott Bay Solstice Dubbel,1236,0.0,24
+Elliott Bay Five Grain Mild,1236,0.0,9
+Elliott Bay Old Pilot Porter,1236,0.0,15
+Elliott Bay Vanilla Bourbon Stout,1236,0.0,22
+Elliott Bay Bavarian Hefeweizen,1236,0.0,40
+Elliott Bay Syrah Barrel Aged Baltic Porter,1236,0.0,32
+Elliott Bay Bok Von Boorian,1236,0.0,6
+Elliott Bay One Hop Pale Ale &#40;Crystal&#41;,1236,0.0,27
+Elliott Bay Darkside Wit,1236,0.0,8
+Elliott Bay Orange Infusion,1236,0.0,36
+Elliott Bay RyePA,1236,0.0,1
+Elliott Bay Chocolate Imperial Stout,1236,0.0,18
+Elliott Bay Red von Boorian,1236,5.0,6
+Elliott Bay Cat ’O 5 Tails,1236,0.0,12
+Elliott Bay Luna Weizen,1236,4.25,29
+Elliott Bay Firegold,1236,0.0,27
+Elliott Bay Hop Harvest,1236,5.8,27
+Elliott Bay Brett Von Boorian,1236,4.75,12
+Elliott Bay Saison Von Boorian,1236,5.0,25
+Elliott Bay IPA,1236,5.8,1
+Elliott Bay Klondike Gold,1236,0.0,20
+Elliott Bay California Ave IPA,1236,5.9,1
+Elliott Bay Hop von Boorian,1236,5.8,1
+Elliott Bay Imperial Stout,1236,11.9,18
+Elliott Bay Wit von Boorian,1236,4.7,8
+Elliott Bay Noir Von Boorian,1236,5.25,65
+Elliott Bay Highline IPA,1236,5.8,1
+Elliott Bay Riot Ale,1236,8.0,48
+Elliott Bay Fuerte Von Boorian,1236,9.25,19
+Elliott Bay Kill Bill III,1236,7.6,17
+Elliott Bay Three Tree Imperial Porter,1236,0.0,34
+Elliott Bay Sunny Dale Pale,1236,0.0,27
+Elliott Bay Tabasco Pilot Light,1236,0.0,17
+Elliott Bay Belgian Black IPA,1236,5.8,50
+Elliott Bay Old Portside Barleywine,1236,0.0,45
+Elliott Bay Chocolate Porter,1236,6.33,15
+Elliott Bay & Pub Tre Hop Birthday,1236,0.0,11
+Elliott Bay Pine Top Red Ale,1236,5.75,37
+Elliott Bay Organic Alder Smoked Coffee Stout,1236,0.0,22
+Elliott Bay Pilot Light,1236,4.0,10
+Elliott Bay Imperial India Red Ale,1236,6.0,1
+Elliott Bay Imperial Brown Ale,1236,7.6,5
+Elliott Bay Imperial Knit Wit,1236,7.25,8
+Elliott Bay PABST,1236,8.7,17
+Elliott Bay No Doubt Stout,1236,6.3,22
+Elliott Bay Gulden Von Boorian,1236,7.3,6
+Elliott Bay Batch 200,1236,0.0,48
+Elliott Bay Bourbon Barrel Imperial Porter,1236,9.0,34
+Elliott Bay Tabasco Stout,1236,0.0,17
+Elliott Bay Pale Von Boorian,1236,0.0,6
+Elliott Bay West Side Brown,1236,5.3,5
+Elliott Bay Olde Burien 600,1236,7.4,77
+Elliott Bay One Hop Pale Ale &#40;Sorachi Ace&#41;,1236,0.0,27
+Elliott Bay Imperial von Boorian,1236,7.1,11
+Elliott Bay Hopus Callosum Double IPA,1236,7.6,11
+Elliott Bay Organic Baltic Porter,1236,0.0,32
+Elliott Bay Scotch von Boorian,1236,5.7,21
+Elliott Bay Rockin Organic Rye,1236,0.0,68
+Elliott Bay Demolition Ale,1236,7.5,48
+Elliott Bay Belgian IPA,1236,0.0,1
+Elliott Bay Mashing Pumpkin Ale,1236,7.99,17
+Elliott Bay Barleywine &#40;Pro-Am&#41;,1236,0.0,45
+Elliott Bay New Year Pale Bock,1236,0.0,14
+Elliott Bay Barrel Blend: Syrah Porter + Chocolate Porter,1236,0.0,15
+Elliott Bay 60 Something Red,1236,0.0,37
+Elliott Bay To Helles & Bock,1236,0.0,14
+Elliott Bay Anniversary Ale,1236,0.0,6
+Elliott Bay El Niño Fall Fest,1236,0.0,37
+Elliott Bay West Seattle Pale Bock,1236,0.0,14
+Elliott Bay Dark Star Porter,1236,0.0,15
+Elliott Bay Bourbon Porter,1236,0.0,15
+Elliott Bay Herbert&#8217;s Cask Fest Ale,1236,7.0,11
+Elliott Bay Gin-Barrel-Aged Farmouse Ale,1236,0.0,25
+Elliott Bay Organic Coffee Stout,1236,6.8,22
+Elliott Bay Pro Am Imperial IPA,1236,8.2,11
+Wiesener Frühlingsbock,5670,7.5,14
+Wiesener Altfränkisches Landbier,5670,5.6,59
+Wiesener Räuber Bock,5670,7.5,14
+Wiesener Märzen,5670,5.9,31
+Wiesener Räuber Weisse Dunkel,5670,5.2,54
+Wiesener Räuber Weisse,5670,5.2,40
+Wiesener Pils,5670,4.7,57
+Wiesener Kellerbier,5670,4.8,26
+Wiesener Export,5670,5.6,56
+Brauerei Eichhorn Export,5760,5.0,56
+Brauerei Eichhorn Bock,5760,7.3,14
+Brauerei Eichhorn Pils,5760,5.0,39
+Brauerei Eichhorn Kellerbier,5760,5.0,59
+Brauerei Eichhorn Weisse,5760,5.3,40
+Graffiti Pilsner,6824,0.0,39
+Olympic Cellars Honey & Lavender Wine,6092,10.9,63
+Burggraf Weihnachtsbock,8088,6.3,49
+Burggraf Schwarz,8088,4.6,65
+Burggraf Pils,8088,4.5,39
+Burggraf Weizen Hell,8088,5.0,40
+Burggraf Märzen Dunkel,8088,4.5,26
+Burggraf Maibock,8088,5.5,14
+Airbräu Airnten,860,4.2,33
+Airbräu Aviator,860,7.8,46
+Airbräu Jet A-1,860,5.8,31
+Airbräu Kumulus,860,5.4,40
+Airbräu Mayday,860,5.6,54
+Airbräu FliegerQuell,860,5.2,56
+Airbräu Krampus,860,5.3,26
+Airbräu Jetstream,860,4.8,2
+Hanby Egg-streme,2614,4.1,16
+Hanby Summers Coming,2614,4.3,16
+Hanby Rainbow Chaser,2614,4.3,20
+Hanby Scorpio Porter,2614,4.5,15
+Hanby Ho Ho Hop,2614,5.0,70
+Hanby Shropshire Stout,2614,4.6,22
+Hanby Black Magic Mild,2614,4.0,9
+Wem Lime Zinger,2614,4.5,36
+Hanby Spring It On,2614,3.2,16
+Wem The Rushing Dolls Harrys Beer,2614,4.2,20
+Hanby Pheasant Tail,2614,4.3,20
+Hanby Pure Gold,2614,3.7,20
+Hanby Alcohop,2614,4.2,20
+Hanby Kiwi Bullet,2614,4.0,20
+Hanby Wem Special,2614,4.4,16
+Hanby All Seasons,2614,4.2,16
+Hanby Whits End Dark,2614,3.9,9
+Hanby Golden Beauty Session Bitter,2614,4.1,16
+Hanby Pole Dancer,2614,4.4,20
+Hanby Premium Bitter,2614,4.6,41
+Hanby Three Hop Drop,2614,4.3,16
+Hanby Wizards Wobbler,2614,4.3,16
+Hanby Vanilla Red,2614,3.8,16
+Hanby Drawwell Bitter,2614,3.9,16
+Hanby Barge In Bitter,2614,3.9,16
+Hanby Olde Wemian,2614,4.9,41
+Hanby Slaked Blonde,2614,3.9,20
+Wem Cherry Bomb,2614,6.0,70
+Hanby Blue Tit,2614,4.5,16
+Hanby Dusky Maiden,2614,5.2,41
+Hanby Mild Mayhem,2614,5.0,9
+Hanby Forget me not,2614,4.6,16
+Hanby Hopbine Harvester,2614,4.0,20
+Hanby Golden Honey,2614,4.5,20
+Hanby ALEelujah,2614,5.0,70
+Hanby Cascade,2614,4.5,20
+Hanby Taverners Ale,2614,5.3,72
+Hanby Grapefruit Bitter,2614,4.5,41
+Hanby Nutcracker,2614,6.0,70
+Hanby Thunderhead,2614,4.9,16
+Hanby Joybringer,2614,6.0,20
+Hanby Four Thumbs,2614,4.8,41
+Hanby Tawny Bitter,2614,4.1,16
+Golden Eagle Ale,3100,0.0,20
+Barnsley IPA,2804,4.2,16
+Barnsley Spring Barley,2804,4.1,16
+Blackpool Pale Ale / BPA,2804,4.2,16
+Barnsley Black Heart,2804,4.6,22
+Barnsley Bitter,2804,3.8,16
+Barnsley Harvest Gold,2804,4.0,16
+Barnsley Red Heart,2804,4.1,16
+Barnsley Glory,2804,4.8,41
+Barnsley Umpires Finger,2804,4.5,16
+Barnsley Crackle Porter,2804,5.0,15
+Cox & Holbrook Lion In Winter,4807,5.0,41
+Cox & Holbrook Woolpit White,4807,4.1,20
+Cox & Holbrook Stormwatch,4807,5.0,70
+Cox & Holbrook Stowmarket Porter,4807,5.0,15
+Cox & Holbrook Old Mill Bitter,4807,3.8,16
+Cox & Holbrook Beyton Bitter,4807,3.9,16
+Cox & Holbrook Remus,4807,5.0,41
+Cox & Holbrook Rattlesden Best Bitter,4807,4.0,16
+Cox & Holbrook Shelley Dark,4807,3.6,9
+Cox & Holbrook Albion Pale Ale,4807,3.8,16
+Cox & Holbrook East Anglian Pale Ale,4807,6.0,70
+Altitude Mistletoe IPA,3569,0.0,1
+Altitude Krampus Spiced Weizenbock,3569,8.0,58
+Altitude Amber Ale,3569,5.0,37
+Altitude Cistercian Order Abbey,3569,7.8,24
+Altitude Backcountry Bitter,3569,5.2,16
+Altitude 7200 Stout,3569,7.0,75
+Altitude Mexican Chile Ale,3569,5.5,17
+Altitude Winter Bock,3569,0.0,49
+Altitude French Saison,3569,0.0,25
+Altitude Farmhouse Ale,3569,7.3,74
+Altitude Maibock,3569,0.0,14
+Altitude Grizzley Whisperer IPA,3569,7.75,1
+Altitude Smoked Chile,3569,0.0,17
+Altitude Tumblewheat,3569,5.6,29
+Altitude Whitewater Wheat,3569,5.8,29
+Altitude Porter Wheat Chocolate Weizen,3569,0.0,54
+Altitude Rosebud Strong Ale,3569,6.5,48
+Altitude High Plains Pale Ale,3569,6.0,27
+Altitude Gilmore Gulch Razzberry Wheat,3569,0.0,36
+Altitude Bearpaw Brown Ale,3569,5.5,5
+Altitude Pumpkin Love,3569,5.1,17
+Altitude Gray Majic,3569,8.75,45
+Altitude Expedition Porter,3569,6.5,15
+Altitude Highland Scottish Ale,3569,0.0,21
+Altitude Solar Weizen,3569,5.8,40
+Altitude Belgian Dubbel,3569,0.0,24
+Altitude X,3569,7.75,25
+Altitude Shillelagh Irish Red,3569,6.5,52
+Altitude Berry Weizen Bock,3569,0.0,58
+Quidi Vidi Winter Beer,1257,5.5,10
+Quidi Vidi Kriek,1257,5.0,36
+Quidi Vidi 1892 Traditional Ale,1257,5.0,37
+Quidi Vidi Erics Red Cream Ale,1257,5.0,42
+QV Light,1257,4.0,10
+Quidi Vidi Mummers Brew,1257,6.0,17
+Quidi Vidi Honey Brown Light,1257,4.0,5
+Quidi Vidi Honey Brown,1257,5.0,76
+Quidi Vidi Cranberry Cloud,1257,6.0,36
+Quidi Vidi Iceberg Beer,1257,4.5,10
+Quidi Vidi 7 High Torque Beer,1257,7.0,10
+QV Lager,1257,5.0,10
+BH Extra Nefiltrata,5550,0.0,44
+BH Bruna Nefiltrata,5550,0.0,26
+BH Bruna Filtrata,5550,0.0,26
+BH Blonda Filtrata,5550,0.0,10
+BH Extra Filtrata,5550,6.5,44
+BH Blonda Nefiltrata,5550,0.0,29
+Hopf Eisweißbierbock &#40;Ice&#41;,2285,7.5,58
+Schlierseer Dunkel,2285,5.7,26
+Hopf Helle Weiße &#40;Das Original&#41;,2285,5.3,40
+Schlierseer Gold,2285,5.5,56
+Hopf Eisweißbier &#40;White&#41;,2285,5.5,40
+Schlierseer Helles Weissbier,2285,5.4,40
+Hopf Dunkle Weiße,2285,5.0,54
+Hopf Kristall Weiße,2285,5.3,78
+Hopf Spezial Weisse,2285,6.0,40
+Hopf Russ’n-Halbe,2285,2.8,36
+Schlierseer Hell,2285,4.8,56
+Wendelsteiner Hefeweissbier,2285,5.4,40
+Hopf Weizen-Ale &#40;Red&#41;,2285,4.7,40
+Hopf Die Alkoholfreie,2285,0.0,66
+Hopf Die Leichtere,2285,3.3,40
+Hopf Weißer Bock,2285,7.0,58
+Cumbrian Legendary American Invasion,7703,4.0,20
+Cumbrian Legendary Melbreak,7703,3.7,16
+Cumbrian Legendary Buttermere Beauty,7703,4.8,33
+Cumbrian Legendary Wicked Jimmy,7703,3.6,16
+Cumbrian Legendary Ales &#40;Loweswater&#41; Rothay Red IPA,7703,4.5,1
+Cumbrian Legendary Croglin Vampire Doppelbock,7703,8.0,46
+Cumbrian Legendary Claife Crier,7703,5.0,22
+Cumbrian Legendary Loweswater Pale Ale,7703,3.6,20
+Cumbrian Legendary Esthwaite / Dicky Doodle,7703,3.9,20
+Cumbrian Legendary Langdale,7703,4.0,16
+Cumbrian Legendary King Dunmail,7703,4.2,16
+Cumbrian Legendary Grasmoor Dark Ale,7703,4.3,72
+Cumbrian Legendary Loweswater Gold,7703,4.3,20
+Cumbrian Legendary Scary Mary,7703,4.2,20
+Tilsiter Hell Unfiltriert,12801,0.0,56
+Stadtbrauerei Troisdorf Gold,6207,5.3,56
+Stadtbrauerei Troisdorf Frühlingsbier,6207,0.0,56
+Stadtbrauerei Troisdorf Troilsch,6207,4.9,3
+Stadtbrauerei Troisdorf  Wies´n-Bier,6207,6.0,40
+Stadtbrauerei Troisdorf Weizen,6207,5.1,40
+Stadtbrauerei Troisdorf Strong Stout,6207,5.5,22
+Stadtbrauerei Troisdorf Weihnachtsbier,6207,5.2,13
+Stadtbrauerei Troisdorf Dunkles Sommerweizen,6207,0.0,54
+Stadtbrauerei Troisdorf Troisdorfer,6207,4.9,39
+Stadtbrauerei Troisdorf Troi-Pi,6207,5.1,57
+Rough Old Wife Dry Cider,11203,7.5,55
+Nantahala Eddy Out Stout,10997,5.75,22
+Nantahala Nanny Gold,10997,5.2,59
+Nantahala Pale Ale,10997,5.5,27
+Nantahala Sticky Dog Stout,10997,6.7,71
+Nantahala Depot Street Summer Wheat,10997,4.4,40
+Nantahala Noon Day IPA,10997,5.75,1
+Nantahala Appalachian Trail Extra Pale Ale,10997,5.8,27
+Nantahala Up River Amber,10997,5.5,43
+Nantahala Bryson City Brown,10997,3.8,5
+Nantahala Chocolate Covered Cherry Stout,10997,6.1,22
+Nantahala Belgian Dirty Girl Golden Ale,10997,8.5,19
+Nantahala Dirty Girl Blonde,10997,5.75,20
+Nantahala Rivers End Oktoberfest,10997,6.0,31
+North Country April Fools Gold,5729,0.0,27
+North Country Fruit Bowl &#40;Strawberry&#41;,5729,0.0,36
+North Country Keystone Swankey,5729,0.0,43
+North Country Fruit Bowl &#40;Plum&#41;,5729,0.0,36
+North Country Fruit Bowl &#40;Boysenberry&#41;,5729,4.7,36
+North Country McCleods Ewe,5729,4.9,21
+North Country Honey Bear Brown,5729,0.0,5
+North Country Stinky Hippie,5729,4.4,1
+North Country Das Ist Gut Altbier,5729,4.7,28
+North Country Breakfast Blend Mild,5729,3.7,9
+North Country Nit Wit!,5729,0.0,8
+North Country Wee Heavy Imp Ale,5729,0.0,23
+North Country Paleo I.P.A.,5729,5.8,1
+North Country Jodis ESB,5729,0.0,41
+North Country Psychedelic Nightmare,5729,10.4,7
+North Country Candi A--,5729,5.2,31
+North Country Amber Waves of Grain,5729,5.2,37
+North Country Kians Smoked Porter,5729,5.0,35
+North Country Boo Blueberry,5729,4.3,36
+North Country Simcoe Pale Ale,5729,0.0,27
+North Country The Other One,5729,8.4,72
+North Country Belgian Nightmare,5729,9.2,7
+North Country Creamation Ale,5729,4.9,42
+North Country Paddlers Pale Ale,5729,5.6,38
+North Country Catherine the Great,5729,0.0,18
+North Country Mid-Summer’s Nite Gold,5729,0.0,20
+North Country Grand Cru,5729,0.0,19
+North Country  Amarillo Pale Ale,5729,0.0,27
+North Country McCaffertys Ale,5729,4.5,52
+North Country Emmas Pale Ale,5729,4.8,27
+North Country Slippery Rock Dew,5729,4.2,17
+North Country Northern Lite,5729,3.9,20
+North Country Raspberry Beret,5729,4.4,36
+North Country Bourbon Dubble Trouble,5729,5.9,24
+North Country Dunk Ale,5729,6.0,37
+North Country Embalmer,5729,9.3,45
+North Country Black Bear - E,5729,0.0,36
+North Country Dubble Trouble,5729,6.5,24
+North Country Buck Snort Stout,5729,6.1,4
+North Country Double Buck-Up Stout,5729,0.0,22
+North Country Kölsch 45,5729,0.0,3
+North Country Canadian Gold,5729,4.8,10
+North Country Squirrels Nut Brown,5729,4.5,35
+North Country Rock N Wheat,5729,5.0,40
+North Country Red Ale,5729,5.5,52
+North Country Summer Weizenbock,5729,6.1,58
+North Country Copper Kettle,5729,5.3,17
+North Country Liquid Love Stout,5729,0.0,22
+North Country Double Vision IPA,5729,7.9,11
+North Country Premier Saison,5729,6.6,25
+North Country Worth Your Weight In Gold,5729,0.0,56
+North Country Stone House Stout,5729,4.3,22
+North Country Dark Ages Ale,5729,4.9,65
+North Country Abbey Holiday Ale,5729,0.0,6
+North Country Somethings A Rye,5729,6.1,68
+North Country Friars Porter,5729,6.1,15
+North Country Oink Oink Ale,5729,0.0,35
+North Country Sams Harvest Ale,5729,5.7,31
+North Country Feedbag,5729,6.1,4
+North Country Mothers Milk Stout,5729,5.4,4
+North Country Daum Dunkel Weizen,5729,5.5,54
+North Country Warrior Pale Ale,5729,0.0,1
+North Country Cherry Garcia,5729,4.4,36
+Maypole Flanagans Extra Stout,4546,4.5,71
+Maypole Mad Mild,4546,5.2,9
+Maypole Cockchafer,4546,4.1,20
+Maypole Celebration Bitter,4546,4.0,16
+Maypole Wonky Donkey,4546,5.2,70
+Maypole Normanton IPA,4546,3.6,16
+Maypole Maybee,4546,4.3,16
+Maypole Kiwi IPA,4546,4.8,20
+Maypole Mayfair,4546,4.1,20
+Maypole Mayhem,4546,5.0,41
+Maypole Ghost Train,4546,4.7,15
+Maypole Little Weed,4546,3.4,16
+Maypole Buzz Lightbeer,4546,4.7,20
+Maypole Gate Hopper,4546,4.0,20
+Maypole Mae West,4546,4.6,20
+Maypole Platinum Blonde,4546,5.0,20
+Maypole BXA,4546,4.0,16
+San Andreas Pale Ale,2625,0.0,27
+San Andreas Earthquake Porter,2625,0.0,15
+Lan Cang River Gold Tornado,5280,4.3,10
+Lan Cang River Dancing Wind,5280,4.0,10
+Lan Cang River 11P,5280,3.7,10
+Lan Cang River 10P,5280,3.3,10
+Spilker XPO Espresso Stout,3383,0.0,71
+Spilker Summer Seduction,3383,3.8,29
+Spilker Foggen Lager,3383,0.0,10
+Spilker Wind Chill,3383,0.0,17
+Spilker Monkeywrench Brown Ale,3383,0.0,5
+Spilker Spring OPeel,3383,0.0,36
+Spilker Hopluia,3383,0.0,1
+Spilker Autumn Ale,3383,3.5,17
+Spilker Cortland Wheat,3383,0.0,29
+Spilker Hopluia Double Hop,3383,0.0,1
+Liverpool Blondie,3769,4.1,20
+Gallo Ice,474,5.0,10
+Cerveza Sol &#40;Guatemala&#41;,474,5.3,10
+Dorada Draft,474,4.4,10
+Gallo Light,474,4.2,10
+Baja,474,4.5,10
+Cerveza Navideña,474,5.0,10
+Dorada Mix,474,4.5,10
+Nautica Especial,474,3.9,10
+Moza Bock,474,4.5,49
+Gallo,474,5.0,10
+Culebra Lager,474,3.9,10
+Autentica Clara Cerveza,474,3.9,10
+Gallo Dark,474,5.0,65
+Cerveza Monterrey Light,474,3.34,10
+Dorada Michelado,474,5.0,39
+Mariachi &#40;Guatemala&#41;,474,4.0,10
+Bahia,474,4.6,10
+Monte Carlo,474,5.3,10
+Cerveza Monterrey,474,3.9,10
+Rio Claro Premium Lager,474,4.1,10
+Lupita Olé,474,5.0,10
+Stats,474,4.0,36
+Dorada Ice,474,5.0,10
+Lupita Durango,474,5.0,10
+Cerveza Victoria &#40;Guatemala&#41;,474,5.0,10
+Gallo Draft,474,4.4,10
+Playa De La Cruz,474,4.5,10
+Moza Gold,474,5.0,10
+Severn Vale Severn Nations,6245,4.4,16
+Severn Vale Severn Seas of Rye,6245,3.8,20
+Severn Vale Severn Springs,6245,4.4,20
+Severn Vale Vale Ale,6245,4.0,16
+Severn Vale Dance Of The Severn Vale,6245,4.5,20
+Severn Vale Session,6245,3.4,16
+Severn Vale Blake’s Severn,6245,5.2,41
+Severn Vale Severn Sins,6245,5.2,22
+Severn Vale Monumentale,6245,4.5,15
+Severn Vale Dursley Steam Bitter,6245,4.2,16
+Severn Vale Severn Bells,6245,4.3,20
+Severn Vale Severn Swans-A-Swimming,6245,4.7,41
+Severn Vale Time Out,6245,4.5,16
+Severn Vale Dance Bitter,6245,4.5,20
+Red Brick Summer Brew Hefe-weizen,14,0.0,40
+Numbers Ale,14,0.0,20
+Red Brick Oak Aged Peachtree Pale Ale,14,5.5,27
+Red Brick Vanilla Gorilla,14,7.5,34
+Red Brick Blonde,14,4.0,20
+Atlanta Laughing Skull Amber Ale &#40;2009 - present&#41;,14,0.0,37
+Red Brick Winter Brew &#40;2008&#41; Barrel Aged,14,8.2,19
+Red Brick Oktoberfest &#40;2009 and later&#41;,14,5.2,31
+Red Brick Elderbone,14,0.0,20
+"Red Brick Vanilla Gorilla, Jack Barrel Aged",14,7.5,15
+Red Brick Ale,14,6.5,5
+Red Brick Smoke Break,14,0.0,15
+Atlanta Brewing Barrel Select,14,8.8,5
+O’Dempsey’s Big Red Ale,14,6.0,52
+Red Brick 15th Anniversary Ale,14,9.0,48
+Red Brick Winter Brew &#40;2003 and Earlier&#41;,14,5.9,15
+Red Brick Grand Ma’s Ale,14,0.0,15
+Red Brick Helles Bock 2009,14,6.8,14
+Fred Brick,14,5.2,43
+Bogart Ale,14,0.0,41
+Red Brick Smoked Vanilla Gorilla,14,7.5,15
+Red Brick Solstice Roggenbock,14,0.0,14
+Brodies Irish Oyster Stout,3911,4.8,22
+Red Brick ESB plus 15th Anniversary,14,0.0,41
+Red Brick Long John Ale,14,8.2,19
+O’Dempsey’s Inukshuk IPA,14,7.0,1
+Red Brick Double IPA,14,9.0,11
+Red Brick Vadiamani,14,0.0,15
+Red Brick Helles Bock 2008,14,6.7,14
+Red Brick Summer Brew &#40;2005 and earlier&#41;,14,4.5,29
+Red Brick Porter,14,7.7,15
+Red Brick Zingo Pop,14,0.0,11
+Red Brick Mild,14,4.2,9
+Red Brick Up Your Kilt,14,7.0,23
+Red Brick Ale Bourbon Select,14,6.5,5
+Red Brick Golden Lager,14,5.5,39
+Red Brick Double Chocolate Oatmeal Porter,14,7.7,15
+Red Brick Old Stock Ale,14,7.2,72
+Atlanta Kellys Light Irish Stone Brewed,14,3.8,13
+Red Brick American Wheat,14,0.0,29
+Red Brick 16th Anniversary Ale,14,11.0,48
+TAP Cask-Conditioned American Best Bitter,14,0.0,27
+Reverend Mudbones Homegrown Hopshine,14,0.0,20
+Atlanta Laughing Skull Bohemian Pilsener &#40;2008 and earlier&#41;,14,5.0,2
+O’Dempsey’s Inukshuk IPA with Rosemary,14,7.0,1
+Red Brick Jaison Saison,14,10.0,25
+Red Brick Black Brick,14,0.0,6
+Inner City Brickhouse Lager,14,5.1,10
+Red Brick Zingo Pop &#40;Xperimental Hops&#41;,14,7.5,11
+Red Brick HopLanta,14,6.7,1
+Red Brick Octoberfest &#40;2007-2008&#41;,14,6.0,31
+Red Brick Helluva Bock,14,7.0,14
+TAP Cask-Conditioned American Stout,14,6.0,75
+Red Brick Red Bock,14,0.0,49
+Red Brick Autumnfest,14,0.0,54
+Red Brick Peachtree Pale Ale,14,5.5,27
+Atlanta Pfefferneusse Porter,14,8.8,17
+Red Brick Dog Days Ale,14,0.0,40
+Laker Ice,1199,5.5,10
+J.R. Brickman Honey Red,1199,5.0,76
+PC 2.5 g Low Carb,1199,4.0,10
+Algonquin Dark Cream Ale,1199,0.0,42
+PC Premium Draft,1199,5.0,10
+Algonquin Black and Tan,1199,0.0,76
+Algonquin Honey Brown,1199,5.0,76
+PC Ultimate Honey Brown Lager,1199,5.0,76
+Laker Lager,1199,5.0,10
+Algonquin Country Lager,1199,0.0,10
+Brick Waterloo Amber,1199,6.8,31
+Laker Dry Premium Lager,1199,0.0,10
+Algonquin Special Reserve Ale,1199,5.0,37
+Conners Best Bitter,1199,5.0,41
+Brick Waterloo Wheat,1199,5.0,8
+Brick Red Baron,1199,5.0,10
+PC Red Premium Lager,1199,5.2,10
+PC Genuine Lager,1199,5.0,10
+PC Blanche,1199,5.0,8
+Brick Anniversary Pilsner,1199,5.0,2
+Laker Ale,1199,4.8,20
+Formosa Springs Cold Filtered Draft,1199,5.0,10
+Brick Bock,1199,7.0,49
+Brick Bock &#40;2009 & 2010 versions&#41;,1199,5.8,49
+Brick Red Cap Ale,1199,4.9,20
+Laker Red 5.5,1199,5.5,76
+J.R. Brickman Amber,1199,5.0,76
+Laker Strong Premium Lager,1199,5.9,77
+Brick Red Baron Light,1199,4.0,10
+Laker Lager Light,1199,4.0,10
+Brick Red Baron Lime,1199,4.0,36
+Brick Amber Dry,1199,0.0,10
+Brick Waterloo Radlermass Lemonade Lager,1199,4.8,36
+Brick Premium Lager,1199,5.0,10
+Ball Premium Light,1199,0.0,10
+Laker Honey,1199,5.0,10
+PC Cerveza,1199,0.0,10
+Brick Honey Red,1199,5.0,76
+Brick Bambay,1199,2.5,36
+Brick Red Baron Platinum Light,1199,2.7,10
+Brick Waterloo Dark,1199,5.0,65
+J.R. Brickman Pilsner,1199,5.0,39
+Brick Lager Yellow Label,1199,4.9,10
+PC Light,1199,4.0,10
+PC Ultimate Dry Ice,1199,5.5,10
+Formosa Springs Light,1199,4.0,10
+PC Strong Draft,1199,5.9,10
+Motts Clamato Red Eye,1199,4.8,17
+PC Honey Red,1199,5.0,76
+Laker Strong 6.5,1199,6.5,51
+Brick Waterloo Wheat &#40;2009 version and later&#41;,1199,5.0,29
+PC Pilsner,1199,5.0,10
+Pearl Street Lucky Logger Lager,2778,5.5,10
+Pearl Street Fruitbat Frambois,2778,0.0,36
+Pearl Street Morning Glory Hemp Porter,2778,0.0,15
+Pearl Street D.T.B. Brown,2778,5.5,5
+Pearl Street El Hefe,2778,4.8,40
+Pearl Street Pale Ale,2778,6.0,27
+Pearl Street Thats What I m Talkin Bout Organic Rolled Oat Stout,2778,6.0,22
+Pearl Street Leiderhosen Lager,2778,5.5,31
+Pearl Street Bedwetter Barley Wine,2778,10.0,45
+Pearl Street Evil Doppleganger,2778,0.0,46
+Pearl Street Java Lava Stout,2778,6.0,22
+Pearl Street Dankenstein,2778,9.5,11
+Pearl Street Mamas Milk Cream Stout,2778,0.0,4
+Pearl Street Smokin Hemp Porter,2778,0.0,15
+Pearl Street Harvest Ale,2778,0.0,31
+Scheunenbräu Ingwer Honig,12838,9.0,17
+Peter Bs Raspberry Wheat,2128,0.0,36
+Peter Bs Wheat,2128,0.0,29
+Peter Bs Peach Ale,2128,5.0,36
+Peter Bs Chocolate Porter,2128,0.0,15
+Peter Bs Brown Ale,2128,5.0,5
+Peter Bs IPA,2128,0.0,1
+Peter Bs Dark Wheat,2128,0.0,54
+Peter Bs Rusty Penny Ale,2128,0.0,27
+Peter Bs Porter,2128,0.0,15
+Peter Bs Winterbrau,2128,5.5,13
+Peter Bs Seven Malt Stout,2128,0.0,22
+Peter Bs Wheat Hefeweizen,2128,0.0,40
+Peter Bs Amber Ale,2128,0.0,37
+Peter Bs Golden Ale,2128,0.0,20
+Peter Bs Oktoberfest,2128,5.0,31
+Peter Bs Pilsner,2128,0.0,39
+Peter Bs Scotch,2128,0.0,23
+Bad Münstereifeler Ritterbier,8002,4.9,37
+Bad Münstereifeler Burgbier,8002,0.0,59
+Bad Münstereifeler Festbier,8002,4.9,59
+Bad Münstereifeler Weissbier,8002,4.8,40
+Bad Münstereifeler Landbier,8002,4.9,3
+Bad Münstereifeler Fest Bock,8002,6.0,20
+Bad Münstereifeler Oktoberbier,8002,4.8,56
+Bad Münstereifeler Gold Hopfen Pils,8002,4.9,20
+Bad Münstereifeler Schwarzbier,8002,4.9,5
+Bad Münstereifeler Weihnachts-Kloster Bier,8002,4.9,26
+Bad Münstereifeler Vollmondbier,8002,0.0,56
+Great Northern Pack String Porter,86,5.0,15
+Great Northern Experiment #1,86,0.0,27
+Great Northern Hellroaring Amber,86,5.1,37
+Black Star Black Lager,86,0.0,65
+Great Northern Glacier Chaser,86,5.6,31
+Great Northern Wheatfish Hefeweizen,86,4.75,40
+Great Northern Big Fog ESB,86,6.0,41
+Great Northern Going To The Sun IPA,86,5.7,1
+Great Northern Frog Hop Fresh Hopped Pale Ale,86,5.0,27
+Great Northern Freds Black Lager,86,4.9,65
+Great Northern Bear Naked Amber,86,7.0,44
+Great Northern Snow Ghost,86,5.9,76
+Great Northern Good Medicine Imperial Spring Ale,86,8.0,48
+Great Northern Scottish Ale,86,4.6,23
+Highlander Beer,86,4.6,21
+Great Northern Going To The Sun Pale Ale,86,5.7,27
+Black Star Amber Export,86,0.0,10
+Great Northern Bourbon Barrel Aged #2 Big Fog,86,6.1,41
+Great Northern Bourbon Barrel Aged #1 Pack String Porter,86,5.2,15
+Great Northern Bucking Horse Pilsner,86,5.1,2
+Black Star Golden Lager,86,4.6,10
+Great Northern Wild Huckleberry,86,4.6,36
+Meyringer Export,8857,5.0,56
+Meyringer Vollbier Hell,8857,4.7,56
+Meyringer Pilsner,8857,4.7,39
+Meyringer Georgi Weizen,8857,4.9,40
+Marcus-Bräu Märkischer Bock,3420,7.1,49
+Marcus-Bräu Pils Unfiltriert,3420,0.0,56
+Marcus-Bräu Preussen Dunkel,3420,0.0,26
+Marcus-Bräu WM Festbier,3420,6.42,14
+Marcus-Bräu Pils Filtriert,3420,0.0,56
+San Gabriel Bionda,7907,5.5,20
+San Gabriel Ambra Rossa di Treviso,7907,5.5,37
+San Gabriel Weizen,7907,5.5,40
+San Gabriel Buschina,7907,7.5,44
+Brodies Wimbledon,3911,3.3,16
+Brodies Americana Fountain,3911,4.0,27
+Brodies Amarilla,3911,4.2,20
+Brodies Orient,3911,4.0,16
+Brodies Summer Berry Brew,3911,3.5,36
+Brodies Jamaican Stout,3911,5.0,22
+Brodies Kiwi,3911,3.8,20
+Brodies Stella,3911,6.6,50
+Brodies Cherry Popper,3911,3.7,36
+Brodies Whitechapel Weizen,3911,4.5,29
+Brodies Old Street IPA,3911,6.4,1
+Brodies Blue,3911,4.8,36
+Brodies Summer Stout,3911,2.8,22
+Brodies IPA,3911,4.0,16
+Brodies Brokeback Bitter,3911,3.7,16
+Brodies East London Bitter,3911,4.0,16
+Brodies Silver Bullet,3911,4.7,27
+Brodies Elizabethan,3911,22.0,70
+Brodies Pride of St George,3911,5.3,41
+Brodies Pina Colada Porter,3911,4.2,15
+Brodies Shoreditch Sunshine,3911,3.8,20
+Brodies Pomegranate Pale Ale,3911,4.1,36
+Brodies King Charles I Fine Ale,3911,5.0,16
+Brodies / Dark Star Brodstar,3911,5.0,27
+Brodies Dorothy’s Friend,3911,4.1,16
+Brodies Peanut Butter Mild,3911,3.8,9
+Brodies 7-hop Session,3911,3.7,20
+Brodies West Coast Common,3911,4.5,43
+Brodies Triple,3911,13.3,19
+Brodies Polska,3911,6.0,70
+Brodies London Lager,3911,4.5,33
+Brodies London Fields Pale Ale,3911,4.0,20
+Brodies Oaked English 7 Hop,3911,7.0,1
+Brodies Pink Pride,3911,3.4,36
+Brodies Ginger Beer,3911,4.8,13
+Brodies Bethnal Green Bitter,3911,4.0,16
+Brodies Super Summer Lite,3911,1.9,66
+Brodies Giddy Blonde,3911,2.7,20
+Brodies Californian,3911,5.3,27
+Brodies Organic Belgian Ale,3911,3.9,6
+Brodies East London Gold,3911,3.5,20
+Brodies Deep Fried Mars Bar,3911,4.1,16
+Brodies Red,3911,4.3,52
+Brodies Saison,3911,5.5,25
+Brodies Grand Cru,3911,8.8,58
+Brodies Mild,3911,3.6,9
+Brodies Republic Revolution,3911,4.0,27
+Brodies Cascade Red,3911,4.3,37
+Brodies Absolute C#%t,3911,5.8,15
+Brodies Pecan Pale,3911,4.7,41
+Brodies Romanov Empress Stout,3911,12.1,18
+Brodies Republican Revolution IPA,3911,6.1,1
+Brodies London Drinker 25,3911,4.2,16
+Brodies Ruby London Porter,3911,3.8,15
+Brodies Superior London Porter,3911,7.8,34
+Brodies Hoxton Special IPA,3911,6.6,1
+Brodies Green Bullet,3911,3.8,20
+Brodies Seven Hop IPA,3911,7.7,1
+Brodies Wit,3911,4.2,8
+Brodies / Kernel Stella for Breakfast,3911,6.2,22
+Brodies Fountain Columbus,3911,3.7,20
+Brodies Brewers Gold,3911,3.7,20
+Brodies Dragon Weiss,3911,3.9,29
+Brodies El Dorado,3911,3.9,20
+Brodies Blend DR9 Bitter,3911,4.0,16
+Brodies Olde Ardour,3911,5.7,72
+Brodies Ho Ho Ho,3911,5.5,41
+Brodies Hackney Red IPA,3911,6.1,1
+Brodies 100 Hop Rock,3911,5.0,1
+Brodies Egyptian Hip Hops,3911,4.2,16
+Brodies Brain Wave,3911,3.1,20
+Brodies American Brown,3911,4.8,5
+Brodies The Colnel,3911,4.1,25
+Brodies Imperial IPA,3911,10.0,11
+Brodies Passion,3911,3.8,36
+Brodies Wild Mild,3911,4.0,9
+Brodies Special,3911,4.5,16
+Brodies Dry-Hopped Birthday Pale Ale,3911,3.6,20
+Brodies Doppel Dunkel Weisen Heisen,3911,6.0,54
+Brodies Bah Humbug,3911,4.0,16
+Brodies Bumble,3911,4.5,16
+Brodies Citra,3911,3.1,20
+Brodies Sunshine,3911,4.0,20
+Brodies Rakau Rye,3911,4.2,68
+Brodies / Steel City Mental Hop Bastard,3911,6.2,27
+Brodies English Best,3911,3.9,16
+Brodies Golden Nugget,3911,3.8,27
+Brodies Dalston Black IPA,3911,7.0,50
+Brodies West End Best,3911,4.0,16
+Brodies Old Fountain Hop Mountain,3911,7.7,27
+Brodies Mint Choc Chip Stout,3911,4.7,22
+Brodies Lab Rat US Porter,3911,5.0,15
+Brodies Piggy Winkles Christmas Tinkle,3911,3.9,20
+Brodies Black IPA,3911,6.8,50
+Brodies Old Hoppers Brew,3911,3.8,16
+Brodies Herriot Watt Ale,3911,4.3,20
+Brodies Kosher Rye Pale Ale,3911,4.1,68
+Brodies Superior London Porter &#40;10%&#41;,3911,10.0,34
+Water Street Old Wookie Barleywine,4985,11.0,45
+Water Street Ninkasis Nectar,4985,8.0,58
+Water Street Porthole Porter,4985,0.0,15
+Water Street India Pale Ale,4985,0.0,1
+Water Street Crack of Dawn Harvest Ale,4985,0.0,9
+Water Street The Schwag,4985,0.0,20
+Water Street Big Phatty Imperial Red,4985,8.0,48
+Water Street Purdy Pale Ale,4985,0.0,27
+Water Street Panama Red,4985,6.2,37
+Water Street Sheba Coffee Stout,4985,0.0,22
+Water Street Millennium Falcon Amber,4985,0.0,37
+Water Street Herberts Legendary Ale,4985,0.0,11
+Water Street Dancing Feet Wheat,4985,0.0,29
+Water Street Richs Folly,4985,0.0,48
+Water Street Big Phat Morning Wood,4985,12.0,48
+Water Street Smokestack Weissen,4985,0.0,29
+Water Street Queen Nina Imperial IPA,4985,7.5,11
+Water Street Burrs Frosty,4985,0.0,48
+Water Street Downtown Brown,4985,0.0,12
+Water Street Balls to the Wall,4985,0.0,11
+Water Street Strange Brew Single Hop,4985,5.5,27
+Water Street Mayor McPriors Irish Stout,4985,0.0,71
+Water Street Skipa Fresh Hop,4985,0.0,1
+Big Dogs Mango Madness,4599,4.5,36
+Big Dogs Blueberry Wheat,4599,5.0,36
+Big Dogs Strawberry Wheat,4599,0.0,36
+Big Dogs Chocolate Porter,4599,5.5,15
+Big Dogs Fur Hound Peach Lager,4599,0.0,36
+Big Dogs Chipotle Lime Ale,4599,0.0,36
+Big Dogs Pit Bull Porter,4599,0.0,15
+Big Dogs Holy Cow! Original Pale Ale,4599,5.3,27
+Big Dogs Balls of Holly Christmas Ale,4599,0.0,17
+Big Dogs War Dog Imperial IPA,4599,8.3,11
+Big Dogs Dopple Weizen,4599,8.0,58
+Big Dogs Watch Dog Wit,4599,4.5,8
+Big Dogs El Perro Diablo Belgian-style Golden Strong Ale,4599,9.0,19
+Big Dogs Bitches Brew Pumpkin Ale,4599,5.0,17
+Big Dogs Kilt Sniffer Scottish Ale,4599,0.0,23
+Big Dogs Spike Double IPA,4599,9.5,11
+Big Dogs Hop Dog 500 Imperial IPA,4599,9.4,11
+Big Dogs Cranberry Ale,4599,0.0,36
+Big Dogs Extra Hopped Pale Ale,4599,0.0,27
+Big Dogs Centennial IPA,4599,7.7,11
+Big Dogs Bad Dog Brown,4599,5.8,5
+Big Dogs Blackberry Wheat,4599,4.5,36
+Big Dogs Black Lab Stout,4599,5.5,22
+Big Dogs USA IPA,4599,7.6,11
+Big Dogs K-9 Kolsch,4599,5.0,3
+Big Dogs Traditonal Oktoberfest Lager,4599,6.0,31
+Big Dogs Sled Dog Stout,4599,6.8,22
+Big Dogs Red Hydrant Ale,4599,5.6,52
+Big Dogs Honey Amber,4599,0.0,37
+Big Dogs Oktoberfest,4599,0.0,31
+Big Dogs Razzleberry Wheat,4599,0.0,36
+Big Dogs Goat Herder Spring Bock,4599,6.0,14
+Big Dogs 38 Special,4599,5.3,37
+Big Dogs Doghouse Dunkelweizen,4599,0.0,54
+Big Dogs Bourbon Barrel-Aged Stout,4599,9.0,18
+Big Dogs Hodgepodge Ale,4599,7.2,48
+Big Dogs Raspberry Brewbie SupPorter,4599,6.0,36
+Big Dogs Belgian Strong,4599,0.0,19
+Big Dogs Old Nevada Lager,4599,0.0,43
+Big Dogs Sled Dog Imperial Stout,4599,9.1,18
+Big Dogs Cherry Light,4599,0.0,36
+Big Dogs All-Americanine Cream Ale,4599,0.0,42
+Big Dogs Tailwagger Wheat,4599,4.8,40
+Big Dogs Wonderdog Double IPA,4599,0.0,11
+Big Dogs Small IPA,4599,0.0,1
+Big Dogs Leglifter Light,4599,4.0,10
+Big Dogs Imperial Stout,4599,0.0,18
+Big Dogs Alpha Dog Double Red,4599,7.8,48
+Big Dogs Small Beer,4599,4.5,16
+Big Dogs Mad Dog Malt Liquor,4599,8.5,77
+Big Dogs Real Draft,4599,0.0,10
+Big Dogs Dog’s Bollocks IPA,4599,0.0,1
+Big Dogs Rail Dog Steam Lager,4599,5.0,43
+Big Dogs Dog Gone Saison,4599,5.6,25
+Big Dogs Belgian Dubbel,4599,7.9,24
+Big Dogs Puff Dogg Smoked Porter,4599,0.0,35
+Big Dogs Fire Dog Smoked Wheat,4599,8.0,35
+Big Dogs Bohemian Pilsner,4599,5.0,2
+Big Dogs Dirty Dog IPA,4599,6.5,1
+Big Dogs Dog House Dark Wheat,4599,0.0,54
+Big Dogs 7777,4599,7.7,1
+Big Dogs Dog Pound Pilsner,4599,5.0,39
+Big Dogs Kat-h-ator Doppelbock,4599,8.3,46
+Big Dogs Cherry Wheat,4599,5.0,29
+Big Dogs Moon Dog Barley Wine,4599,9.3,45
+Big Dogs Hop Harvest Ale,4599,7.1,1
+Big Dogs Chili Dog Ale,4599,5.0,17
+Munique Claro,8514,0.0,10
+Munique Escuro,8514,0.0,65
+Palm Green,670,0.25,66
+Brugge Tripel,670,8.2,7
+Palm Sauvin,670,4.6,6
+Brugge Blond,670,6.5,6
+Brugs Blond,670,6.0,6
+Palm Ongefilterd &#40;draught&#41;,670,0.0,6
+Martins 100 Years Cuvée Spéciale,670,6.8,37
+Steenbrugge Dubbel Bruin,670,6.5,24
+Palm Dobbel,670,5.5,6
+Steenbrugge Wit,670,5.0,8
+Steenbrugge Tripel,670,8.7,7
+Peerdebrug Blond,670,6.0,6
+Palm Bière de Noël,670,5.0,6
+Palm Royale,670,7.5,19
+Steenbrugge Abdij Bock,670,6.5,49
+Palm Steenhuffel Blond &#40;Cask&#41;,670,4.6,6
+Steenbrugge Blond,670,6.5,6
+Brugse Tripel,670,9.0,7
+Tequierros,670,5.7,17
+Estaminet Premium Pils,670,5.2,39
+Palm Hopper,670,6.0,6
+Steendonk Brabants Witbier,670,4.5,8
+Palm Aerts 1900,670,7.4,19
+Palm 4.6 / Steenhuffel Blond,670,4.6,6
+Palm Speciale,670,5.4,6
+Palm Bock Pils,670,5.0,39
+Flying Goose Saison de l’Oie de Voile,576,0.0,25
+Flying Goose Milk Chocolate Stout,576,4.6,4
+Flying Goose Perley Town IPA,576,4.73,1
+Flying Goose Weetamoo Wheat,576,3.93,40
+Flying Goose Heidelberg Hefeweizen,576,4.9,40
+Flying Goose Mikey’s Vyce Black IPA,576,0.0,50
+Flying Goose Pleasant Lake Pilsner,576,0.0,39
+Flying Goose Hedgehog Brown Ale,576,3.67,5
+Flying Goose Wildflower Honey Ale,576,4.98,37
+Flying Goose Blueberry Wheat,576,4.0,36
+Flying Goose The M3 Potato Ale,576,6.44,68
+Flying Goose Farmhouse,576,0.0,25
+Flying Goose Hominy Pot ESB,576,6.3,41
+Flying Goose Smoke on the Horweizen,576,0.0,35
+Flying Goose Split Rock Golden Ale,576,3.93,20
+Flying Goose Imperial Belgian Currant &#40;CD&#41; Porter,576,7.5,34
+Flying Goose Isle Of Pines Barley Wine,576,9.4,45
+Flying Goose Bock,576,0.0,49
+Flying Goose Weetamoo Blueberry Wheat,576,3.93,36
+Flying Goose Potter Place Porter,576,4.72,15
+Flying Goose Long Brothers Strong Ale,576,6.77,11
+Flying Goose Robert Strong Brown,576,6.57,48
+Flying Goose Harvest Wheat,576,3.93,29
+Flying Goose Armenian Steam Beer,576,0.0,43
+Flying Goose Belgian Style Single,576,3.7,6
+Flying Goose Weetamoo Raspberry Wheat,576,3.93,36
+Flying Goose The Flying V,576,5.0,41
+Flying Goose Roggenbier,576,4.8,68
+Flying Goose Ragged Mountain Red,576,4.46,37
+Flying Goose Pale Ale,576,4.2,27
+Flying Goose Christmas Treaty of 1914 Stalt,576,0.0,22
+Flying Goose Crocketts Corner Oatmeal Stout,576,6.0,22
+Flying Goose Alexandria Alt,576,5.25,28
+Flying Goose Loon Island Lighthouse Ale,576,3.8,10
+Ellicott Mills ESB,3268,4.9,41
+Ellicott Mills Alpenhof Barley Wine XXXX,3268,13.2,45
+Ellicott Mills Alpenhof Abi Dog Brown Ale,3268,5.4,5
+Ellicott Mills Pumpkin Ale,3268,5.1,17
+Ellicott Mills Alpenhof Boomerang Lager,3268,5.2,10
+Ellicott Mills Strong Ale,3268,6.5,70
+Ellicott Mills Cluster Bock,3268,0.0,49
+Ellicott Mills Alpenhof Scotch Ale,3268,5.8,23
+Ellicott Mills Ilchester Ale,3268,0.0,20
+Ellicott Mills Alpenhof Jack Frost Bock,3268,7.2,49
+Ellicott Mills Alpenhof Bock of the Bat,3268,0.0,49
+Ellicott Mills Decadence X,3268,6.4,46
+Ellicott Mills John Boyle OReilly Brown Ale,3268,0.0,5
+Ellicott Mills Oatmeal Stout,3268,5.5,22
+Ellicott Mills Alpenhof Oz Wit,3268,5.1,8
+Ellicott Mills VooDoo Alt,3268,5.4,28
+Ellicott Mills Alpenhof Decimator Doppelbock,3268,8.5,46
+Ellicott Mills Redrum Ale,3268,5.3,37
+Ellicott Mills Alpenhof Kolsch,3268,4.1,3
+Ellicott Mills Ambush Ale,3268,5.1,21
+Ellicott Mills Alpenhof Belgian Triple,3268,9.0,7
+Ellicott Mills Weizenheimer,3268,5.8,29
+Ellicott Mills Dortmunder Export,3268,4.7,56
+Ellicott Mills Alpenhof Otay Dunkelweizen,3268,5.0,54
+Ellicott Mills Firecracker Bock,3268,6.0,49
+Ellicott Mills Union Jack Pale Ale,3268,4.7,27
+Ellicott Mills Alpenhof Black Forest,3268,4.5,65
+Ellicott Mills Helles,3268,4.8,56
+Ellicott Mills Weizenbock,3268,6.3,58
+Ellicott Mills Alpenhof XO Triple Bock,3268,11.0,46
+Ellicott Mills Alpenhof Hefeweizen,3268,0.0,40
+Ellicott Mills Alpenhof Maibock,3268,7.0,49
+Ellicott Mills Alpenhof Dunkel,3268,5.1,26
+Ellicott Mills IPA,3268,5.5,1
+Ellicott Mills M.F. Malt Liquor,3268,6.6,77
+Ellicott Mills Alpenhof Big Red Bock,3268,6.5,49
+Ellicott Mills Alpenhof Alt,3268,5.0,28
+Ellicott Mills Bohemian Pilsner,3268,5.4,2
+Ellicott Mills Alpenhof Wild Boar Stout,3268,4.9,71
+Ellicott Mills Belgian Peach Lambic,3268,7.2,73
+Ellicott Mills Semper Fi,3268,0.0,70
+Ellicott Mills Baltic Porter,3268,5.8,32
+Ellicott Mills Winter Steam,3268,4.5,43
+Ellicott Mills Alpenhof Märzen,3268,5.1,31
+Ellicott Mills Alpenhof Pilsner,3268,4.5,39
+Froggys Bull Frog Ale,994,0.0,37
+Custom Brewcrafters Duffs Beer Ale,994,4.7,27
+Custom Brewcrafters Caged Alpha Monkey,994,6.5,1
+Papa Murphys Irish Amber Ale,994,6.0,52
+Custom Brewcrafters Hose 22 Amber,994,0.0,37
+Pumpkin Hill Crazy Goat,994,3.0,67
+Barley Yards American Black Lager,994,5.0,76
+Jeremiahs Anniversary Amber Ale,994,4.5,37
+Magnolias Moondance Wheat,994,0.0,36
+Custom Brewcrafters 10th Anniversary Wee Heavier Ale,994,10.6,23
+Buffalo Tap Room Holiday Ale,994,0.0,17
+Mex El Destructo,994,5.5,26
+Custom Brewcrafters Maple Nut Brown,994,0.0,5
+Custom Brewcrafters 1803 Fat Ox Ale,994,0.0,5
+Cottage Hotel Cottage Ale,994,4.75,41
+Strathallan Stout,994,5.0,22
+Shamrock Jacks Pale Ale,994,4.8,27
+Custom Brewcrafters Oak Aged Wee Heavy,994,0.0,23
+Custom Brewcrafters Double Dark &quot;Joe&quot; Stout,994,0.0,22
+Three Heads Skunk Black IPA,994,6.5,50
+Greenes Gargoyle Blackberry Porter,994,0.0,15
+Custom Brewcrafters Double Dark Cream Porter,994,5.0,15
+Jimmy Macs Awesome Amber,994,5.0,37
+Old Toad Pumpkin Ale,994,0.0,17
+Buffalo Tap Room Cherry Wheat,994,0.0,36
+Old Toad Smoking Toad Porter,994,0.0,15
+Hogans Pale Ale,994,5.2,27
+Custom Brewcrafters Hanz Doppelbock,994,0.0,46
+Barley Yards IPA,994,6.0,1
+Custom Brewcrafters Finger Lakes Summer Wheat,994,0.0,40
+Magnolias Lemon Wheat,994,0.0,36
+Donnellys Dysfunction Ale,994,5.2,37
+Rogers IPA,994,0.0,1
+Custom Brewcrafters &quot;Barry&quot; Double Wit,994,0.0,8
+Old Toad Pink Peppercorn IPA,994,0.0,17
+California Rollin Plum Ale,994,0.0,36
+Custom Brewcrafters &quot;Jack&quot;,994,0.0,48
+JP Bullfeathers IPA,994,0.0,1
+Custom Brewcrafters &quot;Ryan&quot; Imperial Pale Ale,994,0.0,1
+Three Heads Ontario Coast IPA,994,7.5,1
+Beale Street Mojo Magic Stout,994,4.25,71
+Otter Lodge Wet Whiskers Ale,994,5.0,1
+Custom Brewcrafters Golden Ale,994,0.0,20
+Custom Brewcrafters Canandaigua Lake Ale,994,4.75,20
+Cozumel Border Patrol,994,5.0,5
+J. B. Quimbys Nathans Private Stock Ale,994,5.2,37
+Custom Brewcrafters Weizen Bock,994,0.0,58
+Custom Brewcrafters Christmas Ale,994,5.0,17
+Beale Street French Quarter IPA,994,0.0,1
+Brickyard Brown Ale,994,4.75,5
+Greenes Gargoyle Ale,994,0.0,27
+The Gallery Grill Double Eagle Ale,994,4.8,37
+Cozumel Loaded Goat,994,5.0,27
+Custom Brewcrafters Krysztoff,994,10.0,32
+Allen St. Hardware Pile Driver IPA,994,0.0,1
+Brewery Pub & Grill Gazeebrew,994,0.0,28
+Custom Brewcrafters English Pale Ale,994,5.1,38
+Custom Brewcrafters Rye Ale,994,0.0,68
+Custom Brewcrafters Spring Fever,994,6.5,49
+Custom Brewcrafters Oktoberfest Lager,994,6.2,31
+Montys Fathead IPA,994,6.0,1
+Custom Brewcrafters Hop Harvest,994,0.0,1
+Greenes Gargoyle IPA,994,0.0,1
+Rogers Pale Ale,994,5.5,27
+Custom Brewcrafters Raspbeery Wheat Ale,994,4.5,36
+Buffalo Tap Room Brown Ale,994,0.0,5
+Hogans Park Ave Ale,994,4.6,5
+Buffalo Tap Room Winterfest,994,5.0,37
+Three Heads Java Sutra Coffee Porter,994,0.0,15
+Custom Brewcrafters MacBubba,994,6.5,23
+Custom Brewcrafters Downtown Boogie Brown,994,0.0,5
+Custom Brewcrafters Raspberry Porter,994,0.0,15
+Three Heads Bromigo Ale,994,7.0,37
+Gabriels Brown Ale,994,5.0,5
+Buffalo Tap Room Maibock,994,0.0,14
+Old Toad 20,994,8.6,11
+Ya Ya Bayou Brewhouse Bourbon Street Brown,994,5.5,5
+Old Toad Nut Brown Ale,994,4.7,5
+McBane’s Unfiltered Expo Pils,994,5.4,59
+Buffalo Tap Room Summerfest,994,4.5,36
+Buffalo Tap Room Porter,994,0.0,15
+Old Toad Timmy’s Tipple,994,0.0,36
+Custom Brewcrafters Talk To Me IPA,994,0.0,1
+Buffalo Tap Room IPA,994,6.0,1
+Custom Brewcrafters Pizza Plant Inferno Pod Ale,994,6.0,1
+Three Heads Blimey English Style Pale Ale,994,6.0,38
+Custom Brewcrafters Wee-Heavy Winter Ale,994,8.1,23
+J.P. Bullfeathers Tarred and Bullfeathered IPA,994,5.5,1
+Custom Brewcrafters McAudle,994,5.0,52
+Custom Brewcrafters The 19th Hole Ale,994,4.2,29
+Jeremiahs Frog Grog,994,4.5,5
+Custom Brewcrafters PIledriver IPA,994,0.0,1
+McBane’s Strawberry Wit,994,5.0,36
+Custom Brewcrafters Hefe Hefeweizen,994,0.0,40
+McArdles Irish Ale,994,4.6,52
+Alternative Brews Hazelnut Brown Ale,994,4.7,5
+Hogans Apricot Blonde,994,0.0,36
+J.G. Crummers Kick Arse Ale,994,4.4,37
+Alexander St. Pub Amber Ale,994,0.0,37
+Custom Brewcrafters Pierre,994,0.0,25
+Rochester Yacht Club Spinnaker Ale,994,0.0,37
+Brewery Pub & Grill Brew #10,994,4.7,5
+Empty Mug Mugs Master Brew,994,0.0,37
+Buffalo Tap Room Unfiltered Rye,994,0.0,68
+Custom Brewcrafters Max,994,0.0,58
+Custom Brewcrafters St. Patricks Irish Ale,994,4.9,52
+California Rollin Wasabi Brew,994,4.6,17
+Buffalo Tap Room Amber Ale,994,5.2,37
+Jack Astors 2 Loud Bucking Ale,994,0.0,37
+Bennigans Three Leaf Clover Ale,994,5.0,37
+Buffalo Tap Room Oktobertfest,994,6.0,31
+Custom Brewcrafters CanalTown Brown Ale,994,4.75,5
+Buffalo Tap Room Lager,994,0.0,33
+Ya Ya Bayou Brewhouse Jazzy Blonde Ale,994,4.0,29
+Barnstormers Red Baron Ale,994,0.0,37
+Alternative Brews Gargoyle Pale Ale,994,0.0,27
+Whiteys Irish Safari Ale,994,0.0,52
+Three Heads The Kind IPA,994,6.8,1
+Beale Street Blues Amber Ale,994,5.0,37
+Custom Brewcrafters Vanilla Infused Double Dark Cream Porter,994,0.0,15
+Landmark Double Wit,994,7.0,8
+Old Toad Sheffield Best Bitter,994,0.0,16
+Buffalo Tap Room Blonde Ale,994,0.0,20
+Buffalo Tap Room Strawberry Blonde Ale,994,0.0,36
+Bug Jar Brown Hornet Ale,994,4.9,28
+Custom Brewcrafters &quot;Mabel&quot; Breakfast Lager,994,0.0,35
+McBane’s Tall Dark and Naked,994,0.0,50
+Custom Brewcrafters Poor Richards Ale,994,8.5,13
+Custom Brewcrafters Phat Burner,994,6.0,21
+Johnnys Irish Red Ale,994,5.2,52
+Annandale Atomic Hard Cider,13578,0.0,55
+Gutshof Herborn Helles,6904,5.0,59
+Gutshof Herborn Dunkel,6904,5.0,26
+Gutshof Herborn Doppelbock,6904,7.0,46
+Gutshof Herborn Maibock,6904,7.5,46
+Steinbach Bräu Storchenbier,8183,5.2,56
+Steinbach Bräu Wilhelminenbier,8183,0.0,59
+Steinbach Bräu Goldblondchen,8183,0.0,40
+Steinbach Bräu Scotty,8183,0.0,35
+Whitbread White Label,1417,1.0,16
+Devenish Brown Ale,1417,3.2,5
+Whitbread Stock Bitter English Ale,1417,5.4,41
+Whitbread Christmas Pudding,1417,5.8,70
+Whitbread Triple Hop,1417,4.3,16
+Boddingtons Pale Ale,1417,3.8,16
+Whitbread Brewmaster Export Ale,1417,3.8,9
+Whitbread Poacher Bitter,1417,3.4,16
+Hakone Utage,2916,4.5,20
+Hakone Harumeki Pale Ale,2916,5.5,38
+Hakone Brown,2916,5.0,5
+Hakone Weizen,2916,5.0,40
+Hakone Kazamatsuri Stout,2916,7.5,22
+Hakone Odawara Ale,2916,5.0,37
+Hakone Pilsener,2916,5.5,39
+Hakone Odawara Lemon,2916,0.0,36
+Augustiner Oktoberfest Bier,777,6.0,31
+Augustiner Dunkel,777,5.6,26
+Augustiner Munich &#40;light export beer&#41;,777,0.0,56
+Augustiner Lagerbier Hell,777,5.2,56
+200 Jahre Oktoberfest Jubiläumsbier,777,6.0,31
+Augustiner Maximator,777,7.5,46
+Augustiner Pils,777,5.6,57
+Augustiner Edelstoff,777,5.6,56
+Augustiner Weissbier,777,5.4,40
+Augustiner Heller Bock,777,7.0,14
+RC Otters Island Tan,3041,0.0,5
+RC Otters Tropic Gold,3041,0.0,20
+Consett Ale Works Swordmaker,1002,4.5,16
+Consett Ale Works Red Dust,1002,4.5,16
+Consett Ale Works Cast Iron,1002,4.1,16
+Consett Ale Works Last Tap,1002,4.2,20
+Consett Ale Works Steel Town,1002,3.8,16
+Consett Ale Works Stout,1002,4.3,22
+Consett Ale Works White Hot,1002,4.0,20
+Consett Ale Works Black Bob Bitter,1002,4.5,16
+Packinghouse Wheeter Melon,11559,5.3,29
+Packinghouse Sunburst Golden Ale,11559,4.8,20
+Packinghouse Boysenberry Coffee Stout,11559,5.2,22
+Packinghouse Avogadro’s #,11559,9.2,11
+Packinghouse IPA,11559,0.0,1
+Packinghouse Black Magic,11559,7.4,50
+Packinghouse 1st Anniversary Imperial Red IPA,11559,8.4,48
+Packinghouse Blue Eyed Loon,11559,0.0,36
+Packinghouse Cream Stout,11559,5.6,22
+Packinghouse Saint Nick’s Peppermint Stick Cream Ale,11559,5.2,42
+Packinghouse Oaked Heritage Pale Ale,11559,5.8,27
+Packinghouse Riley’s Irish Red Ale,11559,6.2,52
+Packinghouse Heritage Pale Ale,11559,0.0,27
+Schonbrauhaus,2491,4.9,39
+Geelong Draught,2491,4.9,10
+Geelong Our Original Pale Ale,2491,4.5,38
+Geelong Premium Lager,2491,4.5,10
+Piss,2491,4.9,10
+Geelong Premium,2491,4.9,10
+Piss Weak,2491,2.7,66
+Geelong White Lightning Dingo Bitter,2491,4.9,10
+Geelong Premium Light,2491,2.7,66
+Geelong Bitter,2491,4.9,10
+Geelong Sparkling Ale,2491,5.8,20
+Bridge Brew Works Dunkle Weizen,11710,5.7,54
+Bridge Brew Works Kolsch,11710,0.0,3
+Bridge Brew Works Robust Porter,11710,0.0,15
+Bridge Brew Works Ale,11710,5.56,37
+Bridge Brew Works India Pale Ale,11710,7.47,1
+Bridge Brew Works Pale Ale,11710,5.84,27
+Bridge Brew Works Oatmeal Stout,11710,0.0,22
+Bridge Brew Works Belgian Style Dubbel,11710,0.0,24
+Bridge Brew Works Belgian-Style Tripel,11710,0.0,7
+Bridge Brew Works Oktoberfest,11710,0.0,31
+Bridge Brew Works Long Point Lager,11710,4.61,33
+Long Ireland Pumpkin Ale,12587,0.0,17
+Long Ireland Winter Ale,12587,7.2,17
+Long Ireland Breakfast Stout,12587,3.5,22
+Long Ireland Celtic Ale,12587,5.0,52
+Long Ireland Raspberry Wheat,12587,5.0,36
+Long Ireland Black Friday Imperial Stout,12587,8.5,18
+Long Ireland Pale Ale,12587,6.2,27
+La Richard Cœur du Lion Brune,5695,5.6,6
+La Richard Cœur de Lion Blonde,5695,5.6,20
+La Richard Cœur de Lion Ambrée,5695,5.6,74
+Kapsreiter Pils,1594,4.7,39
+Kapsreiter Landbier Bock,1594,6.9,14
+Kapsreiter Stadtbräu,1594,5.2,59
+Kapsreiter Hopfenkrone,1594,5.0,33
+Kapsreiter Landbier Hell,1594,5.3,56
+Kapsreiter Landbier Märzen,1594,5.1,31
+Kapsreiter Landbier Goldbraun,1594,4.4,26
+Kapsreiter Aloe Bier,1594,0.0,17
+Aufsesser Dunkel,2944,4.7,26
+Aufsesser Premium Pils,2944,4.9,39
+Aufsesser Bock Bier,2944,6.5,49
+Aufsesser Zwickl,2944,4.8,59
+Aufsesser Radler,2944,2.5,36
+Aufsesser Festbier,2944,5.1,31
+Aufsesser Kirsch Seidla,2944,2.6,36
+Aufsesser Hefe-Weizen,2944,5.1,40
+Exe Valley Exe Calibre,2322,4.5,13
+Exe Valley Rex Mild,2322,3.9,9
+Exe Valley Exeter Old Bitter,2322,4.8,41
+Exe Valley Beer Wolf,2322,4.5,16
+Exe Valley Charter 750,2322,4.1,20
+Exe Valley Hope,2322,4.3,16
+Exe Valley Carnaval Kids,2322,4.4,16
+Exe Valley Festival Ale,2322,4.5,16
+Exe Valley Walk the Plank,2322,4.3,16
+Exe Valley Rameses Revenge,2322,4.8,41
+Exe Valley Winter Glow,2322,6.0,72
+Exe Valley Darkest Devon,2322,3.9,9
+Exe Valley Dobs Best Bitter,2322,4.1,16
+Exe Valley Silverton Pride,2322,3.9,16
+Exe Valley XXI Anniversary,2322,4.3,16
+Exe Valley Spring Beer,2322,4.3,20
+Exe Valley Stirling Silver,2322,4.5,20
+Exe Valley Barrons Dark,2322,4.1,9
+Exe Valley Devon Glory,2322,4.7,41
+Exe Valley Rodgers and Hammersteined,2322,4.3,20
+Exe Valley Barrons Hopsit,2322,4.1,16
+Exe Valley Bitter,2322,3.7,16
+Exe Valley XXV,2322,4.3,20
+Exe Valley Devon Dawn,2322,4.5,9
+Exe Valley Mr Sheppards Crook,2322,4.7,41
+Exe Valley Devon Heaven,2322,3.9,9
+Exe Valley Autumn Glory,2322,4.5,16
+Exe Valley Devon Summer,2322,3.9,20
+Radgonsko Svetlo,4697,0.0,2
+Radgonsko Temno,4697,0.0,65
+Röhr-Bräu Pils Hell,8196,4.6,39
+Röhr-Bräu Pils Dunkel,8196,4.6,26
+Röhr-Bräu Hamelner Halbdunkel,8196,4.6,59
+Lagunitas Imperial Stout with Brett and Raspberries,1167,13.0,18
+Lagunitas Chocolate Chili Stout,1167,0.0,4
+Lagunitas Bourbon Barrel Imperial Stout,1167,12.0,18
+Lagunitas Ragwater Ale,1167,6.0,1
+Lagunitas Fusion V,1167,8.0,58
+Lagunitas Bourbon Barrel Aged Old Gnarlywine,1167,11.0,45
+Lagunitas Gnarly Spicy Chocolate Imperial Stout,1167,0.0,18
+Lagunitas Cappuccino Eye Stout,1167,0.0,22
+Lagunitas Olde Gnarly Wine,1167,11.0,45
+Lagunitas Cappuccino Stout,1167,9.26,22
+Lagunitas Lucky 13.alt,1167,8.9,48
+Lagunitas Sour Trifecta,1167,0.0,12
+Lagunitas Fusion II,1167,0.0,50
+Lagunitas A Little Sumpin’ Fuzzy,1167,0.0,36
+Lagunitas Chicago-Style Fusion Ale,1167,5.2,27
+Lagunitas Monster Stout,1167,10.0,18
+Lagunitas Pils,1167,5.3,39
+Lagunitas Decimator,1167,7.7,48
+Lagunitas Maximus,1167,8.2,11
+Lagunitas Sucks Holiday Ale,1167,7.85,48
+Lagunitas Imperial Red,1167,7.5,48
+Lagunitas B3K,1167,11.3,48
+Lagunitas Bourbon Barrel-Aged Ruben and The Jets,1167,8.2,18
+Lagunitas Amber Ale,1167,5.0,37
+Lagunitas Our Own Bavarian-Style DoppelWeizen,1167,9.0,58
+Lagunitas We’re Only In It For The Money,1167,8.2,7
+Lagunitas Sonoma Farmhouse Saison Style Ale,1167,5.2,25
+Lagunitas Almond Joy,1167,0.0,22
+Lagunitas Pinot Barrel Aged Imperial Stout,1167,0.0,18
+Lagunitas French Oak Brown Shugga,1167,9.9,45
+Lagunitas Bourbon Stout,1167,0.0,22
+Lagunitas Oak Aged Brown Shugga,1167,8.0,45
+Lagunitas Pinot Barreled Sonoma Farmhouse Saison Style Ale,1167,0.0,25
+Lagunitas Port Barrel Aged Hairy Eyeball,1167,9.0,48
+Lagunitas Farmhouse Ale with Bretts and Blackberries,1167,0.0,25
+Lagunitas The Hairy Eyeball Ale,1167,9.0,48
+Lagunitas Censored &#40;Ligneous Kronik&#41;,1167,6.75,48
+Lagunitas Undercover Investigation Shut-Down Ale,1167,9.75,48
+Lagunitas Ginger IPA,1167,0.0,17
+Lagunitas Imperial Stout,1167,9.9,18
+Lagunitas 2009 Correction Ale,1167,6.33,27
+Lagunitas Brown Mashuggana,1167,10.0,48
+Lagunitas Wet Hop IPA,1167,5.7,1
+Lagunitas Gonzo,1167,8.5,48
+Lagunitas Zephyr,1167,7.9,48
+Lagunitas Cruising With Ruben and the Bretts,1167,0.0,18
+Lagunitas Chocolate Raspberry Brett Bourbon Barrel Aged,1167,0.0,12
+Lagunitas Blend Saison,1167,6.0,25
+Lagunitas A Little Sumpin’ Sumpin’ Ale,1167,7.3,1
+Lagunitas El Chupalupalo,1167,5.8,27
+Lagunitas Brewers Shugga,1167,9.5,48
+Lagunitas Sonoma Farmhouse Hop Stoopid,1167,8.0,11
+Lagunitas Wet Hop New DogTown Pale Ale,1167,0.0,27
+Lagunitas Ryan’s Folly,1167,0.0,48
+Lagunitas Bourbon Barrel Cappuccino Stout,1167,8.25,22
+Lagunitas Sonoma Farmhouse Gueuze,1167,0.0,12
+Lagunitas Brandy Barrel Aged Hairy Eyeball,1167,9.0,48
+Lagunitas Behind the Woodshed,1167,0.0,48
+Lagunitas New DogTown Pale Ale,1167,6.2,27
+Lagunitas Nuevo Noir,1167,6.3,6
+Lagunitas Dogtown Pale Ale,1167,6.4,27
+Lagunitas New Style Old Ale,1167,5.2,5
+Lagunitas Absolutely Wet,1167,7.8,1
+Lagunitas SF Fusion: Hop High,1167,9.3,11
+Lagunitas Sacto Fusion: Paradime Sac,1167,8.0,50
+Lagunitas Lucky and Stoopid &#40;Cask&#41;,1167,8.3,48
+Lagunitas Equinox Ale,1167,6.5,48
+Lagunitas Cruising with Ruben and The Jets,1167,8.6,18
+Lagunitas Black Rain Imperial Stout,1167,8.2,18
+Lagunitas Hop Porno,1167,8.0,11
+Lagunitas Habanero IPA,1167,0.0,1
+Lagunitas Lumpy Gravy,1167,7.2,48
+Lagunitas XS Ale,1167,6.9,48
+Lagunitas Fusion IV,1167,9.0,19
+Lagunitas Bug Town Stout,1167,0.0,22
+Lagunitas Shugga Censored,1167,0.0,48
+Lagunitas Lagunator,1167,6.8,49
+Lagunitas XX Birthday,1167,0.0,48
+Lagunitas Cruisin’ with Ruben and the Bretts on Cherries,1167,13.0,18
+Lagunitas Kill Ugly Radio,1167,7.8,1
+Lagunitas Moistimus,1167,7.5,11
+Lagunitas B2K,1167,12.5,53
+Lagunitas Port Barrel Aged Censored,1167,0.0,37
+Lagunitas A Little Sumpin’ Wild Ale,1167,9.4,19
+Lagunitas India Pale Ale,1167,6.2,1
+Lagunitas A Little Sumpin' Extra,1167,8.74,11
+Lagunitas Wilco Tango Foxtrot,1167,7.83,5
+Lagunitas #10,1167,6.6,6
+Lagunitas Sirius Ale,1167,7.0,48
+Lagunitas Bourbon Brown Shugga,1167,12.0,45
+Lagunitas Lucky #13,1167,8.56,48
+Lagunitas Tocoloma Amber Ale,1167,0.0,37
+Lagunitas Fusion VI,1167,0.0,1
+Lagunitas Fusion VII,1167,6.8,1
+Lagunitas Oktoberfest Ale,1167,6.0,31
+Lagunitas Fusion III,1167,10.0,18
+Lagunitas Brown Shugga,1167,9.84,45
+Lagunitas Freak Out,1167,7.3,1
+Lagunitas Waldo’s Special Ale,1167,9.2,11
+Scotch Irish Glengarry 91 Shilling,11578,8.5,23
+Heritage Traditional Dark Lager,11578,4.5,76
+Scotch Irish Gingers Ale,11578,0.0,17
+Scotch Irish 1900 Smoked Ale,11578,5.0,35
+Scotch Irish Admiral Perry Imperial IPA,11578,8.0,11
+Kichesippi OCB 613 IPA,11578,6.0,1
+Scotch Irish Perry’s Atomic Punkin,11578,6.0,17
+Scotch Irish Vanilla Bean Porter,11578,4.5,15
+Scotch Irish Elder Statesman,11578,3.2,20
+Scotch Irish Mental Bob Old Ale,11578,9.0,72
+Scotch Irish Helen Kellertrübes Lager,11578,0.0,59
+Scotch Irish Stuart’s Natural Session Ale,11578,3.7,20
+Kichesippi Festbier,11578,5.8,31
+Scotch Irish Major Misconduct,11578,7.0,48
+Scotch Irish Santa Claws Christmas Cake Porter,11578,0.0,17
+Scotch Irish Captain Cascade,11578,6.5,1
+Scotch Irish John By Imperial Stout,11578,8.5,18
+Kichesippi Logger,11578,5.0,15
+Scotch Irish Alpha Dog,11578,6.0,70
+Scotch Irish Amarillo Sunset,11578,4.0,16
+Scotch Irish Numbnuts,11578,0.0,5
+Kichesippi Natural Blonde,11578,4.9,20
+Scotch Irish Mocha Brown,11578,5.0,5
+Kichesippi 1855,11578,5.2,5
+Scotch Irish Fire in the Hole Smoked Porter,11578,5.0,35
+Scotch Irish Up The Line Barley Wine,11578,10.0,45
+Scotch Irish Summit Pale Ale,11578,8.0,11
+Scotch Irish Chaplains Solace,11578,7.5,72
+Scotch Irish Sgt. Majors Double IPA,11578,9.5,11
+Hantens Hildener Landbräu,12618,5.0,59
+Kathi-Bräu Leichtes Dunkel,6221,0.0,66
+Kathi-Bräu Dunkles Lagerbier,6221,4.8,26
+Rock Bottom San Jose Solar Flare I2PA,4286,0.0,11
+Rock Bottom San Jose Imperial Stout,4286,9.6,18
+Rock Bottom San Jose St. Nicks Double IPA,4286,0.0,11
+Rock Bottom San Jose Magic Bean Porter Cask Porter,4286,0.0,15
+Rock Bottom San Jose Drone’s Ale,4286,6.1,29
+Rock Bottom San Jose Bottoms Up Kölsch,4286,5.0,3
+Rock Bottom San Jose Blitzen Ale,4286,8.9,7
+Rock Bottom San Jose American Dream,4286,6.4,1
+Rock Bottom San Jose Organic Pills,4286,5.5,2
+Rock Bottom San Jose Dry Hopped Raccoon Red,4286,5.7,41
+Rock Bottom San Jose Velvet Pale Ale,4286,5.4,27
+Rock Bottom San Jose Liquid Sun,4286,6.6,1
+Rock Bottom San Jose 2009 Anniversary Ale.,4286,0.0,72
+Rock Bottom San Jose Sweet Stout,4286,5.4,4
+Rock Bottom San Jose Belgian,4286,0.0,6
+Rock Bottom San Jose Boulder Creek Pale Ale,4286,6.0,27
+Rock Bottom San Jose H-Bomb,4286,6.6,1
+Rock Bottom San Jose Tail Bitting IPA,4286,0.0,1
+Rock Bottom San Jose Harvest Ale-Spiced Pumpkin Ale,4286,6.9,17
+Rock Bottom San Jose Naughty Scot - Scotch Ale,4286,7.9,23
+Rock Bottom San Jose Barrel Aged Imperial Red,4286,10.0,48
+Rock Bottom San Jose Faller Wheat,4286,5.5,29
+Rock Bottom San Jose Imperial Oatmeal Stout,4286,8.3,18
+Rock Bottom San Jose Cherry Stout,4286,5.6,22
+Rock Bottom San Jose Rocktoberfest,4286,6.7,31
+Rock Bottom San Jose Day of the Dead I.P.A.,4286,6.8,50
+Rock Bottom San Jose 9th Anniversary Malt Liquor,4286,9.0,77
+Rock Bottom San Jose Daylight,4286,6.6,1
+Route 66 Great Plains Porter,568,5.0,15
+Route 66 Continental Wheat Ale,568,0.0,29
+Route 66 River City Red,568,0.0,37
+Route 66 English Pale Ale,568,0.0,38
+Route 66 Streamline Oatmeal Stout,568,6.0,4
+Stader Gertrude Schwarz,9503,0.0,65
+Stader Gertrude Blond,9503,0.0,59
+Stader Gertrude Rot,9503,0.0,28
+Norton Priory Festive,13823,4.0,16
+Dove Street OIL &#40;Old Ipswich Liquor&#41;,13802,5.5,72
+Lake Superior Old Man Winter Warmer,564,10.3,45
+Brainerd Lakes One-Eyed Pike,564,0.0,29
+Hacienda Del Sols Negra Noche,564,0.0,76
+Lake Superior St. Louis Bay IPA,564,0.0,1
+Dubhlinn  Paddy Flynn Stout,564,0.0,71
+Lake Superior Split Rock Bock,564,0.0,49
+Lake Superior Oktoberfest,564,0.0,31
+Lake Superior Whiskey Oak Infused Oatmeal Stout,564,5.8,4
+Lake Superior Seven Bridges Brown Ale,564,5.0,5
+Lake Superior Sir Duluth Oatmeal Stout,564,0.0,4
+Lake Superior Kayak Kölsch,564,0.0,3
+Lake Superior Mesabi Red,564,6.5,37
+Lake Superior Special Ale,564,0.0,27
+Hacienda Del Sols Bueno Blanco,564,0.0,33
+Lake Superior Disorder Porter,564,5.7,15
+Brainerd Lakes First Pull IPA,564,0.0,1
+Lake Superior Winward Wheat,564,0.0,40
+Dubhlinn Paddy Flynn Light,564,0.0,10
+Sleepy Dog Schnauzer,10818,6.0,31
+Sleepy Dog Blackberry Ale,10818,0.0,36
+Sleepy Dog Airedale Terrier,10818,8.5,5
+Sleepy Dog Saint Bernard,10818,10.0,45
+Sleepy Dog Pumpkin Pooch Hefeweizen,10818,0.0,17
+Sleepy Dog Half Barrel Brew #7 Honey Lager,10818,4.5,33
+Sleepy Dog Max’s Holiday Spiced Porter,10818,0.0,15
+Sleepy Dog Half Barrel Brew #6 Porter,10818,7.0,15
+Sleepy Dog Half Barrel Brew #8 Bourbon and Oak Aged Porter,10818,7.5,15
+Sleepy Dog Tail Chaser,10818,7.5,1
+Sleepy Dog The Bull Mastiff,10818,7.4,48
+Sleepy Dog Yellow # 1,10818,5.0,39
+Sleepy Dog Wet Snout,10818,6.2,4
+Sleepy Dog Ridgeback IPA,10818,10.0,11
+Sleepy Dog Scootcher,10818,7.5,21
+Sleepy Dog Red Rover,10818,7.5,52
+Sleepy Dog Lemon Pomeranian,10818,5.0,40
+Sleepy Dog Half Barrel Brew #9 Blue Agave Belgian Blonde,10818,0.0,6
+Sleepy Dog Dog Pound,10818,5.0,27
+Sleepy Dog German Amber Bock,10818,6.3,49
+Sleepy Dog Leg Humper,10818,5.0,40
+1904 American Red,12278,0.0,76
+Spring House Planet Bean Coffee Stout,9382,7.0,22
+Spring House Atomic Raygun Imperial Red Ale,9382,8.3,48
+Spring House Hickory - Smoke Bacon Maple Porter,9382,8.0,15
+Spring House Big Gruesome,9382,8.0,18
+Spring House Smoked Porter,9382,9.0,35
+Spring House Pumpkin Stout,9382,8.5,17
+Spring House Diabolical Doctor Wit,9382,4.7,8
+Spring House Cosmic Monster,9382,10.8,30
+Spring House Goofy Foot Summer Wheat,9382,4.8,29
+Spring House Robot Bastard,9382,7.0,6
+Spring House Oyster Stout,9382,8.0,22
+Spring House Alien Agenda Amber Ale,9382,5.5,6
+Spring House Two Front Teeth Ale,9382,9.4,25
+Spring House Mango IPA,9382,7.0,1
+Spring House Beyond the Gates,9382,7.5,11
+Spring House Chocolate Peppermint Stout,9382,9.0,22
+Spring House Braaiins&#033; Pumpkn Ale for Zombies,9382,7.1,17
+Spring House Little Gruesome &#40;aka PB&J ale&#41;,9382,7.0,36
+Spring House Kerplunk&#033;,9382,8.1,18
+Leprechaun Irish Ale,5369,4.0,37
+Leprechaun Rustic Stout,5369,5.5,22
+Leprechaun Pale Ale,5369,0.0,27
+Dirlewanger Export,12109,5.0,56
+Dirlewanger Vollbier-Hell,12109,4.7,56
+Forest Hydromel Sec,4898,12.0,63
+Forest Hydromel Doux,4898,13.0,63
+Forest Hydromel aux Cerises à Grappe,4898,12.0,63
+Corcoran Catoctin Ale,13397,5.5,38
+Corcoran Wheatland,13397,5.25,29
+Corcoran Corky’s Irish Red,13397,5.9,52
+Corcoran P’ville Pale,13397,5.4,27
+Corcoran Slainte Stout,13397,4.7,71
+Corcoran LoCo IPA,13397,6.4,1
+Kokuryu Hoshigusa Junmai Ginjo Sake,8557,15.0,47
+Kokuryu Shuzo &#40;Black Dragon&#41; Yu-gao &#40;Evening Face&#41; Sake,8557,14.5,47
+Blue Canoe Swiss Miss,9931,10.0,18
+Blue Canoe Titusville Gold Lager,9931,5.2,56
+Blue Canoe Milli Vanilla Milk Stout,9931,6.0,4
+Blue Canoe Canadian Monk,9931,0.0,24
+Blue Canoe Flashlite Lager,9931,4.0,33
+Blue Canoe Class 5 A.P.A.,9931,5.2,27
+Blue Canoe Caramel Apple Wit,9931,0.0,36
+Blue Canoe Travesty,9931,8.5,24
+Blue Canoe St. James Gate,9931,4.0,71
+Blue Canoe Heavy Kevy,9931,6.8,23
+Blue Canoe Raisin Hell,9931,11.0,45
+Blue Canoe Honey Bunches of Oats,9931,6.0,5
+Blue Canoe Ned Flanders,9931,7.0,12
+Blue Canoe Double Trouble,9931,8.0,24
+Blue Canoe Razzmatazz,9931,4.5,36
+Blue Canoe Big Sky Special,9931,4.8,6
+Blue Canoe Distorter,9931,5.5,34
+Blue Canoe Wit’s End,9931,0.0,8
+Blue Canoe El-Hefe-A,9931,5.5,40
+Le Moulin de Saint-Martin Ambrée,6438,6.5,74
+Le Moulin de Saint-Martin Biere a la Cerise,6438,5.0,74
+Le Moulin de Saint-Martin Noël,6438,6.5,17
+Le Moulin de Saint-Martin La Champardennaise,6438,5.0,6
+Le Moulin de Saint-Martin Blanche,6438,5.4,8
+Le Moulin de Saint-Martin Brune,6438,7.5,5
+Le Moulin de Saint-Martin Blonde,6438,5.0,74
+Hollywood Beach Red Tide Amber Ale,10617,5.2,37
+Brewery House Dunkel,5510,5.8,26
+Brewery House Weizen,5510,5.4,40
+Brewery House Lager,5510,5.0,56
+Texas Cattle Stout,4103,0.0,4
+Texas Cattle Peach Wheat,4103,0.0,29
+Texas Cattle Golden Wheat,4103,0.0,29
+Texas Cattle India Pale Ale,4103,0.0,1
+Texas Cattle Oktoberfest,4103,0.0,31
+Texas Cattle Raspberry Wheat,4103,0.0,36
+Texas Cattle Pale Ale,4103,0.0,27
+Texas Cattle Red Lager,4103,0.0,10
+Texas Cattle Moo Brew Pilsner,4103,0.0,39
+Texas Cattle Ocmulgee River Red,4103,0.0,37
+Texas Cattle Honey Nut Brown Ale,4103,0.0,5
+Texas Cattle Texas Light,4103,0.0,10
+Battle Ground Old Jail House Winter Wheat with Blueberries,11155,0.0,36
+Battle Ground Forrest’s Hearty Winter Brown Ale,11155,0.0,5
+Battle Ground SnowShoe Thompson Stout,11155,0.0,22
+Battle Ground General’s Shine,11155,0.0,10
+Battle Ground Soldiers Joy IPA,11155,0.0,1
+Battle Ground Old Jail House ESB,11155,0.0,41
+Battle Ground Revolutionary American Pale Ale,11155,0.0,27
+Grombacher Schwarzbier,6674,0.0,65
+Grombacher Weizen,6674,0.0,40
+Grombacher Pilsner,6674,0.0,59
+Bohemia Bia Vàng &#40;Yellow Beer&#41;,9565,0.0,2
+Bohemia Bia &#272en &#40;Black Beer&#41;,9565,0.0,26
+Etienne Dupont Cidre Bouché Brut de Normandie,2618,5.5,55
+Etienne Dupont Cidre Cuvee Colette,2618,7.5,55
+Etienne Dupont Cidre Triple,2618,10.0,55
+Etienne Dupont Organic Cidre Bouché Brut de Normandie,2618,5.5,55
+Famille Dupont Cidre Bouché Fermier,2618,5.0,55
+Cidre Dupont Réserve Récolte 2006,2618,7.5,55
+Etienne Dupont Cidre Bouché Brut Zymatore,2618,6.9,55
+Etienne Dupont Cidre De Givre Eis Cider,2618,6.9,69
+Famille Louis Dupont Cidre Pays D´Auge,2618,4.5,55
+Cidre Dupont Réserve,2618,5.5,55
+Schwarzenberg Honey Ale,6950,5.2,17
+Schwarzenberg Weisse,6950,5.0,40
+Schwarzenberg Gemischtes,6950,5.0,26
+Schwarzenberg Osterbock,6950,0.0,14
+Schwarzenberg Dunkles,6950,5.0,26
+Schwarzenberg Pils,6950,0.0,39
+Schwarzenberg Helles,6950,5.0,56
+Schwarzenberg Stout,6950,5.6,22
+Schwarzenberg Rauchbier,6950,5.1,35
+Schwarzenberg Indian Pale Ale,6950,6.0,1
+Schwarzenberg Weihnachtsbock,6950,6.7,14
+Redscar Poison,9816,4.0,16
+Redscar Sands,9816,4.2,20
+Redscar Pier,9816,4.5,16
+Redscar Beach,9816,5.0,41
+Thorne Coal Black Porter,10976,4.3,15
+Thorne Mild,10976,4.0,9
+Thorne Pale Ale,10976,4.2,20
+Thorne Vermuyden,10976,4.7,20
+Thorne Best Bitter,10976,3.9,16
+Thorne Chairmans Stout,10976,4.4,22
+Thorne Dunston’s Ships,10976,4.1,16
+Thorne Darley’s Ghost,10976,4.5,16
+Les Petits Fruits Léger Philoup,4824,19.0,55
+Les Petits Fruits Léger Blanc de Brome,4824,10.0,55
+Three Needs Biere de Garde,1138,0.0,74
+Three Needs California Common,1138,0.0,43
+Three Needs Roggen,1138,0.0,68
+Three Needs Braggot,1138,10.0,63
+Three Needs Mexican Vienna,1138,0.0,17
+Three Needs Blonde Ale,1138,0.0,20
+Three Needs Wild Blonde,1138,8.0,6
+Three Needs Old Ale,1138,0.0,45
+Three Needs ESB,1138,0.0,41
+Three Needs Bohemian Pilsener,1138,0.0,2
+Three Needs Lambic,1138,0.0,79
+Three Needs Irish Ale,1138,0.0,52
+Three Needs Belgian Pale Ale,1138,0.0,6
+Three Needs & Taproom Rye Pale Ale,1138,6.4,27
+Three Needs Dunkel Bock,1138,6.4,49
+Three Needs IPA II,1138,6.4,1
+Three Needs Peat-Smoked Altbier,1138,0.0,28
+Three Needs Gruit,1138,0.0,13
+Three Needs Berliner Weisse,1138,4.8,67
+Three Needs Stickebier,1138,0.0,28
+Three Needs Chocolate Stout,1138,0.0,4
+Three Needs Centennial Wheat,1138,0.0,29
+Three Needs California Lager,1138,0.0,33
+Three Needs Hefeweizen,1138,0.0,40
+Three Needs American IPA,1138,0.0,1
+Three Needs Belgian Strong Dark,1138,0.0,19
+Three Needs Nitro ESB,1138,0.0,41
+Three Needs Belgian Singel,1138,0.0,6
+Three Needs Pilsner,1138,0.0,39
+Three Needs Munich Lager,1138,0.0,33
+Three Needs German IPA,1138,4.8,1
+Three Needs Brown Ale,1138,0.0,5
+Three Needs Foreign Extra Stout,1138,0.0,75
+Three Needs Belgian Trippel,1138,0.0,7
+Three Needs Chocolate Thunder Porter,1138,5.9,15
+Three Needs American Pale Ale,1138,0.0,27
+Three Needs Kolsch,1138,0.0,3
+Three Needs Bamberg Rauchbier,1138,0.0,35
+Three Needs Belgian Winter Ale,1138,0.0,17
+Three Needs English Pale Ale,1138,0.0,38
+Three Needs Munich Helles,1138,0.0,56
+Three Needs Old #500 Imperial Stout,1138,0.0,18
+Three Needs Dry Stout,1138,0.0,71
+Three Needs Sour Red,1138,0.0,12
+Three Needs Alpha Ale,1138,6.8,1
+Three Needs West Coast Pale Ale,1138,0.0,27
+Three Needs Southern Brown Ale,1138,0.0,5
+Three Needs Alstadt Alt,1138,0.0,28
+Three Needs Amber Bock,1138,0.0,49
+Three Needs English Bitter,1138,0.0,16
+Three Needs B.U.B.2 Double Barleywine,1138,13.5,45
+Three Needs Northern Brown Ale,1138,0.0,5
+Three Needs Lawnmower Lager,1138,0.0,10
+Three Needs Vienna Lager,1138,0.0,44
+Three Needs Christmas Beer,1138,0.0,5
+Three Needs Dunkelweizen,1138,0.0,54
+Three Needs Doppelpils,1138,0.0,39
+Three Needs Extra Dark Pale Ale,1138,0.0,27
+Three Needs Dopplebock,1138,0.0,46
+Three Needs Gambrinus Helles,1138,0.0,56
+Three Needs Scottish Wee,1138,0.0,23
+Three Needs Winter Ale,1138,7.5,70
+Three Needs Extra Pale Ale,1138,0.0,27
+Three Needs Czech Pils,1138,0.0,2
+Three Needs Oatmeal Pale Ale,1138,6.2,27
+Three Needs English IPA,1138,0.0,1
+Three Needs Maibock,1138,0.0,49
+Three Needs Session Sour,1138,0.0,12
+Three Needs Carribean Stout,1138,9.1,75
+Three Needs Stalwart Stout,1138,0.0,22
+Three Needs Scotch Ale,1138,6.7,23
+Three Needs Scotch Ale 80 Shilling,1138,0.0,23
+Three Needs Krystalweizen,1138,0.0,78
+Three Needs Port Porter,1138,0.0,15
+Three Needs St. James Stout,1138,0.0,22
+Three Needs English Mild,1138,0.0,9
+Three Needs Dortmunder Export,1138,0.0,56
+Three Needs Octoberfest,1138,0.0,31
+Three Needs Scottish Ale 90 Shilling,1138,0.0,21
+Three Needs Schwarzbier,1138,0.0,65
+Three Needs CorianderAle,1138,0.0,17
+Three Needs Blackwatch,1138,0.0,1
+Three Needs Belgian Golden Ale,1138,0.0,19
+Three Needs Ardennes Strong Ale,1138,0.0,19
+Three Needs Rocktoberfest,1138,5.3,31
+Three Needs Munich Dunkel,1138,0.0,26
+Three Needs Belgian Dubbel,1138,0.0,24
+Three Needs Dunkel Weizenbock,1138,0.0,58
+Three Needs Belgian Chocolate Stout,1138,7.5,19
+Three Needs ImPaler Imperial IPA,1138,8.0,11
+Three Needs American Amber,1138,0.0,37
+Three Needs Oatmeal Stout,1138,0.0,4
+Three Needs Belgian Christmas Ale,1138,0.0,6
+Three Needs Grand Cru,1138,0.0,19
+Crondall Mitchells Dream,6272,4.5,16
+Crondall Crondall’s Stocking Filler,6272,6.5,41
+Crondall Harvest Gold,6272,3.8,16
+Crondall Spring Brew,6272,3.8,20
+Crondall Crafty Santa,6272,5.7,41
+Crondall Mr T’s Wedding Ale,6272,3.8,16
+Crondall Sober As A Judge,6272,4.0,16
+Crondall Crondall’s Best,6272,4.0,16
+Big Tree Medium Cider,11506,6.5,55
+Big Tree Lisping Cowboy Cider,11506,4.8,55
+Big Tree Spring Cowboy,11506,6.0,55
+Big Tree Appley Ever After,11506,5.1,55
+Brysons Wammelers Wheat,3864,4.0,20
+Brysons Shrimpers Stout,3864,4.7,22
+Brysons Santas Speedy Stout,3864,5.0,22
+Brysons Patricks Porter,3864,4.3,15
+Brysons DBS Porter,3864,5.0,15
+Brysons Shifting Sands,3864,3.8,16
+Brysons Westmorland Bitter,3864,3.6,16
+Brysons Lancashire Bitter,3864,3.8,16
+Brysons Lifesaver,3864,3.8,20
+Brysons Bring Me Sunshine,3864,4.0,20
+Brysons Hurricane Bitter,3864,4.1,16
+Brysons Bowbrahm Barracks Bitter,3864,3.7,16
+Brysons John McGuinness Bitter,3864,4.2,16
+Brysons Barrows Bitter,3864,4.2,16
+Brysons Union Flag 1606,3864,3.9,20
+Gladebecker Winterbier,7566,5.3,31
+Gladebecker Dunkel,7566,4.9,65
+Gladebecker Hell,7566,4.8,56
+Gladebecker Lupulus,7566,4.9,39
+Gladebecker Blitze Blank,7566,4.5,39
+Wanke Bräu Weizen,12202,5.3,40
+Wanke Pils,12202,4.9,57
+Wanke Schwarzbier,12202,4.9,65
+Cittavecchia Weizen,2624,5.0,40
+Cittavecchia Rossa,2624,5.1,44
+Cittavecchia Formidable,2624,8.0,19
+Cittavecchia Karnera,2624,6.2,22
+Cittavecchia Chiara,2624,4.9,39
+Cittavecchia S. Nicolo,2624,6.0,37
+Sherlocks Home Queen Anne Light,2007,0.0,10
+Sherlocks Home Stags Head Stout,2007,0.0,22
+Sherlocks Home SOB,2007,0.0,41
+Sherlocks Home Pipers Pride,2007,0.0,21
+Sherlocks Home Bishops Bitter,2007,0.0,16
+Sherlocks Home Palace Porter,2007,0.0,15
+Sherlocks Home Gold Crown Lager,2007,0.0,10
+Sherlocks Home Cassidys Irish Ale,2007,4.5,52
+Sherlocks Home Star of India IPA,2007,0.0,1
+Sherlocks Home Winter Warmer,2007,0.0,17
+Zeugenbräu Terminator,13120,14.0,18
+Zeugenbräu Sommertraum Simcoe Edition,13120,5.7,20
+Zeugenbräu RoSa,13120,6.8,17
+Zeugenbräu Sommertraum Amarillo Edition,13120,5.7,20
+Monday Night Drafty Kilt Scotch Ale,13228,7.2,23
+Weixen Hell,7850,0.0,56
+Weixen Dunkel,7850,0.0,26
+Beck Bräu Zwickel Bock,3701,7.2,46
+Beck Bräu Weisse,3701,4.8,40
+Beck Bräu Leichte,3701,2.4,66
+Beck Bräu Lisberger Bock,3701,7.0,14
+Beck Bräu Jahrhundert Bier Dunkel,3701,5.7,26
+Beck Bräu Hell,3701,4.4,56
+Beck Bräu Lisberger Lager,3701,4.9,59
+Beck Bräu Pils,3701,5.0,57
+Hornbeam Golden Wraith Pale Ale,8973,5.0,20
+Beck Bräu Trabelsdorfer Schloßgold,3701,5.2,56
+Beck Bräu Kellerbier Naturtrüb,3701,5.3,59
+Indias Cerveza de Maíz Blanca,6347,0.0,17
+Ridge RGD &#40;formerly: NGD Neils Genuine Draft&#41;,3317,5.0,20
+Ridge Dortmunder,3317,0.0,56
+Ridge Raspberry Ale,3317,0.0,36
+Ridge Honey Ale,3317,0.0,20
+Ridge Pale Ale,3317,0.0,38
+Ridge Marzen,3317,0.0,44
+Ridge Old English Bitter,3317,0.0,16
+Ridge Amberillo,3317,0.0,37
+Ridge Stout,3317,0.0,22
+Ridge India Pale Ale,3317,0.0,1
+Ridge Dark Lager,3317,0.0,26
+Ridge Nut Brown Ale &#40;formerly: &quot;O&quot; Town Brown&#41;,3317,0.0,5
+St. Georgs Bräu Weisse,4854,5.5,40
+St. Georgs Bräu Hyhemp,4854,4.9,17
+St. Georgs Bräu Dunkles,4854,5.2,26
+St. Georgs Bräu Helles,4854,5.2,56
+Extra Billys Schwarzbier,4509,4.9,65
+Extra Billys Chocolate Porter,4509,0.0,15
+Extra Billys Lager,4509,5.0,10
+Extra Billys Canadian Lager,4509,7.2,76
+Extra Billys Pilsner,4509,6.25,2
+Extra Billys Oatmeal Brown,4509,0.0,5
+Extra Billys Red Ale,4509,4.65,37
+Extra Billys IPA,4509,6.24,1
+Extra Billys Roggen,4509,4.44,68
+Extra Billys American Ale,4509,4.33,20
+Extra Billys Copper Bock,4509,0.0,14
+Extra Billys Stout,4509,5.0,71
+Extra Billys Dunkel Pilsner,4509,6.19,26
+Extra Billys Pale Ale,4509,0.0,27
+Extra Billys Java Bock,4509,0.0,49
+Extra Billys Pumpernickel,4509,4.85,68
+Extra Billys Mexican Lager,4509,0.0,10
+Extra Billys Summer Ale,4509,4.33,20
+Extra Billys Golden Lager,4509,0.0,33
+Extra Billys Brown Ale,4509,0.0,5
+Extra Billys Hefeweizen,4509,4.28,40
+Extra Billys Mild,4509,5.0,9
+Extra Billys Scotch Ale,4509,8.6,23
+La Saint-Pierre Bière de Noël  de l’Oncle Hansi,5546,6.0,17
+La Saint-Claude Blonde,5546,5.4,6
+La Saint-Pierre Bière à la Myrtille,5546,5.6,36
+La Saint-Pierre Bière de Printemps de l’Oncle Hansi,5546,5.2,6
+La Saint-Pierre Blanche,5546,5.2,8
+La Saint-Pierre Bière des Supporters Blonde,5546,5.6,6
+La Saint-Claude Blanche,5546,4.9,8
+La Noël des Mousquetaires,5546,6.0,37
+La Saint-Pierre Bière des Supporters Ambrée,5546,5.6,37
+L’Ambrée des Mousquetaires,5546,5.5,37
+La Blanche des Mousquetaires,5546,5.5,29
+Bière de Printemps des Mousquetaires,5546,5.5,31
+L’Alsacienne de Saint-Pierre,5546,5.6,74
+La Saint-Pierre Bière Blanche Bio,5546,5.6,8
+La Saint-Pierre Blonde d’Alsace,5546,5.2,6
+La Saint-Pierre Fortwenger,5546,5.8,17
+Saint-Pierre Bière au Miel,5546,5.6,17
+La Saint-Pierre Bière des Supporters Blanche,5546,5.6,8
+La Saint-Claude de Printemps,5546,5.6,6
+La Saint-Pierre Bière à la Châtaigne,5546,5.6,17
+La Saint-Claude Ambrée,5546,5.5,37
+La Saint-Pierre Bière à la Mirabelle,5546,5.6,36
+La Saint-Pierre Blonde de l`Oncle Hansi,5546,5.6,6
+La Saint-Claude Bière de Noël,5546,6.0,17
+La Saint-Pierre Blanche de l’Oncle Hansi,5546,5.2,8
+La Saint-Pierre Blonde &#40;Bière Grande Tradition&#41;,5546,5.5,20
+La Saint-Pierre Bière de Noël,5546,6.0,6
+La Saint-Pierre Ambrée de l’Oncle Hansi,5546,5.4,37
+La Saint-Pierre Brune,5546,5.6,24
+La Saint-Pierre Bière Ambrée Tradition,5546,5.8,37
+La Saint-Pierre Spéciale Choucroute,5546,5.6,8
+La Saint-Pierre Bière à la Cerise d’Alsace,5546,5.5,36
+Hornbeam Owd Peg,8973,4.1,16
+Hornbeam Dark Domination,8973,6.0,15
+Hornbeam Pub Pilgrim,8973,4.0,16
+Hornbeam Autumn Fall,8973,4.0,20
+Hornbeam Three Swindlers Bitter,8973,4.2,16
+Hornbeam Lemon Blossom,8973,3.7,20
+Hornbeam Gallant Ale,8973,4.5,20
+Hornbeam Black Coral Stout,8973,4.5,22
+Hornbeam Polska First Eleven,8973,4.1,41
+Hornbeam Winter Wizzard,8973,3.7,20
+Hornbeam Scarlet Ribbon,8973,4.0,20
+Hornbeam Swift Swallow,8973,4.0,20
+Hornbeam Malt Mountain,8973,3.6,9
+Hornbeam Buckley’s Best Bitter,8973,4.0,16
+Hornbeam Olympic Spirit,8973,4.2,16
+Hornbeam Diamond Geezer,8973,4.2,16
+Hornbeam Voyager,8973,3.9,20
+Hornbeam White Swan,8973,4.6,29
+Hornbeam Summer IPA,8973,4.5,16
+Hornbeam California Dream,8973,4.4,16
+Hornbeam Bitter,8973,3.8,16
+Hornbeam Hop Hornbeam Bitter,8973,3.8,16
+Hornbeam Tears Of Angels,8973,4.0,20
+Hornbeam Dancer,8973,4.0,16
+Hornbeam Silver Moon,8973,4.2,22
+Hornbeam Fantastic Four,8973,4.0,20
+Hornbeam Polska Bitter,8973,4.1,16
+Hornbeam High Summer Light Ale,8973,4.5,16
+Hornbeam Exile,8973,3.9,16
+Hornbeam Independance IPA,8973,4.5,16
+Hornbeam Top Hop Best Bitter,8973,4.2,16
+Hornbeam Moody Ale,8973,3.6,20
+Hornbeam Bakers Brew,8973,4.2,16
+Hornbeam Xmas Champagne,8973,4.6,41
+Hornbeam Maryrose,8973,3.8,16
+Hornbeam Arc Weld,8973,4.7,70
+Hornbeam February Gold,8973,3.6,20
+Hornbeam Clueless,8973,4.2,20
+Hornbeam Dark & Divine,8973,4.0,16
+Hornbeam Horns and Halos,8973,4.0,16
+Hornbeam Bramling Cross,8973,4.0,16
+Hornbeam Go Ape,8973,3.8,20
+Hornbeam Lavender Blonde,8973,4.1,20
+Hornbeam Iron Woode,8973,4.1,16
+Hornbeam Road Crew’s January Jaunt,8973,4.7,41
+Hornbeam Winterlong Dark Bitter,8973,4.7,41
+Hornbeam Hoppy Presence,8973,4.3,16
+Hornbeam Special Festival Ale,8973,4.2,20
+Hornbeam Blackcurrant Wheat Beer,8973,5.4,36
+Hornbeam Rye & Dry,8973,4.1,16
+Hornbeam Mild,8973,4.2,9
+Hornbeam Prog Rock,8973,4.2,16
+Hornbeam Cheers Big Ears,8973,4.0,20
+Hornbeam Heather,8973,4.0,68
+Four Sons Rebeccas Revenge,4605,4.5,65
+Four Sons Parental Unit Sweet Brown Ale,4605,4.2,5
+Four Sons Noahs Ark Abbey Dubbel,4605,6.4,24
+Four Sons Siberian Winter,4605,8.5,18
+Four Sons Swedish Blonde Ale,4605,7.5,20
+Four Sons India Pale Ale,4605,0.0,1
+Four Sons Poor Richards Ale,4605,4.3,16
+Four Sons Left Coast Lager,4605,0.0,76
+Four Sons Stoep Pale Ale,4605,5.2,6
+Four Sons Dead Tonys Tripel,4605,9.2,7
+Four Sons Monkey Run Oatmeal Stout,4605,5.9,4
+Four Sons Big Rock Stout,4605,5.7,22
+Four Sons Titusville Lager,4605,5.0,56
+Four Sons Big Ass Clock,4605,4.0,16
+Four Sons Petal Pusher Porter,4605,0.0,15
+Four Sons 5 Rings Bock,4605,7.1,49
+Four Sons Plissken Pale Ale,4605,5.5,27
+Four Sons Billie Vanilli,4605,5.5,15
+Four Sons Distorter,4605,5.0,15
+Four Sons Es SB,4605,7.0,41
+Four Sons Robust Porter,4605,0.0,15
+Four Sons Brewers Breakfast,4605,5.0,4
+Four Sons Joes Electric Bill,4605,6.0,37
+Göcklinger Hell,10366,5.0,56
+Göcklinger Dunkel,10366,5.0,26
+Göcklinger Weizenbock,10366,6.5,58
+Göcklinger Weizenbier,10366,5.0,40
+Göcklinger Doppelbock,10366,6.5,46
+Göcklinger Maibock,10366,6.5,14
+Hönicka Bräu Wunsiedler Hönickator Doppelbock,2906,7.4,46
+Hönicka Bräu Wunsiedler Zwickl,2906,5.0,59
+Hönicka Bräu Wunsiedler Weißbier,2906,5.4,40
+Hönicka Bräu Wunsiedler Weißbier Dunkel,2906,5.4,54
+Hönicka Bräu Wunsiedler Radler,2906,2.5,36
+Hönicka Bräu Wunsiedler Wonnesud,2906,5.4,26
+Hönicka Bräu Wunsiedler Landbier,2906,4.8,56
+Hönicka Bräu Wunsiedler Heiners Original,2906,5.2,31
+Hönicka Bräu Schwarzenberger Doppelbock,2906,7.4,46
+Hönicka Bräu Wunsiedler Luisenburg Pils,2906,4.9,57
+Bru Black and Tan,4535,4.5,15
+Bru Robust Porter,4535,0.0,15
+Bru Left Field Helles,4535,4.8,56
+Bru Redhead Amber,4535,0.0,37
+Bru Peach,4535,0.0,36
+Bru Oktoberfest,4535,0.0,31
+Bru Blueberry,4535,0.0,36
+Bru Hefeweizen,4535,5.5,40
+Bru IPA,4535,0.0,1
+Bru Big Rack Blonde,4535,5.8,20
+Bru Pilsner,4535,0.0,39
+Bru Double Chocolate Porter,4535,0.0,15
+Bru Scotch Ale,4535,0.0,23
+Bru Oatmeal Stout,4535,0.0,4
+Bašta Polotmavý Speciál 12°,9404,0.0,44
+Bašta Tmavý Speciál 14°,9404,6.0,26
+Bašta Medova 11°,9404,4.5,2
+Bašta Naku&#345;ované Pivo,9404,0.0,35
+Bašta Sv&#283;tlé Speciál 12°,9404,0.0,2
+Bašta Sv&#283;tlé Speciál 13°,9404,5.0,2
+Bašta Pšeni&#269né,9404,0.0,54
+Bašta Sv&#283;tlé Speciál 15°,9404,0.0,51
+Taihushui,263,3.4,10
+Electric Brewing OK Ale,2850,7.0,27
+Electric Daves IPA &#40;Industrial Pale Ale&#41;,2850,0.0,1
+Electric Brewing Trident IPA,2850,0.0,1
+Electric Brewing Hefeweizen,2850,0.0,40
+Electric Brewing Old Frog Grog,2850,3.9,22
+Daves Electric Beer,2850,5.0,10
+Potbelly Yellerbelly,5769,5.2,20
+Potbelly Bellowhead Hedonism,5769,4.5,20
+Potbelly Homeward,5769,4.5,16
+Potbelly Buca’s Boundary,5769,4.5,20
+Potbelly Pigs Do Fly,5769,4.4,20
+Potbelly Captain Pigwash,5769,5.0,15
+Potbelly Sunny Daze,5769,5.5,41
+Potbelly Eastfield IPA,5769,7.0,70
+Potbelly Black Sun,5769,5.0,41
+Potbelly Welland Truly,5769,4.9,41
+Potbelly Ambrosia,5769,4.0,9
+Potbelly Wicksteed Heritage Ale,5769,4.2,9
+Potbelly Dark Tusker,5769,3.6,9
+Potbelly Streaky,5769,3.6,20
+Potbelly O Pos,5769,5.5,41
+Potbelly Ground Hog,5769,5.0,41
+Potbelly Aisling,5769,4.0,16
+Potbelly Inner Daze,5769,4.6,41
+Potbelly Captain Pouch,5769,3.8,16
+Potbelly Roy-Ale,5769,5.0,41
+Potbelly Sounder IPA,5769,7.5,1
+Potbelly Beijing Black,5769,4.4,9
+Potbelly Crazy Daze,5769,5.5,20
+Potbelly & Twickenham Joint Effort,5769,4.8,41
+Potbelly Made in England,5769,4.4,16
+Potbelly Piggys Crazy Cutter,5769,5.8,41
+Potbelly Best,5769,3.8,16
+Potbelly Welland Owd,5769,4.5,20
+Potbelly Teck t t Ride,5769,4.5,20
+Potbelly Old Barsteward,5769,4.5,16
+Potbelly Redwing,5769,4.8,41
+Potbelly Seaton,5769,4.3,16
+Potbelly Jingle Bellies,5769,5.0,70
+Potbelly Clippies Stout,5769,5.0,22
+TÜ 8 Pils,4413,4.9,39
+TÜ 8 Weizen,4413,5.2,40
+TÜ 8 Bockbier,4413,0.0,14
+Red Truck Big Black Bock,5359,7.2,46
+Red Truck Ale Limited Release,5359,7.2,70
+Taylors Crossing Witbier,5359,0.0,8
+Taylors Crossing Red Truck Dunkelweizen,5359,5.0,54
+Taylors Crossing Biere de Garde,5359,7.0,74
+Taylors Crossing Red Truck Altbier,5359,4.7,28
+Taylors Crossing Black Pepper and Red Wine Scotch Ale,5359,0.0,17
+Taylors Crossing Weizenbock,5359,6.5,58
+Taylors Crossing Barrel Oak-Aged Pale Ale,5359,0.0,27
+Taylors Crossing Traditional English Bitter,5359,4.5,16
+Taylors Crossing Scotch Ale &#40;4%&#41;,5359,4.0,23
+Taylors Crossing Two Lions Pale Ale,5359,5.0,38
+Red Truck Pilsner,5359,5.0,39
+Taylors Crossing Purple Nurple Hefeweizen,5359,5.3,40
+Taylors Crossing Scotch Ale,5359,6.5,23
+Taylors Crossing Brown Ale,5359,5.0,5
+Taylors Crossing Indian Arm IPA,5359,6.5,1
+Taylors Crossing Fig & Anise,5359,5.0,17
+Taylors Crossing Irish Honey Ale,5359,0.0,17
+Taylors Crossing Baden Powell Trail Cream Ale,5359,5.0,42
+Taylors Crossing Blueberry Ale,5359,6.0,36
+Taylors Crossing Red Truck Ale,5359,5.1,37
+Red Truck Golden Belgian Ale,5359,0.0,19
+Taylors Crossing Red Truck Lager,5359,4.8,33
+Red Truck Cascadian Dark Ale,5359,6.0,50
+Taylors Crossing Czech Pilsner,5359,5.0,2
+Taylors Crossing Roggenweizen,5359,5.0,68
+Taylors Crossing Mad Scow Stout,5359,4.2,22
+Taylors Crossing American ESB,5359,5.8,41
+Taylors Crossing Irish Ale,5359,4.0,16
+Taylors Crossing Juniper Cream Ale,5359,0.0,17
+Red Truck Porter,5359,0.0,15
+Taylors Crossing Amber Lager,5359,5.0,44
+Taylors Crossing Mole Stout,5359,5.0,17
+Taylors Crossing Alchemy &#40;BC Summer Ale&#41;,5359,0.0,20
+Peoples Pint Sprocket Kolsch,2,4.6,3
+Peoples Pint Winnies Original Wheat,2,5.9,29
+Peoples Pint Irish Red,2,0.0,52
+Peoples Pint Piece of the Pint,2,0.0,37
+Peoples Pint Spring IPA,2,9.0,11
+Peoples Pint Old Tangle Foot,2,11.0,45
+Peoples Pint Imperial Stout,2,9.2,18
+Peoples Pint Slippery Slope,2,9.5,63
+Peoples Pint Dark Helmüt,2,5.0,26
+Peoples Pint McShagger’s Double Ewe Scotch Ale,2,7.0,23
+Peoples Pint Summer Honey Wheat &#40;Shwheat&#41;,2,3.1,29
+Peoples Pint Hope Street ESB,2,5.1,41
+Peoples Pint Tap & Die,2,7.5,77
+Peoples Pint Oatmeal Stout,2,4.9,4
+Peoples Pint Winter Mild,2,0.0,9
+Peoples Pint Scotch Ale,2,7.0,23
+Peoples Pint Octoberfest,2,0.0,31
+Peoples Pint Pied PIPA,2,6.0,1
+Peoples Pint NOFA Summer Ale,2,0.0,27
+Peoples Pint Brakeshoe Porter,2,5.2,15
+Peoples Pint Xtra Ordinary,2,0.0,20
+Peoples Pint Wheelman’s Wheat,2,4.5,29
+Peoples Pint Farmer Brown,2,6.1,5
+Peoples Pint Dubl IPA,2,9.0,11
+Peoples Pint Broadfork Stout,2,3.0,71
+Peoples Pint Natural Blonde Ale,2,4.6,20
+Peoples Pint Provider Pale Ale,2,5.5,27
+Peoples Pint Doppelbock,2,7.5,46
+Peoples Pint Barrel Aged Slippery Slope,2,9.0,63
+Peoples Pint Tiger Bite,2,6.5,6
+Peoples Pint IPA,2,0.0,1
+Peoples Pint May Day,2,6.4,1
+Peoples Pint Poets Seat Pale Ale,2,5.0,38
+Peoples Pint People’s Pilsner,2,5.5,39
+Phoenix Ale Camelback IPA,13141,6.1,1
+Phoenix Ale Imperial Porter,13141,7.0,34
+Phoenix Ale Watermelon Ale,13141,4.8,36
+Phoenix Ale Fretzy’s Ale,13141,5.0,27
+Good People Recover Bama,9621,0.0,1
+Good People Snake Handler,9621,9.3,11
+Good People County Line Barrel Aged Coffee Oatmeal Stout,9621,6.4,4
+Good People IPA,9621,6.0,1
+Good People Spiced Pale Ale,9621,0.0,17
+Good People El Gordo Imperial Stout,9621,13.9,18
+Good People Stepchild Belgian India Red Ale,9621,7.8,6
+Good People Mumbai Rye IPA,9621,6.5,1
+Good People Snake Handler with Grapefruit and Tangerines,9621,9.3,11
+Good People Hitchhiker American IPA,9621,7.4,1
+Good People Coffee Oatmeal Stout,9621,6.0,4
+Good People Pale Ale,9621,5.6,27
+Good People Hawg Wash Belgian Pale Ale,9621,4.75,6
+Good People American Brown Ale,9621,5.8,5
+Good People Dark Saison,9621,7.15,25
+Good People County Line Brussels Stout,9621,6.6,22
+Good People Dirt Dauber Roggenbier,9621,4.7,68
+Good People Chili Cook-off Special Ale,9621,0.0,17
+Good People Fatso Imperial Stout,9621,8.5,18
+Good People Strongman Belgian Strong Dark Ale,9621,10.3,19
+Good People Brett IPA,9621,8.0,1
+Treuener Bock,8899,6.8,49
+Treuener Pilsner,8899,4.9,57
+Vogtland Bräu Spezial,8899,5.0,56
+Vogtland Bräu Schwarzbier,8899,4.8,65
+Echt Vogtländisches Hutzenbräu,8899,5.0,68
+Abita Jockamo IPA,1,6.5,1
+Abita Select Black IPA,1,7.0,50
+Abita Pecan Harvest Ale,1,5.0,37
+Abita Select Nut Brown Ale,1,0.0,5
+Abita Select Triple Haze,1,8.0,36
+Abita Fleur-de-Lis Restoration Ale,1,5.0,20
+Corkys Ale Memphis Brew,1,0.0,37
+Abita Select Weizenbock,1,8.0,58
+Abita Golden Lager,1,5.25,33
+Abita Select Imperial Stout,1,8.5,18
+Abita Bock,1,6.4,14
+Abita Select Vanilla Porter,1,6.4,15
+Abita Select Pale Ale,1,0.0,38
+Abita Select Kolsch,1,4.8,3
+Abita Select Belgian White,1,0.0,8
+Abita Louisiana Red Ale,1,5.0,37
+Abita Turbodog,1,6.13,5
+Abita Select Pecan Brown Ale,1,0.0,5
+Abita Select Hefe Weizen,1,0.0,40
+Abita Dunkelweizen,1,0.0,54
+Abita Select Barleywine,1,9.6,45
+Abita Purple Haze,1,4.75,36
+Abita Select Double IPA,1,9.0,11
+Abita Select Louisiana Oyster Stout,1,0.0,22
+Abita Munich Helles,1,0.0,56
+Abita Fall Fest,1,6.13,31
+Abita Select Double Rye Pale Ale,1,0.0,68
+Abita English Bitter,1,0.0,16
+Abita Select Bohemian Pilsner,1,0.0,2
+Abita Select Honey Rye Ale,1,7.0,17
+Abita SOS &#40;Save Our Shore&#41;,1,7.0,51
+Abita Select IPA,1,0.0,1
+Abita Select Amber Ale,1,0.0,37
+Abita Select Oatmeal Stout,1,6.0,4
+Abita Select Kristall Weizen,1,0.0,78
+Abita Blueberry Blues,1,5.0,36
+Abita Bourbon Barrel Aged Cask Turbodog,1,6.13,5
+Abita Doppelbock,1,8.0,46
+Abita Select Imperial Kolsch,1,8.0,48
+Abita Farmhouse Ale,1,0.0,25
+Abita Select Saison,1,0.0,25
+Abita Amber Lager,1,5.0,44
+Abita Select Imperial Pilsner,1,0.0,39
+Abita Select Four Grain Ale,1,0.0,27
+Abita Imperial Stout,1,6.0,22
+Abita Wheat,1,4.75,33
+Abita Satsuma Harvest Wit,1,5.1,8
+Abita Honey Rye,1,7.0,68
+Abita Select Extra Extra Strong Bitter &#40;ESB2&#41;,1,0.0,16
+Abita Andygator,1,8.0,14
+Abita 20th Anniversary Pilsner,1,5.0,39
+Abita Select Alt,1,0.0,28
+Abita Strawberry Harvest Lager,1,4.2,36
+Abita Golden Ale,1,0.0,20
+Abita Irish Ale,1,0.0,52
+Abita 25th Anniversary Vanilla Double Dog,1,7.0,48
+Abita Light,1,4.0,10
+Abita Abbey Ale,1,8.0,24
+Abita American Wheat,1,0.0,29
+Abita Christmas Ale,1,6.13,37
+Adlerbräu End Schwarzbier,1225,0.0,65
+Hetzel Voll Bier,1225,4.9,59
+Hetzel Frauendorfer Premium Landbier,1225,4.7,59
+Hetzel Frauendorfer Pils,1225,5.3,39
+Why Not On the Ball,6853,4.5,16
+Why Not Wallys Revenge,6853,4.0,16
+Why Not Norfolk Honey Ale,6853,5.0,20
+Why Not Roundhead Porter,6853,4.5,15
+Why Not Chocolate Nutter,6853,5.5,22
+Why Not Cavalier Red,6853,4.7,41
+Mount Rushmore Georges Summer Ale,3831,0.0,20
+Mount Rushmore Dirty Politics Double Black,3831,0.0,22
+Mount Rushmore Lincoln Logger,3831,0.0,76
+Mount Rushmore Roughrider Red,3831,0.0,76
+Mount Rushmore Washington Wheat,3831,0.0,29
+Böhringer Edelmärzen,11576,6.0,31
+Böhringer Pils,11576,4.8,57
+Wissey Valley Christmas Spice,3989,4.2,20
+Wissey Valley Cherry Porter,3989,4.7,15
+Wissey Valley Capn Grumpys Porthole,3989,4.6,16
+Wissey Valley Old Grumpys Bitter,3989,4.5,16
+Wissey Valley Ported Fruity Ale,3989,4.7,16
+Wissey Valley Capn Grumpys Best Bitter,3989,3.9,16
+Wissey Valley Bottoms Up,3989,5.0,41
+Wissey Valley Raspberry Blowers Ale,3989,4.7,20
+Wissey Valley Cherry Stout,3989,6.3,22
+Wissey Valley Maid of Ale,3989,5.1,20
+Wissey Valley Strawberry Blonde,3989,5.0,36
+Wissey Valley Khaki Sergeant,3989,6.7,22
+Craftsman Traditional Ale,3989,4.2,16
+Wissey Valley Wissey Gallop,3989,4.3,16
+Wissey Valley Rocket Fuel,3989,5.0,15
+Wissey Valley Lucious Lisa,3989,4.2,10
+Wissey Valley Forever Amber,3989,3.9,16
+Wissey Valley Soham Ale,3989,4.5,16
+Wissey Valley Santas Little Helper,3989,4.3,16
+Wissey Valley Eelcatcher,3989,4.8,41
+Wissey Valley Winter Spice,3989,3.8,16
+Wissey Valley Cherry Pickers,3989,6.0,36
+Wissey Valley Fruity Blonde,3989,4.7,20
+Wissey Valley Hopaholic 08,3989,4.0,16
+Wissey Valley Rubens Dark Ale,3989,3.8,9
+Wissey Valley Rampant Horse,3989,4.2,16
+Wissey Valley Old Grumpys Porter,3989,4.8,15
+Captain Grumpy Busted Flush,3989,4.5,16
+Wissey Valley Capn Grumpys Wild Widow Mild,3989,3.6,9
+Wissey Valley Valley Bitter,3989,3.9,16
+Wissey Valley Titash Ale,3989,5.0,41
+Wissey Valley Missy Wissey Blackberry Ale,3989,3.7,36
+Wissey Valley Liquorice Stout,3989,6.7,22
+Wissey Valley Peachy Ale,3989,4.5,16
+Wissey Valley Wassale,3989,5.0,70
+Wissey Valley A Wissey Wassdale,3989,4.4,16
+Wissey Valley Stoked Up,3989,4.7,41
+Wissey Valley Plain Blonde,3989,5.0,20
+Wissey Valley Snowdrift,3989,4.2,16
+Wissey Valley W.V.B.,3989,3.6,41
+Wissey Valley Wissey Dawn,3989,4.3,20
+Wissey Valley Stocking Filler,3989,3.8,16
+Wissey Valley Old Grumpys Dark Mild,3989,3.5,9
+Wissey Valley Blackberry Blonde,3989,4.7,20
+Wissey Valley Wild Widow Mild,3989,3.6,9
+Wissey Valley Wissey Mild,3989,3.8,9
+Wissey Valley Auld Spicy,3989,5.5,17
+Wissey Valley Golden Rivet,3989,5.2,20
+Iron Springs Shining Star Pale Ale,5892,5.0,27
+Iron Springs Anne Marie’s Amber,5892,5.25,37
+Iron Springs Rye The Funk Not?,5892,0.0,12
+Iron Springs Chazz Cat Rye,5892,5.0,68
+Iron Springs Bonnie Prince Charles,5892,0.0,21
+Iron Springs The Malice Bourbon Barrel Aged,5892,10.0,45
+Iron Springs JC Flyer IPA,5892,7.7,1
+Iron Springs The Malice,5892,10.0,45
+Iron Springs Oktoberfest,5892,6.3,31
+Iron Springs The Thriller,5892,5.8,27
+Iron Springs Quincentennial &#40;500&#41; Batch Trippel,5892,9.7,7
+Iron Springs The Crippla,5892,7.5,48
+Iron Springs Sless Stimulating Stout,5892,6.0,4
+Iron Springs Chazz Cat Rye Chardonnay Bbl,5892,6.5,68
+Iron Springs Kaz’s First Pitch Lager,5892,5.2,43
+2011 Symposium Oyster Stout,5892,6.5,22
+Iron Springs Edwins Oaked Winterscotch,5892,8.0,23
+Iron Springs Sleeping Lady Scotch Ale,5892,8.6,21
+Iron Springs Fairfax Coffee Porter,5892,5.5,15
+Iron Springs Edwin’s Winterscotch &#40;Bourbon Oak Aged&#41;,5892,0.0,23
+Iron Springs Honey Bunny Blonde,5892,5.8,20
+Iron Springs The Menace,5892,11.0,45
+Iron Springs Alsatian Pale Ale,5892,5.7,27
+Iron Springs Nut Brown Ale,5892,0.0,5
+Iron Springs Funky Brandy Barrel Winter Scotch,5892,8.0,12
+Iron Springs Summit IPA,5892,7.1,1
+Iron Springs Bear’s DeadicAle,5892,9.0,45
+Iron Springs Barstow Lundy Barleywine #1  &#40;Bourbon&#41;,5892,11.0,45
+Iron Springs Casey Jones Imperial IPA,5892,9.3,11
+Iron Springs Edwin’s Winter Scotch Ale,5892,8.6,23
+Iron Springs Alawicious Whit,5892,5.5,8
+Iron Springs Helles Angels Lager,5892,4.7,56
+Iron Springs Altmans Alt,5892,4.5,28
+Thomas Creek Class Five IPA,885,5.5,1
+Iron Springs Late Seasonal Draught,5892,5.7,41
+Iron Springs Epiphany Ale,5892,5.9,37
+Iron Springs Bothin Porter,5892,0.0,15
+Iron Springs The Dark Path Dark Lager,5892,5.5,65
+Iron Springs Black Magic Rye,5892,6.8,50
+Iron Springs The Malice Funked,5892,0.0,12
+Iron Springs Coco Brown,5892,6.5,5
+Iron Springs Falconers Flight Porter,5892,6.5,15
+Iron Springs High Mountain Wit,5892,5.3,8
+Iron Springs Bike Lane Brown,5892,5.0,5
+Iron Springs White’s Hill Wheat,5892,0.0,29
+Iron Springs Kent Lake Kolsch,5892,4.0,3
+Iron Springs Fairfax Coffee Stout,5892,0.0,22
+Iron Springs Macleans Scotch Ale,5892,6.5,23
+Iron Springs Czechered Past Pilsner,5892,0.0,2
+River City Brewing Schwarze Weizen,1497,0.0,65
+River City Brewing Hefeweizen,1497,4.25,29
+River City Brewing Pile Driver Pale,1497,6.5,27
+River City Brewing IPA,1497,6.3,1
+River City Brewing English Style Summer Ale,1497,4.5,42
+River City Brewing Woody Porter,1497,0.0,15
+River City Brewing Hop Harvest Ale,1497,0.0,27
+River City Brewing Nut Brown Ale,1497,0.0,5
+River City Brewing Spiced Winter Brown,1497,6.8,17
+River City Brewing Pale Ale &#40;CA&#41;,1497,5.0,38
+River City Brewing Black River &#40;N2&#41; Stout,1497,4.2,71
+River City Brewing Belgian Triple,1497,8.6,7
+River City Brewing K Street Kolsch,1497,4.25,3
+River City Brewing Consternation,1497,0.0,12
+River City Brewing Vienna,1497,5.5,44
+River City Brewing Scotch Ale,1497,0.0,23
+River City Brewing Doppelbock,1497,7.8,46
+River City Brewing Belgian White &#40;CA&#41;,1497,4.0,8
+River City Brewing Belgian Abbey,1497,5.75,24
+River City Brewing Uber Dunkelweizen,1497,8.6,54
+River City Brewing Best Bitter,1497,4.5,16
+River City Brewing Pile Driver Porter,1497,6.5,15
+River City Brewing Tappin’ O the Irish Red,1497,6.3,37
+River City Brewing Double Oatmeal Stout,1497,8.0,18
+River City Brewing Springbock,1497,6.75,49
+River City Brewing Brians Bitter,1497,0.0,9
+River City Brewing Robust Porter,1497,6.8,15
+River City Brewing Woodenhead Ale,1497,7.2,37
+River City Brewing Double Woodenhead,1497,8.2,48
+River City Brewing Irish Red Rye Ale,1497,0.0,68
+River City Brewing Bergamot IPA,1497,6.0,1
+River City Brewing Cap City Pale Ale,1497,4.65,27
+River City Brewing Dunkel Weizen,1497,0.0,54
+River City Brewing Oktoberfest &#40;CA&#41;,1497,6.75,31
+River City Brewing Coffee Porter,1497,0.0,15
+River City Brewing Brown Ale,1497,5.5,5
+Colonia Esperanza Brown,6261,0.0,5
+Colonia Esperanza Roja,6261,0.0,37
+Blicks Corkscrew Porter,1254,0.0,15
+Blicks McTwist Scottish Ale,1254,0.0,21
+Blicks Blind Side Pale Ale,1254,0.0,27
+Blicks 540 Hefeweizen,1254,0.0,40
+Blicks Boardslide IPA,1254,0.0,1
+Blicks Misty Flips Red Ale,1254,0.0,37
+Dieter Handke Honigwein Halbtrocken,12958,14.0,63
+Dieter Handke Honigwein Lieblich,12958,12.0,63
+Porterhouse Celebration Stout &#40;2010&#41;,2098,7.0,18
+Porterhouse Hop Head,2098,4.8,27
+Porterhouse Alt,2098,4.6,28
+Porterhouse Red Ale,2098,4.4,52
+Porterhouse Down ’n’ Outz,2098,5.0,39
+Porterhouse TSB,2098,3.7,16
+Porterhouse Original Munchner Dunkel,2098,5.6,26
+Porterhouse Plain Porter,2098,5.0,71
+Porterhouse Bock,2098,0.0,49
+Porterhouse Celebration Stout &#40;2006&#41;,2098,10.0,18
+Porterhouse Kolsch,2098,4.4,3
+Porterhouse Vienna Dark Lager,2098,5.0,44
+Porterhouse Wrasslers XXXX Stout,2098,5.0,71
+Porterhouse Temple Brau,2098,4.3,33
+Porterhouse Chiller,2098,4.2,33
+Porterhouse Haus Weiss,2098,4.3,40
+Porterhouse Konrad,2098,6.0,26
+Porterhouse Oyster Stout,2098,4.8,22
+Porterhouse Chocolate Truffle Stout,2098,5.0,4
+Porterhouse Hersbrucker,2098,5.0,57
+Porterhouse Brainblásta,2098,7.0,70
+Mays Finest Herefordshire Medium Cider,10833,5.5,55
+Mays Special Reserve,10833,7.0,55
+Community Tap Trifecta IPA,12644,6.9,1
+Sudhang-Bräu Märzen,5246,5.5,31
+Sudhang-Bräu Mariahilfberg Dunkel,5246,5.1,26
+Aotearoa Mata Horopito Wheat Beer,7768,5.0,17
+Aotearoa Mata Artesian,7768,5.0,3
+Aotearoa Mata Blondie,7768,5.0,8
+Aotearoa Mata Feijoa,7768,4.5,36
+Aotearoa Mata Manuka,7768,5.0,20
+Aotearoa Mata Black-Bru,7768,5.0,22
+Aotearoa Mata Taniwha,7768,7.0,35
+Aotearoa Mata Brown-Boy,7768,5.0,37
+Anglo Dutch Dusk till Dawn,2810,4.0,20
+Partners &#40;Anglo Dutch&#41; The Devil’s Knell,2810,4.8,41
+Partners &#40;Anglo Dutch&#41; Aspistus,2810,4.0,20
+Anglo Dutch Pacific Gem,2810,3.8,20
+Anglo Dutch God’s Own Ale,2810,4.2,20
+Partners &#40;Anglo Dutch&#41; Kletswater,2810,4.0,16
+Anglo Dutch Jasper’s Pale Ale,2810,4.4,20
+Anglo Dutch Spring Ale,2810,3.9,20
+Anglo Dutch At t’ Ghoul & Ghost &#40;Bottle&#41;,2810,5.2,41
+Anglo Dutch Yorkshire Relish,2810,4.7,16
+Anglo Dutch Imperial Pale Ale,2810,5.0,41
+Anglo Dutch Autumn Ale,2810,0.0,16
+Anglo Dutch Aunt Agatha,2810,4.2,20
+Anglo Dutch Midsummer Ale,2810,4.0,20
+Anglo Dutch Crown Imperial,2810,4.6,41
+Anglo Dutch Sarah Barnes’ Stark Raven Wild,2810,6.0,72
+Anglo Dutch Aye Thats Stout,2810,4.0,22
+Anglo Dutch Giddy Kipper,2810,3.8,16
+Anglo Dutch Two Man,2810,4.4,16
+Anglo Dutch Heaven Scent,2810,4.7,20
+Anglo Dutch Ghost On The Rim,2810,4.5,16
+Anglo Dutch Mild Rabarber,2810,4.0,9
+Partners &#40;Anglo Dutch&#41; Tabatha the Knackered,2810,6.0,7
+Anglo Dutch Grand Job,2810,3.9,16
+Partners &#40;Anglo Dutch&#41; Spike’s On T’Way,2810,4.2,20
+Anglo Dutch Auntie Glad’s Ghoul,2810,5.2,20
+Anglo Dutch Jasper’s Ale,2810,4.4,16
+Anglo Dutch At t’Ghoul & Ghost &#40;Cask&#41;,2810,5.2,41
+Anglo Dutch Crunch Tout,2810,4.0,16
+Anglo Dutch Magnum,2810,3.7,16
+Anglo Dutch Old Staff,2810,4.2,16
+Partners &#40;Anglo Dutch&#41; Shoddy Porter,2810,4.5,15
+Anglo Dutch Best Bitter,2810,3.8,16
+Anglo Dutch Special,2810,4.3,16
+Anglo Dutch By Thor,2810,3.9,16
+Anglo Dutch Artillery Ale,2810,4.6,16
+Anglo Dutch When You’re in a Hole Stop Digging,2810,5.0,41
+Anglo Dutch Mitch’s Brew,2810,4.1,16
+Anglo Dutch Joys Of Spring,2810,3.9,20
+Anglo Dutch Sweet Jane,2810,4.0,20
+Anglo Dutch Tabaatje,2810,5.0,20
+Mill City Boarding House Pale Ale,289,5.0,27
+Concord Rapscallion White Ale,289,4.6,8
+Concord North Woods Ale,289,6.0,70
+Concord Harvard Special Reserve Lager,289,5.0,26
+Concord Extra-Pale Honey Ale,289,4.5,38
+Concord Pale Ale,289,5.0,27
+Concord Rapscallion Bier Noel,289,0.0,17
+Concord Special Reserve ESB,289,4.8,41
+Concord Junction Porter,289,5.5,15
+Mill City Harvard Lager,289,5.0,10
+Concord IPA,289,6.0,1
+Mill City Oatmeal Stout,289,5.0,22
+Sherwood Forest Maple Porter,289,5.0,15
+Concord Grape Ale,289,4.5,36
+Concord Rapscallion Creation,289,9.5,48
+Magnotta Iced Apple,10324,9.5,69
+Aldi Church’s Alcoholic Ginger Beer,12454,4.0,17
+Aldi  I.P.A.,12454,5.0,41
+Finchley’s Ales Golden Pale Ale,12454,4.2,16
+Aldi Treble XB English Bitter,12454,4.7,41
+Staroslav Export Czech Pilsner,12454,4.0,2
+Finchley’s Ales India Pale Ale,12454,4.5,16
+Holy Mackerel Special Golden Ale,885,8.5,19
+Thomas Creek Oktoberfest,885,4.5,31
+Kind Beers Belgian Red Ale,885,6.0,6
+O’Dempsey’s Your Black Heart,885,8.0,18
+Monk in the Trunk Organic Amber Ale,885,5.5,37
+Thomas Creek Belgian IPA,885,0.0,6
+Thomas Creek Dockside Pilsner,885,4.5,39
+Kind Beers Pale Ale,885,7.3,27
+Thomas Creek Stillwater Vanilla Cream Ale,885,4.5,42
+Pig Swig Pig Pen Pilsner,885,4.5,39
+Wild Heaven Ode To Mercy Special Winter Ale,885,8.2,5
+Thomas Creek Appalachian Amber Ale,885,5.5,37
+Wild Heaven Invocation,885,8.5,6
+Thomas Creek Dirty Monk Belgian Porter,885,6.5,6
+Charleston Lagerhead Lager,885,5.11,56
+Thomas Creek Banana Split Stout,885,0.0,4
+Mobius,885,0.0,17
+Sapphire Mountain Whisper Lake Pilsner,885,4.5,39
+Pig Swig Pig Tail Ale,885,5.5,37
+Thomas Creek Oak Aged Pumphouse Porter,885,0.0,15
+Pig Swig Sevin Swines ’a Swigging Ale,885,6.3,17
+Thomas Creek Dopple-Cocoa-Bock,885,8.0,46
+Kind Beers Imperial Pale Ale,885,10.0,11
+Thomas Creek T-Bone’s Love Potion,885,0.0,36
+Thomas Creek River Falls Red Ale,885,5.63,52
+Kind Beers Coffee Oatmeal Stout,885,8.0,18
+Monday Night Eye Patch Ale &#40;IPA&#41;,885,6.2,1
+Orange Blossom Pilsner Squared &#40;OBP 2&#41;,885,11.0,51
+Woodstock Pilsner,885,5.4,39
+Thomas Creek Imperial Oak,885,9.0,11
+Thomas Creek Jingle Bell Bock,885,5.7,46
+Thomas Creek Multi Grain,885,4.4,68
+Velichovsky Forman,9402,3.7,2
+Hopfenstark Saison Station 10 Bière Sure,8201,5.0,25
+Flibre Givr Ice Cider,5240,11.0,69
+Eldridge Pope Thomas Hardys Ale,5635,11.7,45
+Red Brick Winter Brew,14,8.2,19
+Lagunitas Censored Kronik,1167,6.75,37
+Iron Springs Barstow Lundy Barleywine #2,5892,11.0,45
